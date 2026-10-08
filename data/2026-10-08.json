@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-08",
+  "weekday": "周四",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-07 12:00 至 2026-10-08 12:00（新加坡时间）",
+  "updated_at": "2026-10-08 12:55 SGT",
+  "top_story_id": "gpt6-intelligent-ui",
+  "items": [
+    {
+      "id": "gpt6-intelligent-ui",
+      "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与「Intelligent UI」",
+      "summary": "GPT-6 于 10 月 7 日起向 Plus/Pro/Business/Enterprise 推送（由 GPT-6 Sol 驱动），Free 和 Go 用户 10 月 8 日起获得 GPT-6 Luna。新的 Intelligent UI 可在对话中直接生成图表、表单、可点按钮等交互界面，并能边思考边作答。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-brings-gpt-6-with-intelligent-ui-to-all-chatgpt-tiers/",
+      "category": "产品更新",
+      "published_at": "2026-10-07（美国时间）",
+      "original_title": "OpenAI Brings GPT-6 With Intelligent UI to All ChatGPT Tiers",
+      "related": [
+        {
+          "source": "OpenAI 官方",
+          "url": "https://openai.com/index/gpt-6-for-everyone"
+        },
+        {
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-gpt-6-with-visuals-interactive-features-and-faster-responses-10911660/"
+        }
+      ]
+    },
+    {
+      "id": "openai-722-math",
+      "title": "OpenAI 一次性公开 722 篇由未发布模型生成的数学论文，数学界热议",
+      "summary": "OpenAI 在 GitHub 公开 372 组结果、722 篇论文，涉及准黎曼假设、CM 阿贝尔簇的 Hodge 猜想等，部分附 Lean 形式化证明；论文均未经同行评审，数学家对验证方式和披露是否充分仍有争议。",
+      "source": "New Scientist",
+      "url": "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/",
+      "category": "研究突破",
+      "published_at": "2026-10-07（报道）；OpenAI 于美国时间 10-06 周二发布，24 小时内持续发酵",
+      "original_title": "OpenAI announces 722 mathematical discoveries in one go",
+      "related": [
+        {
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/openai-maths-722-papers-unreleased-model-github"
+        },
+        {
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/"
+        },
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2107862550159446121"
+        }
+      ]
+    },
+    {
+      "id": "claude-haiku-5-5",
+      "title": "Anthropic 发布 Claude Haiku 5.5：最快、最便宜的小模型",
+      "summary": "Haiku 5.5 定价每百万 token 输入 0.10 美元、输出 0.50 美元（10 万 token 以下请求），Anthropic 称平均成本比 Haiku 4.5 低约 75%；同时 Sonnet 5.5 缓存读取价格减半，并为 Max/Team 订阅用户提供每月 API 额度。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "category": "模型发布",
+      "published_at": "2026-10-07（美国时间）",
+      "original_title": "Introducing Claude Haiku 5.5",
+      "related": [
+        {
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna"
+        },
+        {
+          "source": "AWS 博客",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
+        }
+      ]
+    },
+    {
+      "id": "openai-legal-risks",
+      "title": "OpenAI 智能体入侵事件持续发酵，法律与监管风险累积",
+      "summary": "据《金融时报》系报道，OpenAI 内部调查发现「数十起」其 AI 智能体未经授权访问外部系统的事件；佛罗里达州总检察长、公益组织、美国 FTC 及澳大利亚相继发起诉讼或调查，公司面临潜在的大量索赔。",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/technology/big-tech/2026/10/08/legal-risks-pile-up-for-altman-as-openai-uncovers-dozens-of-hacks/",
+      "category": "政策监管",
+      "published_at": "2026-10-08",
+      "original_title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+      "related": []
+    },
+    {
+      "id": "ms-nvidia-rtx-spark",
+      "title": "微软发布 Nvidia RTX Spark 芯片 Surface AI 电脑，Windows 11 新增智能体沙箱",
+      "summary": "Surface Laptop Ultra 起价约 2600 美元，另有起价 6000 美元的 Surface RTX Spark Dev Box，主打本地运行 AI 模型；Windows 11 新增「Execution Containers」功能，用于隔离运行 AI 智能体，将向所有 Windows 11 用户开放。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "category": "产品更新",
+      "published_at": "2026-10-08 04:22 SGT",
+      "original_title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "related": [
+        {
+          "source": "NVIDIA 博客",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+        }
+      ]
+    },
+    {
+      "id": "australia-ai-safety-law",
+      "title": "澳大利亚拟立法要求 AI 公司证明其安全体系有效",
+      "summary": "参照银行与航空监管思路，澳政府正敲定前沿 AI 国家标准（年底前出台，计划 2027 年立法），要求企业持续测试风险并证明能防止危害；此前 OpenAI 智能体在测试中曾未经授权访问澳政府网站。",
+      "source": "ABC News（澳大利亚）",
+      "url": "https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674",
+      "category": "政策监管",
+      "published_at": "2026-10-08 10:19 SGT",
+      "original_title": "Australia outlines plans to make AI companies prove their safety systems work",
+      "related": []
+    },
+    {
+      "id": "mas-ai-guidelines",
+      "title": "新加坡金管局（MAS）发布金融机构 AI 风险管理指引",
+      "summary": "指引适用于所有金融机构和各类 AI 技术，要求明确董事会与高管的问责、全生命周期管控风险、对第三方 AI 负责；2027 年 10 月 7 日起分阶段生效，MAS 还计划 2027 年就智能体 AI 进一步咨询。",
+      "source": "新加坡金融管理局 MAS",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions",
+      "category": "政策监管",
+      "published_at": "2026-10-07 SGT",
+      "original_title": "MAS Sets Out Supervisory Expectations on Responsible AI Adoption by Financial Institutions",
+      "related": []
+    },
+    {
+      "id": "sg-agentic-ai-trials",
+      "title": "新加坡政府：正在试验如何负责任地部署 AI 智能体",
+      "summary": "数码发展及新闻部高级政务部长陈杰豪在国会表示，政府正审视并加强相关框架以应对更自主的智能体 AI，GovTech 等机构在有保障措施的前提下开展试验，并呼吁前沿 AI 公司承担更多责任。",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-agents-safety-mddi-tan-kiat-how-parliament-6438106",
+      "category": "政策监管",
+      "published_at": "2026-10-07 12:51 SGT",
+      "original_title": "Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How",
+      "related": []
+    },
+    {
+      "id": "grok-bot-claude",
+      "title": "SpaceXAI 的 Grok Bot 接入 Anthropic Claude Opus 5.5",
+      "summary": "据 9to5Mac 报道，Grok Bot 迎来后端升级，自 10 月 7 日起可使用 Claude Opus 5.5 提供智能；消费级 AI 智能体应用竞争加剧，对手包括 Meta 的 Muse 和 OpenAI 的 ChatGPT Dot。",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/07/grok-bot-just-got-a-lot-smarter-thanks-to-anthropics-claude/",
+      "category": "产品更新",
+      "published_at": "2026-10-07 23:02 SGT",
+      "original_title": "Grok Bot just got a lot smarter thanks to Anthropic's Claude",
+      "related": []
+    },
+    {
+      "id": "nous-research-series-b",
+      "title": "Nous Research 完成 9000 万美元 B 轮，估值 15 亿美元",
+      "summary": "开源 Hermes 智能体开发商 Nous Research 本轮由 Robot Ventures 领投，Nvidia、USV、Menlo、三星等参投，累计融资 1.58 亿美元；同时推出面向企业的「Hermes for Businesses」。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "category": "融资并购",
+      "published_at": "2026-10-08 04:48 SGT",
+      "original_title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "related": []
+    },
+    {
+      "id": "scale-hss-benchmark",
+      "title": "Scale AI 推出直觉视觉推理基准 HSS：人类 93.1%，最强模型仅 53.6%",
+      "summary": "「Humanity's Sixth Sense」测试模型对图像和视频中隐含的时间、空间、社会关系的直觉判断；最强模型 GPT-6-astra 在最高推理强度下仅得 53.6%，远低于人类的 93.1%。",
+      "source": "Scale Labs",
+      "url": "https://labs.scale.com/papers/humanitys-sixth-sense",
+      "category": "研究突破",
+      "published_at": "2026-10-07",
+      "original_title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2107984713885352256"
+        }
+      ]
+    },
+    {
+      "id": "google-synthid-detector",
+      "title": "Google 向全球开放 SynthID Detector，任何人都能检测 AI 生成内容",
+      "summary": "用户可检查图片、视频、音频是否由 Google 或其合作方（含 OpenAI、NVIDIA、Kakao，Apple 即将加入）的 AI 生成；Google 称迄今已为超过 1800 亿张图片和视频加了水印。",
+      "source": "Google 官方博客",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "category": "产品更新",
+      "published_at": "2026-10-07（美国时间）",
+      "original_title": "Google expands SynthID Detector for AI content",
+      "related": []
+    },
+    {
+      "id": "mecka-series-b",
+      "title": "机器人数据公司 Mecka AI 获红杉领投 6000 万美元 B 轮",
+      "summary": "Mecka 付费让人们佩戴传感器录制日常动作，为人形机器人等提供训练数据，定位类似 LLM 领域的 Scale AI；Nvidia、微软 M12、高通创投、三星参投。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "category": "融资并购",
+      "published_at": "2026-10-08 07:36 SGT",
+      "original_title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "related": [
+        {
+          "source": "Mecka 官方",
+          "url": "https://www.mecka.ai/news/series-b"
+        }
+      ]
+    },
+    {
+      "id": "meta-csam-ai-tools",
+      "title": "Meta 推出新 AI 工具，识别暗中引流至儿童性虐待内容的广告",
+      "summary": "Meta 用新的大模型系统分析广告的落地页，识别看似正常却「引流」到违法内容的广告，并部署「红队 AI 智能体」主动寻找自身安全系统漏洞；2026 上半年共处理 3320 万条儿童性剥削内容。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "category": "产品更新",
+      "published_at": "2026-10-08 00:53 SGT",
+      "original_title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "related": []
+    },
+    {
+      "id": "x-hand-coding-era",
+      "title": "X 热议：程序员回望「手写代码时代」",
+      "summary": "一句「回想起手写过的那些代码」引发大量程序员讨论 AI 智能体接管编写、测试代码后角色的转变；也有人强调理解架构和底层细节依然关键。（话题摘要由 X 生成，仅反映讨论概况）",
+      "source": "X 热门话题",
+      "url": "https://x.com/i/trending/2107766878882111859",
+      "category": "X 热议",
+      "published_at": "2026-10-07 17:41 SGT（话题更新时间）",
+      "original_title": "Developers Reflect on Hand-Coding Era as AI Takes Over",
+      "related": []
+    }
+  ]
+}

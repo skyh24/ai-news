@@ -1,0 +1,55 @@
+# 每次 push 到 main 时，用 build.py 重新生成页面并部署到 GitHub Pages。
+# GITHUB_TOKEN 只能向已经启用的 Pages 发布，不能首次打开 Pages。
+# configure-pages 的 enablement 需要非 GITHUB_TOKEN（PAT 的 repo 范围，或 GitHub App 的 administration:write 与 pages:write）。
+# 因此这里不设置 enablement。仓库管理员需在 Settings → Pages → Build and deployment → Source 选择 GitHub Actions。
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build site
+        run: python3 build.py
+
+      # 站内链接必须是相对路径，才能在 /ai-news/ 前缀下解析正确。
+      - name: Check relative links
+        run: python3 check_links.py
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: .
+          # .nojekyll 是隐藏文件，默认不会打进产物。
+          include-hidden-files: true
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
