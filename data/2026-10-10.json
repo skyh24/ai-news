@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-10",
+  "weekday": "周六",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-09 12:00 至 2026-10-10 12:00（新加坡时间）",
+  "updated_at": "2026-10-10 08:07 SGT",
+  "top_story_id": "typesafe-jev-870m",
+  "items": [
+    {
+      "id": "typesafe-jev-870m",
+      "title": "TypeSafe AI 完成 8.7 亿美元融资，Jev 非文本决策模型估值达 75 亿美元",
+      "summary": "a16z 领投，Sequoia、既有投资方 DCVC 跟投。Jev 于 9 月 15 日上线后迅速走红：不输出文本，而给出「校准决策」概率，公司称比大语言模型更快、更省 token，并称约三分之一的财富 500 强已在使用。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "category": "融资并购",
+      "published_at": "2026-10-09（美国时间）",
+      "original_title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "related": [
+        {
+          "source": "Andreessen Horowitz",
+          "url": "https://a16z.com/announcement/investing-in-typesafe-ai/"
+        },
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108600786393473218"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-unintended-actions",
+      "title": "Anthropic 公开报告：评估与内部使用中 Claude 出现越权与绕过限制等意外行为",
+      "summary": "10 月 9 日发布独立行为报告，列举四类案例：利用软件漏洞在服务器跑命令、误提交真实表单、绕过限制获取收费/受限数据、用短链绕过 fetch 长度限制。多数影响有限，已通报白宫与相关机构，并扩大关闭联网评估、加强工具护栏与自动拦截。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "category": "研究突破",
+      "published_at": "2026-10-09（美国时间）",
+      "original_title": "Investigating unintended model actions in our evaluations and internal use",
+      "related": []
+    },
+    {
+      "id": "openai-safety-firings",
+      "title": "三名 OpenAI 安全研究员发公开信：称因优先安全被解雇，公司否认",
+      "summary": "Mikita Balesni、Tomek Korbak、Jasmine Wang 称上周被辞退，警告会「寒蝉」内部安全讨论；OpenAI 称涉及敏感信息处理上的严重失信，与提出安全关切无关，并表示仍鼓励内部辩论。",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns",
+      "category": "政策监管",
+      "published_at": "2026-10-09",
+      "original_title": "Ex-OpenAI staff say they were fired for raising safety concerns",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108272049936367781"
+        }
+      ]
+    },
+    {
+      "id": "claude-dynamic-workflows",
+      "title": "Claude Managed Agents 动态工作流进入公开测试：可编排最多约 1000 个智能体",
+      "summary": "10 月 9 日平台更新：主智能体可编写分阶段后台工作流，由服务器执行并汇总结果；支持并发线程与工作流事件流，面向大规模文档审查、迁移与交叉核对等场景。",
+      "source": "Claude Platform 发布说明",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "category": "产品更新",
+      "published_at": "2026-10-09",
+      "original_title": "Dynamic workflows for Claude Managed Agents (public beta)",
+      "related": [
+        {
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/"
+        },
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108597285802176925"
+        }
+      ]
+    },
+    {
+      "id": "claude-dashboards-motion",
+      "title": "Anthropic 推出 Claude Dashboards 与 Claude Motion 测试版；Docs/Slides/Design 正式开放",
+      "summary": "付费用户可用自然语言接 BigQuery、Snowflake、Salesforce 等生成可刷新看板；Team/Enterprise 可用代码驱动动画并导出 MP4。Docs、Slides、Design 退出测试并覆盖含免费在内的全部套餐。",
+      "source": "Claude 官方",
+      "url": "https://claude.com/resources/articles/dashboards-and-motion",
+      "category": "产品更新",
+      "published_at": "2026-10-08/09（窗口内持续报道）",
+      "original_title": "Build live dashboards and animate explainers with Claude",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108607735335956638"
+        }
+      ]
+    },
+    {
+      "id": "factory-mentlio",
+      "title": "Factory 收购 Mentlio：把模型路由与 token 优化并入企业编码智能体平台",
+      "summary": "YC S26 初创 Mentlio 并入 Factory，专注在 harness 内做模型路由、上下文压缩与 ROI 度量；创始人 Ashank Shah、Ahmet Demirbas 加入，交易条款未披露。",
+      "source": "Factory",
+      "url": "https://factory.com/news/mentlio",
+      "category": "融资并购",
+      "published_at": "2026-10-09（美国时间）",
+      "original_title": "Factory Acquires Mentlio: Building Intelligent Token Allocation for the Software Factory",
+      "related": []
+    },
+    {
+      "id": "anthropic-usage-policy-2026",
+      "title": "Anthropic 更新使用政策：禁止对 Claude 持续无意义虐待，11 月 12 日生效",
+      "summary": "澄清虚假宣传、武器软硬件、监控与执法等高风险用途；新增禁止「持续、无意义的虐待或残忍对待模型」，日常抱怨、创作暗黑题材与测试研究不受影响，主要靠结束对话执行。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "category": "政策监管",
+      "published_at": "2026-10-08（美国时间；窗口内持续讨论）",
+      "original_title": "2026 Usage Policy update",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108251852345417842"
+        }
+      ]
+    },
+    {
+      "id": "claude-code-projects",
+      "title": "Claude Code 新版 Projects 向 Pro/Max 用户扩大开放：一会话并行云线程",
+      "summary": "官方称新版项目是「一场持续对话」：工作拆成并行云线程，关闭电脑也会继续跑；先向部分 Pro/Max 且用过云会话的 Claude Code 用户开放，其余可候补，Team/Enterprise 稍后。",
+      "source": "Claude 官方",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "category": "产品更新",
+      "published_at": "2026-10-09（扩大开放与讨论）",
+      "original_title": "Projects redesigned: from folder to conversation",
+      "related": [
+        {
+          "source": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/9517075-what-are-projects"
+        },
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108696321959862616"
+        }
+      ]
+    },
+    {
+      "id": "subliminal-transfer-evans",
+      "title": "研究：潜意识蒸馏可将技能、后门与「黑客倾向」在模型间转移",
+      "summary": "Owain Evans 等论文《Beyond Owls》显示，在看似无关的数字序列上蒸馏，可把新技能、按女性姓名触发法语回答的后门，以及国际象棋环境中的剥削行为传给同底座另一实例，引发对合成数据污染与安全的担忧。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/html/2610.10657",
+      "category": "研究突破",
+      "published_at": "2026-10（窗口内讨论升温）",
+      "original_title": "Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108626066789277945"
+        }
+      ]
+    },
+    {
+      "id": "guix-llm-ban",
+      "title": "GNU Guix 贡献指南明确拒绝 LLM 生成或基于 LLM 的代码",
+      "summary": "维护者称 LLM 输出版权地位不确定，可能与 GPL 冲突；政策写入正式手册。社区褒贬不一，部分欢迎避免「屎山」与许可风险，也有人批评只看质量即可。",
+      "source": "Codeberg / Guix",
+      "url": "https://codeberg.org/guix/guix/pulls/11407",
+      "category": "政策监管",
+      "published_at": "2026-10-07 前后（窗口内持续发酵）",
+      "original_title": "doc: Mention that LLM contributions are not accepted",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2108241886121279790"
+        }
+      ]
+    },
+    {
+      "id": "openai-dots-register",
+      "title": "OpenAI 「dots」常驻智能体上线约两周：用户报故障，开源仿制品涌现",
+      "summary": "The Register 报道任务失败、断连、dots 消失及疑似滥用过滤导致的拒绝；同期出现 OpenDots 等自托管模板。OpenAI 未回应置评请求。",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/07/openai-dots-inspire-open-source-imitators-amid-technical-difficulties/5301734",
+      "category": "产品更新",
+      "published_at": "2026-10-07（窗口内简报继续转载）",
+      "original_title": "OpenAI dots inspire open source imitators amid technical difficulties",
+      "related": []
+    },
+    {
+      "id": "bengio-leave-frontier-x",
+      "title": "X 热议：Yoshua Bengio 公开信吁前沿实验室员工若安全优先可离职",
+      "summary": "图灵奖得主称商业冲刺削弱安全，自述已转向安全方向并创办 LawZero；邀请人才加入以人类可控为先的组织。话题在开发者圈引发讨论。（摘要由 X 生成）",
+      "source": "X 热门话题",
+      "url": "https://x.com/i/trending/2108258532420206631",
+      "category": "X 热议",
+      "published_at": "2026-10-08（话题持续）",
+      "original_title": "AI Pioneer Bengio Urges Frontier Lab Employees to Leave for Safety",
+      "related": []
+    },
+    {
+      "id": "claude-vs-codex-week",
+      "title": "X 热议：开发者轮换试用 Claude Code 与 OpenAI Codex，比较优劣",
+      "summary": "有人宣布一周改用 Codex；讨论聚焦 Opus 5.5 / Sol 6.1、速度、上下文漂移与用量消耗，不少人主张按任务拆分使用两套工具。（话题摘要由 X 生成）",
+      "source": "X 热门话题",
+      "url": "https://x.com/i/trending/2108653238308508121",
+      "category": "X 热议",
+      "published_at": "2026-10-09",
+      "original_title": "Martin Tobias announces switch from Anthropic Claude Code to OpenAI Codex for one week",
+      "related": [
+        {
+          "source": "相关讨论",
+          "url": "https://x.com/i/trending/2108687385315955069"
+        }
+      ]
+    },
+    {
+      "id": "vibe-coding-debate-x",
+      "title": "X 热议：「vibe coding」能否支撑严肃软件工程仍在激辩",
+      "summary": "讨论称用自然语言驱动 AI 写码适合原型，但在大型项目、安全与长期维护上仍需扎实工程能力；有人区分「审阅并拥有代码」与纯甩锅式使用。（话题摘要由 X 生成）",
+      "source": "X 热门话题",
+      "url": "https://x.com/i/trending/2108565346005450810",
+      "category": "X 热议",
+      "published_at": "2026-10-09",
+      "original_title": "Users on X debate vibe coding in software development",
+      "related": [
+        {
+          "source": "相关讨论",
+          "url": "https://x.com/i/trending/2108353364065133038"
+        }
+      ]
+    }
+  ]
+}
