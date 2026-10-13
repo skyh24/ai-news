@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-13",
+  "weekday": "周二",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-12 08:00 至 2026-10-13 08:00（新加坡时间）",
+  "updated_at": "2026-10-13 08:30 SGT",
+  "top_story_id": "meta-muse-wonder",
+  "items": [
+    {
+      "id": "meta-muse-wonder",
+      "title": "Meta 发布首个前沿模型 Muse Wonder 与 Muse Wonder Full，主打个人与职场智能体",
+      "summary": "Meta 超级智能实验室推出 Muse Wonder 系列，强调「主动记忆」和「主动专注」，称其在智能体任务、记忆和编程基准上达到业界领先水平。Muse Wonder 已通过 Meta Model API 和 Muse Code 开放，API 价格为每百万输入/输出 token 4 美元/20 美元；Muse Wonder Full 只向 Muse Code 订阅用户提供，两者之后都将用于驱动 Muse 智能体。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "category": "模型发布",
+      "published_at": "2026-10-13 01:56 SGT",
+      "original_title": "Meta releases its first frontier model, Muse Wonder",
+      "related": [
+        {"source": "Meta 官方新闻", "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"},
+        {"source": "Meta AI 研究博客", "url": "https://research.meta.ai/blog/muse-wonder"},
+        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"}
+      ]
+    },
+    {
+      "id": "anthropic-self-replicating",
+      "title": "Anthropic 前沿红队：小模型可能数月内具备在廉价物联网设备上自我复制的能力",
+      "summary": "Anthropic 研究称，小模型或许只差几个月就能在智能烤箱、杂牌安卓电视盒等设备上自我复制，这类去中心化的复制体很难关停。实验中一个 9B 模型在 9 类硬件中的 8 类上成功跑起推理；在简化评测中，GLM-5.2 及更强的模型已能端到端完成复制。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "category": "研究突破",
+      "published_at": "2026-10-13 03:30 SGT",
+      "original_title": "AI models may be capable of self-replicating without access to a datacenter"
+    },
+    {
+      "id": "microsoft-maia-300",
+      "title": "微软发布第三代自研 AI 芯片 Maia 300，将成为自家产品的主要推理系统",
+      "summary": "Maia 300 采用台积电 N2P 工艺和芯粒架构，微软称其每兆瓦 token 产出比主流 GPU 系统高 40%，96 卡满配时机架级吞吐最高达 Maia 200 的 7 倍。该芯片将于 2027 年投入生产，并扩展到数吉瓦规模部署，减少对英伟达和 AMD 的依赖。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "category": "产品更新",
+      "published_at": "2026-10-12 21:33 SGT",
+      "original_title": "Microsoft's new AI chip makes it less reliant on Nvidia's GPUs"
+    },
+    {
+      "id": "uk-ai-defences",
+      "title": "英国加强应对 AI 风险：用前沿 AI 排查政府系统漏洞，研究 AI 智能体事故与失控风险应对",
+      "summary": "英国政府宣布扩大此前已发现并修复上千个潜在漏洞的试点项目，并考虑通过《网络安全与韧性法案》要求识别和上报严重 AI 事故及「险情」，还将与国家网络安全中心和 AI 安全研究所制定 AI 智能体事故的响应办法。官方确认 AI 安全研究所正在评测包括 Gemini 4 Argon 在内的最新模型。",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+      "category": "政策监管",
+      "published_at": "2026-10-12（英国时间）",
+      "original_title": "Britain steps up national defences against growing AI risks",
+      "related": [
+        {"source": "GOV.UK 演讲全文", "url": "https://www.gov.uk/government/speeches/building-a-safer-more-secure-britain-in-the-age-of-ai"}
+      ]
+    },
+    {
+      "id": "brad-smith-uk-regulation",
+      "title": "微软总裁 Brad Smith：AI 监管「时机已到」，英国最适合牵头制定全球安全规则",
+      "summary": "Smith 在 BBC 播客中称，牛奶和洗衣机受到的监管都比 AI 公司多，AI 既是「武器也是工具」，正在威胁全球网络安全。他认为拥有 AI 安全研究所、能在发布前评测美国前沿模型的英国，比美国或欧盟更适合主导全球规则。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "category": "政策监管",
+      "published_at": "2026-10-12 23:31 SGT",
+      "original_title": "Microsoft president says UK is best placed to drive AI regulation"
+    },
+    {
+      "id": "nvidia-vera-rubin-ocp",
+      "title": "英伟达在 OCP 全球峰会向开放计算项目贡献 Vera Rubin 机架与计算托盘设计",
+      "summary": "英伟达通过开放的 MGX 架构把 Vera Rubin 机架和计算托盘设计贡献给 OCP，为系统厂商建设下一代 AI 工厂提供统一基础。思科、谷歌、Meta、微软等公司也在推进基于 Vera Rubin 的方案。",
+      "source": "NVIDIA 博客",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "category": "产品更新",
+      "published_at": "2026-10-12 23:00 SGT",
+      "original_title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide"
+    },
+    {
+      "id": "deepseek-winverse-seed",
+      "title": "彭博：DeepSeek 将领投机器人 AI 初创公司 Winverse 种子轮，投后估值约 4 亿美元",
+      "summary": "Winverse 由前腾讯视觉语言与机器人团队负责人胡瀚今年创立，种子轮规模为数千万美元，美团旗下龙珠也已承诺参投。交易尚未最终敲定，估值和投资方仍可能变化，这将是 DeepSeek 对初创公司最大的押注之一。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/deepseek-winverse-ai-robot-seed-round",
+      "category": "融资并购",
+      "published_at": "2026-10-12 21:22 SGT",
+      "original_title": "DeepSeek to lead seed round in $400mn robot AI start-up, Bloomberg reports",
+      "related": [
+        {"source": "Quartz", "url": "https://qz.com/deepseek-winverse-ai-robotics-seed-round-101226"}
+      ]
+    },
+    {
+      "id": "hone-seed-60m",
+      "title": "前 OpenAI、Cognition 员工创立的 Hone 获 6000 万美元种子轮，估值 2.85 亿美元",
+      "summary": "成立仅五个月的 Hone 要打造「对业务结果负责」的 AI，本轮由 Benchmark 和 Index Ventures 领投。",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/161745-hone-raises-60m-seed-to-build-ai-that-owns-business-outcomes/",
+      "category": "融资并购",
+      "published_at": "2026-10-12 22:11 SGT",
+      "original_title": "Hone raises $60M seed to build AI that owns business outcomes"
+    },
+    {
+      "id": "salesforce-loops",
+      "title": "Salesforce 签约收购以色列 AI 分析公司 Loops，将并入 Tableau",
+      "summary": "Loops 的 AI 能解释业务指标为何变化并给出下一步建议。双方未披露价格，以色列媒体 Ctech 估计约 3000 万美元，交易预计 11 月初完成。",
+      "source": "Salesforce",
+      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
+      "category": "融资并购",
+      "published_at": "2026-10-12 20:00 SGT",
+      "original_title": "Salesforce Signs Definitive Agreement to Acquire Loops",
+      "related": [
+        {"source": "Ctech", "url": "https://www.calcalistech.com/ctechnews/article/rypqhecozg"}
+      ]
+    },
+    {
+      "id": "sap-techwolf",
+      "title": "SAP 收购比利时 AI 公司 TechWolf，补强员工技能数据",
+      "summary": "TechWolf 用名为「Context Graph for Work」的数据模型持续追踪员工实际在做的工作和掌握的技能，帮助企业了解哪些岗位和技能正在被 AI 改变。交易金额未披露，预计 2026 年第四季度完成。",
+      "source": "TechGrid Media",
+      "url": "https://techgrid.media/news/sap-buys-techwolf-as-workforce-data-becomes-a-strategic-ai-asset/",
+      "category": "融资并购",
+      "published_at": "2026-10-12（欧洲时间）",
+      "original_title": "SAP Buys TechWolf as Workforce Data Becomes a Strategic AI Asset"
+    },
+    {
+      "id": "stanford-ncm",
+      "title": "斯坦福 Hazy Research 提出「下一概念建模」NCM：由粗到细并行生成文本，比扩散语言模型快 10 到 31 倍",
+      "summary": "NCM 不像自回归模型逐 token 生成，也不像扩散模型反复修改整段序列，而是并行预测越来越细的文本表示。在生成、翻译、摘要和推理任务上，它的质量与强扩散基线相当或更好，训练所需 token 少 4 到 5 倍。",
+      "source": "Hazy Research（斯坦福）",
+      "url": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+      "category": "研究突破",
+      "published_at": "2026-10-12（美国时间）",
+      "original_title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation"
+    },
+    {
+      "id": "sakana-mass",
+      "title": "Sakana AI 与 UC 伯克利提出自我改进方法 MASS：同一模型兼任解题、评判和优化流程",
+      "summary": "MASS 不依赖更强的教师模型，两轮后对基座模型的胜率接近 70%。但研究也发现，当模型在三个角色中犯同样的错误时，会把错误当成进步并在训练中强化。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
+      "category": "研究突破",
+      "published_at": "2026-10-13 01:58 SGT",
+      "original_title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots"
+    },
+    {
+      "id": "x-karpathy-four-tiers",
+      "title": "X 热议：Karpathy 把大模型用户分成四个层级，称差距正在拉大",
+      "summary": "Karpathy 描述了从几乎不用大模型的 60 亿人，到只有约 5000 名看着智能体集群高速完成大型项目的「圈内人」，称这种割裂是「当下的怪异之处」，引发大量网友分享各自所处的「平行现实」。",
+      "source": "X 新闻",
+      "url": "https://x.com/i/trending/2109720077440311766",
+      "category": "X 热议",
+      "published_at": "2026-10-13 05:54 SGT",
+      "original_title": "Karpathy Outlines Widening Gap in LLM User Experiences"
+    },
+    {
+      "id": "x-imf-ai-jobs",
+      "title": "X 热议：IMF 总裁格奥尔基耶娃称 AI 像「缓慢推进的海啸」，影响全球约 40% 的工作",
+      "summary": "她在曼谷 IMF 与世界银行年会上表示，发达经济体约 60% 的岗位受 AI 影响，低收入国家约 23%，入门级重复性工作风险最大，并呼吁政策制定者调整教育和税收。",
+      "source": "X 新闻",
+      "url": "https://x.com/i/trending/2109519588488589399",
+      "category": "X 热议",
+      "published_at": "2026-10-13 04:39 SGT",
+      "original_title": "IMF Chief Warns AI Could Impact 40% of Global Jobs"
+    }
+  ]
+}
