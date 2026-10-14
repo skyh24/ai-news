@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-14",
+  "weekday": "周三",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-13 08:00 至 2026-10-14 08:00（新加坡时间）",
+  "updated_at": "2026-10-14 08:30 SGT",
+  "top_story_id": "gemini-4-argon",
+  "items": [
+    {
+      "id": "gemini-4-argon",
+      "title": "谷歌全面开放 Gemini 4 Argon：百万统一上下文、API 入门价每百万输入 2 美元",
+      "summary": "Google DeepMind 宣布前沿模型 Gemini 4 Argon 全球可用：开发者可通过 AI Studio / Gemini API 调用，Ultra 订阅用户可在 Google Antigravity 使用，Pro/Ultra 用户可在 Gemini 应用与搜索 AI Mode 体验。模型主打复杂编程、科学与智能体任务，宣称在 Vals Index 等基准领先；API 入门价为每百万输入/输出 token 2 美元/10 美元（缓存输入九五折），11 月 30 日后将调至 4/20 美元。",
+      "source": "Google 博客",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "category": "模型发布",
+      "published_at": "2026-10-14 00:00 SGT",
+      "original_title": "Gemini 4 Argon is now available for everyone",
+      "related": [
+        {"source": "X 新闻", "url": "https://x.com/i/trending/2109608106015539311"}
+      ]
+    },
+    {
+      "id": "character-ai-bankruptcy",
+      "title": "角色聊天平台 Character.AI 申请第 11 章破产，拟向迪士尼出售部分资产约 2000 万美元",
+      "summary": "成立仅五年的 Character.AI 因诉讼与规模化压力申请 Chapter 11，法院文件显示资产与负债均在 5000 万至 1 亿美元之间。公司已同意向迪士尼出售部分资产并授予技术非独占永久许可，售价约 2000 万美元；CEO Colin Adams 称将继续运营并寻求买方，若无人竞购平台可能关停。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "category": "融资并购",
+      "published_at": "2026-10-13 20:23 SGT",
+      "original_title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
+    },
+    {
+      "id": "openai-anthropic-uk-regulate",
+      "title": "OpenAI 与 Anthropic 对英国议会表态：自愿承诺不够，需要有约束力的 AI 安全立法",
+      "summary": "在英国议会听证会上，Anthropic 欧洲负责人称「规则应当有约束力」，OpenAI 亦支持法定框架与事故报告等强制要求；谷歌 DeepMind 与 Meta 则更倾向标准与现有监管机构。同日，军情五处负责人警告 AI 可能改变生物武器风险格局；AISI 官员承认当前评测依赖企业自愿配合。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "category": "政策监管",
+      "published_at": "2026-10-14 03:35 SGT",
+      "original_title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us"
+    },
+    {
+      "id": "liquid-lfm25-24b",
+      "title": "Liquid AI 开源 LFM2.5-24B-A2B：24B 总参、约 2B 激活，面向端侧智能体",
+      "summary": "Liquid AI 发布 LFM2.5 系列最大也是收官模型，MoE 架构、131K 上下文，开源权重已上线 Hugging Face。公司称其在五项智能体/工具基准上可与更大的 Qwen3.6-35B-A3B 竞争，端侧解码可达 Apple M5 Max 上 184 token/s，并支持 llama.cpp、MLX、vLLM 等。",
+      "source": "Liquid AI",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "category": "模型发布",
+      "published_at": "2026-10-13（美国时间）",
+      "original_title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
+      "related": [
+        {"source": "Hugging Face", "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B"}
+      ]
+    },
+    {
+      "id": "workday-anthropic",
+      "title": "Workday 与 Anthropic 合作：Claude 与 Sana 智能体互通，HR/财务操作受 Workday 权限约束",
+      "summary": "双方在 Workday Rising 宣布，员工可在 Claude 或 Sana 中启动工作，经 MCP 交换任务；Sana 编排补偿周期、财务关账等长流程，需要时调用 Claude 推理，数据仍留在 Workday。Sana in Claude 插件已向早期客户开放，预计 2026 年底普遍可用。",
+      "source": "Workday",
+      "url": "https://newsroom.workday.com/2026-10-13-Workday-and-Anthropic-Announce-New-Partnership-to-Connect-Reasoning-to-the-Rules-That-Run-the-Business,-Wherever-People-Choose-to-Work",
+      "category": "产品更新",
+      "published_at": "2026-10-13（美国时间）",
+      "original_title": "Workday and Anthropic Announce New Partnership to Connect Reasoning to the Rules That Run the Business"
+    },
+    {
+      "id": "workday-c1ai",
+      "title": "Workday 签署协议收购智能体身份平台 C1.ai，统一管控人员与 AI 智能体访问权限",
+      "summary": "C1.ai 连接邮件、CRM、代码库与云基础设施等系统，为员工和智能体按需授权并及时回收。交易预计在 Workday 2027 财年第四季度（截至 2027 年 1 月 31 日）完成，金额未披露。",
+      "source": "Workday",
+      "url": "https://newsroom.workday.com/2026-10-13-Workday-to-Acquire-C1-ai,-a-Leading-Agentic-Identity-Platform-for-People-and-Agents",
+      "category": "融资并购",
+      "published_at": "2026-10-13（美国时间）",
+      "original_title": "Workday to Acquire C1.ai, a Leading Agentic Identity Platform for People and Agents"
+    },
+    {
+      "id": "amex-intent-framework",
+      "title": "美国运通推出「意图智能框架」，在 AI 智能体代购前捕获并认证用户购买意图",
+      "summary": "Amex 的 Intent Intelligence Framework 通过 Create Intent API 记录商家、预算等约束，经用户认证后生成 Intent ID 与 Proof of Intent Token，再用安全支付凭证结账而非暴露真实卡号，意在阻止智能体偏离授权的误购。该框架纳入 ACE 开发者工具包，公司希望成为行业标准。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "category": "产品更新",
+      "published_at": "2026-10-13 21:00 SGT",
+      "original_title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases"
+    },
+    {
+      "id": "jpmorgan-ai-agents",
+      "title": "摩根大通 CEO 戴蒙：禁止外部 AI 智能体登录客户账户代操作，称「流氓智能体」风险过高",
+      "summary": "戴蒙在三季报电话会上称不会允许任意外部智能体进入公司系统代客操作；发言人证实目前阻止第三方凭客户凭证登录零售账户，仍支持经开放银行提供商的只读数据共享。银行正试点内部工具 Smart Cash 预测现金流并调仓，戴蒙提醒客户使用外部智能体存在责任转移。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "category": "产品更新",
+      "published_at": "2026-10-14 02:46 SGT",
+      "original_title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts"
+    },
+    {
+      "id": "spacexsi-x-subscription",
+      "title": "SpaceX Super Intelligence 将 X Premium、Grok 与 Cursor 捆绑为「The X Subscription」",
+      "summary": "新套餐分免费、Plus（8 美元/月）、Premium（30）、Super（100）、Ultra（200）五档，含 Grok 聊天/语音/图像/视频与 API、智能体 Bot、Cursor 编程及 X Premium 权益；免费档用量有限，最新 Grok 模型需 Premium 及以上。现有用户可逐步升级或保留原计划。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "category": "产品更新",
+      "published_at": "2026-10-13 21:50 SGT",
+      "original_title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription"
+    },
+    {
+      "id": "ortet-500m",
+      "title": "健康 AI 实验室 Ortet 获 Thoreau 5 亿美元承诺资金，由注意力机制共创者 Cho 领衔",
+      "summary": "Ortet 以患者为中心构建覆盖算力、数据、模型与部署的全栈健康 AI 平台。联合创始人兼 CEO Kyunghyun Cho 曾参与注意力机制与 GRU 研究，团队多来自 Genentech 等；公司称已拿到首批 GPU 集群，高盛担任顾问。",
+      "source": "Pulse 2.0",
+      "url": "https://pulse2.com/ortet-launches-with-500-million-commitment-from-thoreau-to-build-patient-centered-health-ai-platform/",
+      "category": "融资并购",
+      "published_at": "2026-10-13（美国时间）",
+      "original_title": "Ortet Launches With $500 Million Commitment From Thoreau To Build Patient-Centered Health AI Platform"
+    },
+    {
+      "id": "openai-anthropic-evaluators",
+      "title": "路透：OpenAI 与 Anthropic 曾寻求对第三方安全评测发布内容施加控制",
+      "summary": "知情人士称，两家公司出于商业秘密顾虑，最迟至 10 月 5 日仍寻求严格编辑控制；随后立场有所缓和。Anthropic 称既有评测方自主决定方法与发布，但对新评测机构保留审阅批准权；OpenAI 称常规做法是删减机密信息，评测方可披露是否有重大删减。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010444/openai-and-anthropic-reportedly-wanted-control-over-what-safety-reviewers-can-publish",
+      "category": "政策监管",
+      "published_at": "2026-10-14 02:49 SGT",
+      "original_title": "OpenAI and Anthropic reportedly wanted control over what safety reviewers can publish",
+      "related": [
+        {"source": "U.S. News（路透）", "url": "https://money.usnews.com/investing/news/articles/2026-10-13/exclusive-behind-ai-industrys-call-for-independent-reviews-a-fight-over-what-gets-made-public"}
+      ]
+    },
+    {
+      "id": "anthropic-distillation",
+      "title": "Anthropic：新防蒸馏措施使 Claude 推理数据被抽取量下降约 90%–99%",
+      "summary": "公司详述「保留思考」、两阶段分类器与快速封禁等组合防御，称平台上被抽取的推理 token 降至原先的 1/10 至 1/100，并已封禁数万相关账号。代价包括部分开发者需改集成、极低误拦率下仍对拦截请求计费，以及放弃来自蒸馏流量的可观收入。原文 10 月 12 日发布，本窗口内持续发酵。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "category": "研究突破",
+      "published_at": "2026-10-12（美国时间，窗口内持续讨论）",
+      "original_title": "Strengthening our defenses against distillation attacks"
+    },
+    {
+      "id": "harbor-10m",
+      "title": "Harbor 获 1000 万美元种子轮，为银行保险业 AI 智能体提供风控与专项保险",
+      "summary": "Base10、Abstract 与 8VC 领投。平台盘点企业运行的智能体、实时评估运营与合规风险，并配套针对智能体故障的保险；背景是美国多州保单已批量加入生成式 AI 除外条款。",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/harbor-ai-raises-10m-ai-agent-insurance/",
+      "category": "融资并购",
+      "published_at": "2026-10-13（美国时间）",
+      "original_title": "Harbor emerges from stealth with $10M seed round to insure AI agents"
+    },
+    {
+      "id": "ubitium-14m",
+      "title": "半导体初创 Ubitium 再获 1400 万美元种子轮，打造传感+推理+控制一体的物理 AI 处理器",
+      "summary": "本轮由 Ibex Investors 领投，累计种子轮达 1800 万美元。首款验证芯片 UB108 已在三星 8nm 上跑通三合一；商用芯片 UB410 计划 4096 个处理单元，2027 年 tape-out 并交付评测样片。",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/10/13/ubitium-lands-14m-to-bring-universal-computing-to-physical-ai/",
+      "category": "融资并购",
+      "published_at": "2026-10-13（欧洲时间）",
+      "original_title": "Ubitium raises $14M to bring universal computing to physical AI"
+    },
+    {
+      "id": "x-gemini-cornhole",
+      "title": "X 热议：Gemini 4 Argon 仅凭一段人类抛袋视频，教会人形机器人连投七中",
+      "summary": "讨论聚焦谷歌展示的 Video-to-Sim-to-Real：Argon 观看人类玩玉米袋（cornhole）视频后自建物理仿真，并在 Apptronik Apollo 机器人上完成连续空中投篮进袋，网友将其与 Argon 全球开放一并热议。",
+      "source": "X 新闻",
+      "url": "https://x.com/i/trending/2110107098860470620",
+      "category": "X 热议",
+      "published_at": "2026-10-14 07:14 SGT",
+      "original_title": "Google's Gemini 4 Argon Teaches Robot Cornhole from One Video"
+    }
+  ]
+}
