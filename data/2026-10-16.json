@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-16",
+  "weekday": "周五",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-15 08:00 至 2026-10-16 08:00（新加坡时间）",
+  "updated_at": "2026-10-16 08:30 SGT",
+  "top_story_id": "meta-muse-spark-open",
+  "items": [
+    {
+      "id": "meta-muse-spark-open",
+      "title": "Meta 开放 Muse Spark Open 权重：816B 参数多模态模型，号称美国最强开放权重模型，可在两台 Mac Studio 上本地运行",
+      "summary": "Meta 超级智能实验室发布 Muse Spark Open，总参数 816B（激活 42B）、上下文 100 万 token，主打编程和智能体长任务；与苹果合作，借助最新 MLX 框架可在两台 M5 Ultra Mac Studio 上运行。模型已上线 Baseten、Fireworks、Groq、OpenRouter、Together 等 API 平台，权重可在 SageMaker、Hugging Face 等处下载。",
+      "source": "Meta AI Research",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "category": "模型发布",
+      "published_at": "2026-10-15（美国时间）",
+      "original_title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
+      "related": [
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"},
+        {"source": "The Verge", "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"},
+        {"source": "Hugging Face", "url": "https://huggingface.co/blog/meta-muse-spark-open"},
+        {"source": "Hacker News", "url": "https://news.ycombinator.com/from?site=research.meta.ai"}
+      ]
+    },
+    {
+      "id": "anthropic-q3-revenue",
+      "title": "Anthropic 向投资者披露三季度营收 168 亿美元，环比增约 45%，为 IPO 做准备",
+      "summary": "据 CNBC 援引知情人士，Anthropic 三季度营收达 168 亿美元，二季度为 116 亿美元、一季度为 47 亿美元，并称三季度经调整后已盈利；据报道其 IPO 可能在 11 月进行。英国《金融时报》称其三季度每 1 美元算力支出带来 1.70 美元收入。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "category": "融资并购",
+      "published_at": "2026-10-15 11:48 SGT",
+      "original_title": "Anthropic's Q3 revenue is said to hit $16.8 billion ahead of IPO",
+      "related": [
+        {"source": "SiliconANGLE", "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/"}
+      ]
+    },
+    {
+      "id": "ai-selloff-coreweave",
+      "title": "AI 债务担忧发酵：CoreWeave 信用违约互换飙至困境水平，全球科技股遭抛售",
+      "summary": "为 AI 基础设施背负逾 510 亿美元债务和债务性承诺的 CoreWeave，五年期 CDS 利差一度超过 1140 个基点，2031 年到期债券收益率升至 15.78%；其股价周三暴跌 15.5%，周四先跌后收涨 5.94%。投资者对 AI 过度投资和举债扩张的疑虑正蔓延到芯片和云算力股。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "category": "融资并购",
+      "published_at": "2026-10-16 00:52 SGT",
+      "original_title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "related": [
+        {"source": "CNBC（全球科技股抛售）", "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"},
+        {"source": "Reuters", "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"}
+      ]
+    },
+    {
+      "id": "anthropic-metr-evaluators",
+      "title": "Anthropic 让 METR 以「类员工」权限入驻评估模型风险，并与 SecureBio、埃森哲合作",
+      "summary": "Anthropic 已为 6 名 METR 研究员配发公司设备、办公空间和接近内部风险评估团队水平的系统权限，METR 将公开发布对其风险水平、事故和做法的分析，Anthropic 不为其出资。SecureBio 负责审查风险报告中化学和生物武器部分，Anthropic 还在与 Hugging Face 等机构洽谈。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "category": "政策监管",
+      "published_at": "2026-10-16 01:20 SGT",
+      "original_title": "An update on independent evaluators",
+      "related": [
+        {"source": "CNBC", "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html"},
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"}
+      ]
+    },
+    {
+      "id": "tsmc-q3-record",
+      "title": "台积电连续第六个季度利润创新高，AI 芯片需求推动净利同比增 68.7%",
+      "summary": "台积电三季度净利润同比增长 68.7%，营业利润率 58.7%，高于指引上限；预计四季度营收 523 亿至 543 亿美元，并表示 2026 至 2028 年资本支出将明显高于前三年，以应对持续超出产能的先进制程需求。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "category": "融资并购",
+      "published_at": "2026-10-15 13:37 SGT",
+      "original_title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "related": [
+        {"source": "CNBC（产能争夺）", "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html"}
+      ]
+    },
+    {
+      "id": "nvidia-nemotron-3-5",
+      "title": "英伟达发布 Nemotron 3.5 Super VL 与 Bolt 系列开放模型，覆盖数据中心到本地设备",
+      "summary": "Nemotron 3.5 Super VL 是 120B 参数的开放多模态模型，面向常驻型企业智能体，英伟达称其同类速度是次优模型的 5 倍；同时推出端侧模型 Bolt 74B-A9B（24GB）和 Bolt E4B（4GB），前两者已上线，E4B 将于 10 月 23 日推出。",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "category": "模型发布",
+      "published_at": "2026-10-15 23:00 SGT",
+      "original_title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "related": [
+        {"source": "SiliconANGLE", "url": "https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/"}
+      ]
+    },
+    {
+      "id": "chatgpt-chrome-tabs",
+      "title": "ChatGPT 的 Chrome 扩展升级：可读取已打开的浏览器标签页，并能在侧边栏使用",
+      "summary": "在 ChatGPT 网页版或桌面版中标记 Chrome 后，ChatGPT 可以查看用户已打开的标签页，例如直接比较三个沙发商品页；扩展还可把 ChatGPT 放进浏览器侧边栏。The Verge 指出，这是在 OpenAI 的 Atlas 浏览器下线之后推出的。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "category": "产品更新",
+      "published_at": "2026-10-16 06:43 SGT",
+      "original_title": "ChatGPT can peek at your Chrome tabs now"
+    },
+    {
+      "id": "krea-3",
+      "title": "Krea 3 发布：面向批量生产的图像编辑模型，官方称比 Nano Banana Pro 快 4 倍",
+      "summary": "Krea 推出图像编辑模型 Krea 3，主打「只改你要求的部分」，支持区域编辑、多图合成和指定色值换色，官方称单次编辑不到 8 秒，速度和成本都优于 GPT Image 2 与 Nano Banana Pro。该发布登上 Hacker News 首页。",
+      "source": "Krea",
+      "url": "https://www.krea.ai/krea-3",
+      "category": "模型发布",
+      "published_at": "2026-10-16 00:04 SGT（Hacker News 发帖时间）",
+      "original_title": "Krea 3: an image editing model 4× faster than Nano Banana Pro"
+    },
+    {
+      "id": "amazon-bee-devices",
+      "title": "亚马逊推出两款 Bee 个人 AI 录音设备：75 美元腕戴式 Frontier 与 100 美元手机背贴式 Eclipse",
+      "summary": "Bee Frontier 可戴在手腕或夹在衣服上，续航最长 7 天，双麦克风降噪升级，周四开售；信用卡大小的 Bee Eclipse 可磁吸在手机背面，即将上市。两款设备都会录音、转写并分析对话，The Verge 报道称新版还能帮用户购物。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "category": "产品更新",
+      "published_at": "2026-10-15 20:00 SGT",
+      "original_title": "Amazon launches Bee Frontier and Eclipse AI devices",
+      "related": [
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"},
+        {"source": "The Verge", "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"}
+      ]
+    },
+    {
+      "id": "openai-rosalind-academic",
+      "title": "OpenAI 推出 Rosalind 学术计划：符合条件的实验室可免费获得最多 30 个席位，使用生命科学模型 GPT-Rosalind",
+      "summary": "OpenAI 为学术实验室提供最长 12 个月、最多 30 个免费 Business Standard 席位，经可信访问审批后可使用生命科学专用模型 GPT-Rosalind 及其工作台，覆盖药物化学、基因组学和湿实验辅助等场景。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "产品更新",
+      "published_at": "2026-10-16 03:00 SGT",
+      "original_title": "Bringing GPT-Rosalind to academic research labs"
+    },
+    {
+      "id": "simons-math-ai",
+      "title": "西蒙斯基金会联合 Anthropic、OpenAI 投入 1500 万美元，帮助数学界应对 AI 时代",
+      "summary": "资金和资源由西蒙斯基金会管理并公开征集提案，用于支持研讨会和项目，帮助数学家评估 AI 辅助得出的结果、学习新工具并共同制定 AI 使用标准；两家公司还将向受资助的研究者提供 AI 工具和算力，范围扩展到基础科学。",
+      "source": "Simons Foundation",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "category": "研究突破",
+      "published_at": "2026-10-15 22:00 SGT",
+      "original_title": "Simons Foundation Launches $15M Effort To Help Mathematicians Navigate AI Era"
+    },
+    {
+      "id": "deepmind-antimicrobial",
+      "title": "谷歌 DeepMind 用 Antigravity 智能体平台搜寻新型抗菌肽，候选分子已进入湿实验验证",
+      "summary": "研究人员在 Antigravity 中与智能体协作，借助预测蛋白功能的 ProtNLM 模型，从 UniProt 数百万未注释序列中筛出一个针对呼吸道感染相关病原体的新型细菌素候选，并结合 AlphaFold 结构和基因组上下文佐证；谷歌同时推出内置的 3D 生物分子结构查看器。",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "category": "研究突破",
+      "published_at": "2026-10-16 00:08 SGT",
+      "original_title": "Accelerating the search for antimicrobial peptides with Google Antigravity"
+    },
+    {
+      "id": "huang-us-china-dialogue",
+      "title": "黄仁勋呼吁美中就「潜在危险」的 AI 开展对话，称必须与中国 AI 公司合作监测风险",
+      "summary": "英伟达 CEO 黄仁勋在伦敦媒体会上表示，美国「绝对应该」与中国 AI 企业合作，以安全推进这项技术，并称自己与许多中国研究人员保持对话，也曾建议英国这样做。此前美国财长贝森特曾与何立峰讨论建立美中 AI 对话机制。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "category": "政策监管",
+      "published_at": "2026-10-15 19:12 SGT",
+      "original_title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI"
+    },
+    {
+      "id": "treasury-super-intelligence",
+      "title": "X 热议：美国财政部推动国际伙伴把「人工智能」改称「超级智能」，正在 IMF 声明措辞上谈判",
+      "summary": "美国财政部副部长 Erin Browne 在曼谷 IMF/世界银行年会期间接受路透采访称，美方正与 IMF 其他股东谈判，希望在国际货币与金融委员会声明中用「super intelligence」（SI）取代「AI」；此前特朗普已要求联邦机构改用该说法。X 上不少用户质疑这是否该是优先事项。",
+      "source": "CNA（路透）",
+      "url": "https://www.channelnewsasia.com/business/us-treasury-pushes-global-partners-rename-ai-super-intelligence-6462536",
+      "category": "X 热议",
+      "published_at": "2026-10-15 20:34 SGT",
+      "original_title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
+      "related": [
+        {"source": "X 热门话题", "url": "https://x.com/i/trending/2110756367673999454"}
+      ]
+    },
+    {
+      "id": "anthropic-scion-mononoke",
+      "title": "HN 热议：开发者指 Anthropic 的版本控制项目 Scion 照搬 Meta 的 Mononoke，Anthropic 已补充署名",
+      "summary": "曾在 Meta 源代码管理团队工作的博主 sunshowers 连发两文，称 Scion 在数据模型、派生数据索引等设计上与 Mononoke 高度相似，并称私下得到确认存在人员重叠。文章更新说明，Anthropic 员工已在 Hacker News 回应，相关博文也补上了足够的署名。",
+      "source": "sunshowers",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "category": "X 热议",
+      "published_at": "2026-10-16 01:05 SGT（Hacker News 发帖时间）",
+      "original_title": "More on Anthropic's Scion ripping off Mononoke"
+    }
+  ]
+}
