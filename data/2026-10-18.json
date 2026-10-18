@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-18",
+  "weekday": "周日",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-17 08:00 至 2026-10-18 08:00（新加坡时间）",
+  "updated_at": "2026-10-18 08:30 SGT",
+  "top_story_id": "deepseek-v41-flash-1017",
+  "items": [
+    {
+      "id": "deepseek-v41-flash-1017",
+      "title": "DeepSeek 发布 V4.1-Flash-1017：开源 MIT 权重，智能体与编程基准再升，并开放 Search/Fetch API",
+      "summary": "DeepSeek 称本次小版本在推理、编程、智能体与视觉基准全面提升，任务更快、输出更短，自测 DeepSWE v1.1 达 77.0、平均每任务成本约 0.2 美元；权重已上 Hugging Face / ModelScope。同期首次向全体开发者开放自建搜索引擎的 Search 与 Fetch API，各端点每千次调用 0.75 美元。",
+      "source": "DeepSeek",
+      "url": "https://api-docs.deepseek.com/news/news261017/",
+      "category": "模型发布",
+      "published_at": "2026-10-17 16:35 SGT",
+      "original_title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+      "related": [
+        {
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+        },
+        {
+          "source": "Hacker News（669+ 分）",
+          "url": "https://news.ycombinator.com/item?id=50129045"
+        },
+        {
+          "source": "THE DECODER",
+          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+        }
+      ]
+    },
+    {
+      "id": "meta-removes-train-terms",
+      "title": "Meta 删除商业条款中「train」措辞：回应新闻站可被免费抓取训练 AI 的质疑，法律专家仍不放心",
+      "summary": "在 Nieman Lab、The Verge 等报道引发反弹后，Meta 从即将于 10 月 30 日生效的商业条款美式英文版删去含「train」的句子，并称抓取仅适用于广告与商业产品、robots.txt 偏好不变。Nieman Lab 周六跟进称专家仍认为「develop…advertising and business products」过宽，抓取权限扩张问题未消。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "category": "政策监管",
+      "published_at": "2026-10-17 23:04 SGT",
+      "original_title": "Meta removes language that may have allowed it to scrape news sites",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
+          "source": "Nieman Lab",
+          "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-employment-report",
+      "title": "Anthropic 内部报告：智能体工时已为人的 6 倍，初级技术岗招聘占比从 27% 降至 9%，会议时间反升 20%",
+      "summary": "Anthropic 研究称到 8 月交互式智能体工时已是员工的六倍，人均代码、销售与合同处理量上升，但人类注意力成瓶颈；初级技术员工占比自 2025 年初的 21% 降至 14%，初级技术招聘占比从 27% 降至 9%。TechCrunch 周五跟进称员工更多在「管 Claude」，日历数据显示会议时间同比增加约两成。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "category": "研究突破",
+      "published_at": "2026-10-16（美国时间），10-17 在 TechCrunch / HN 持续发酵",
+      "original_title": "How employment is changing at Anthropic",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+        },
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50127555"
+        }
+      ]
+    },
+    {
+      "id": "ai-debt-coreweave",
+      "title": "《纽约时报》：AI 借债薄弱环节显现，CoreWeave 债券收益率破 15%、股价一周跌约四分之一",
+      "summary": "报道称支撑 AI 热潮的万亿级借债开始承压：负债约 720 亿美元的 CoreWeave 债券收益率进入垃圾债区间并超过 15%，投资者对其违约保险隐含逾 60% 五年违约概率；Oracle 部分数据中心项目因许可延误拖累相关贷款折价，为 OpenAI 大举加码的 SoftBank 债务违约保险成本升至每百万美元逾 4 万美元。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+      "category": "融资并购",
+      "published_at": "2026-10-17（美国时间）",
+      "original_title": "Weak Links Start to Show in A.I. Borrowing",
+      "related": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50135290"
+        },
+        {
+          "source": "DNYUZ 全文镜像",
+          "url": "https://dnyuz.com/2026/10/17/weak-links-start-to-show-in-a-i-borrowing/"
+        }
+      ]
+    },
+    {
+      "id": "websites-block-ai-agents",
+      "title": "The Verge：网站纷纷对 AI 智能体关大门，Delta、摩根大通、嘉信等确认拦截，亚马逊继续封杀",
+      "summary": "用户反映 Meta Muse、xAI Grok、OpenAI Dots、Instinct 等智能体在热门网站上频频受阻；Yelp 只允许付费买数据许可的智能体，Delta 阻止代订机票，摩根大通与嘉信以安全为由拦截账户访问。文章称即便未 outright 封禁，反爬与 Cloudflare 等措施也会让智能体触发机器人防护，削弱「替你上网办一切」的卖点。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "category": "产品更新",
+      "published_at": "2026-10-17 21:00 SGT",
+      "original_title": "Websites are closing their doors to AI agents"
+    },
+    {
+      "id": "amazon-atlas-union-ai",
+      "title": "openDemocracy：亚马逊用内部 AI「Atlas」给英美加仓库打工会风险分，英两仓被标为最高危",
+      "summary": "加拿大劳资诉讼披露的内部材料显示，Atlas 汇总数百个数据点（含 Reddit、内部反馈调查等）给仓库打 100–900 分，分数越低越可能组织工会；英国萨顿科尔菲尔德与考文垂两仓被列为「Tier 1」。亚马逊否认个体监控并称英国目前未用名为 Atlas 的框架；GMB 与 Foxglove 指这是用技术压制工人组织。",
+      "source": "openDemocracy",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "category": "政策监管",
+      "published_at": "2026-10-16（英国时间），10-17 在 HN 热议（145 分）",
+      "original_title": "Amazon uses AI surveillance to monitor union risk in UK warehouses",
+      "related": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50132278"
+        }
+      ]
+    },
+    {
+      "id": "nature-ai-ciphers",
+      "title": "Nature：业余爱好者用 GPT-6 Astra 破译二战 Enigma 与拿破仑时期密信，密码学家被验证请求淹没",
+      "summary": "报道称零密码学背景的用户让 GPT-6 Astra 在约十小时内解开一条尘封约 85 年的德军 Enigma 电报，另有工程师约六小时解开 1809 年拿破仑军情密信。专家欢迎兴趣高涨，但警告大量「假阳性」解法涌入验证邮箱，真正懂密码分析的人有限。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "category": "研究突破",
+      "published_at": "2026-10-16（更正），10-17 在 HN 讨论",
+      "original_title": "History’s long-secret codes are being cracked by amateurs using AI",
+      "related": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50134466"
+        }
+      ]
+    },
+    {
+      "id": "newsom-ai-kill-switch",
+      "title": "Al Jazeera：加州州长纽森加强 AI 监管，专家委员会研讨「杀死开关」与独立核验，11 月 15 日前交建议",
+      "summary": "纽森任期将尽之际签发行政令，要求独立核验前沿模型并组建专家组评估 AI 智能体紧急关停机制；此前他曾否决类似立法，如今在一连串越界智能体事件与 2028 总统选情背景下转向。加州紧急事务办公室须在 11 月 15 日前提交建议，或召开特别立法会。",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+      "category": "政策监管",
+      "published_at": "2026-10-17",
+      "original_title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run"
+    },
+    {
+      "id": "deepseek-x-flash1017",
+      "title": "X 热议：DeepSeek 官方宣布 V4.1-Flash-1017，单帖逾 3 万赞、百万级曝光",
+      "summary": "DeepSeek 官方账号发帖称新版基准更强、任务更快、输出更短，已在官网、App 与 API 上线，并针对 DeepSeek Harness、腾讯 CodeBuddy 等环境优化；帖文获约 3 万赞、3300 转发，社区同步讨论其相对 Opus / Astra 的成本优势。",
+      "source": "X（@deepseek_ai）",
+      "url": "https://x.com/deepseek_ai/status/2111375640717033777",
+      "category": "X 热议",
+      "published_at": "2026-10-17 16:35 SGT",
+      "original_title": "DeepSeek-V4.1-Flash-1017 is here!",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2111448152880664691"
+        }
+      ]
+    },
+    {
+      "id": "romania-ai-minister",
+      "title": "罗马尼亚拟设数字化与人工智能部，Bitdefender 首席科学家 Bogdan Dumitru 被提名为部长",
+      "summary": "候任总理 Luca Niculescu 向议会提交内阁名单，拟新建数字化与人工智能部，提名在 IT 行业近三十年经验、现任 Bitdefender 首席科学家的 Bogdan Costinel Dumitru 出任部长级代表。议会听证会与信任投票定于 10 月 19–20 日。",
+      "source": "HotNews.ro",
+      "url": "https://hotnews.ro/premiera-romania-va-avea-un-minister-pentru-inteligenta-artificiala-cine-este-bogdan-dumitriu-propus-ministru-2376129",
+      "category": "政策监管",
+      "published_at": "2026-10-15 提名（罗马尼亚时间），10-18 凌晨仍在 HN 最新列表出现",
+      "original_title": "Romania will have a ministry for Artificial Intelligence: who is Bogdan Dumitru"
+    },
+    {
+      "id": "holyvolt-45m",
+      "title": "Holyvolt 融资 4500 万美元：用 AI + 高通量实验室寻找不含镍钴的电池正极材料",
+      "summary": "据 Fortune，前特斯拉制造高管参与的瑞典初创 Holyvolt 完成全股权融资，估值约 2.45 亿美元，投资方包括 Zone II、CC.VC 等；公司合并 Wildcat Discovery 实验室，用真实电芯测试闭环强化 AI 材料发现，计划 2027 年起先向无人机与国防场景商业化 DRX 正极。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/15/holyvolt-funding-45-million-battery-startup-ai-sweden-michigan-prast-ingvarsson/",
+      "category": "融资并购",
+      "published_at": "2026-10-15（美国时间），10-17 多家媒体周报仍重点提及",
+      "original_title": "A Michigan-raised ex-Tesla exec raises $45 million to break China’s grip on batteries"
+    },
+    {
+      "id": "instagram-ai-fakes",
+      "title": "Instagram 负责人 Mosseri：正在研究如何处理 AI 假内容，称全面禁止 AI「不现实」",
+      "summary": "The Verge 报道，Adam Mosseri 表示不仅明星深度伪造成问题，AI「网红」账号还在盗用段子、模仿画家创作过程视频并获百万播放；他认为禁止 AI 不现实，但对笑话等未受版权保护内容如何处置仍在摸索。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013411/adam-mosseri-says-instagram-is-working-out-what-to-do-about-ai-fakes",
+      "category": "产品更新",
+      "published_at": "2026-10-17 22:42 SGT",
+      "original_title": "Adam Mosseri says Instagram is ‘working out what to do’ about AI fakes"
+    }
+  ]
+}
