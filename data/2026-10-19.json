@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-19",
+  "weekday": "周一",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-18 08:00 至 2026-10-19 08:00（新加坡时间）",
+  "updated_at": "2026-10-19 08:30 SGT",
+  "top_story_id": "anthropic-public-benefit-fund",
+  "items": [
+    {
+      "id": "anthropic-public-benefit-fund",
+      "title": "Anthropic 设立 Public Benefit Fund：先承诺 5% 股份，估值每升 50% 可再追加 2%，合计约两成股权用于公益",
+      "summary": "Anthropic 宣布成立全资控股的 Anthropic Public Benefit Fund，在股东批准后将 5% 股份划入该基金，并约定公司价值相对基线每增长 50%，董事会可酌情再追加 2%。基金可灵活用于向传统非营利组织大额捐赠或向特定人群直接分配；公司已另承诺 2 亿美元研究劳动力市场影响，并称与联合创始人股权捐赠及员工匹配计划合计，约 20% 股份将专用于公共利益。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "category": "融资并购",
+      "published_at": "2026-10-18（美国时间），约 18:07 UTC 官方发帖",
+      "original_title": "Investing in the public benefit",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        },
+        {
+          "source": "X（@AnthropicAI）",
+          "url": "https://x.com/AnthropicAI/status/2111881963657412903"
+        }
+      ]
+    },
+    {
+      "id": "disney-character-ai",
+      "title": "迪士尼拟聘 Character.AI 过半员工：法律文件显示至少 60 人获邀、年薪总额约 6000 万美元，多数已接受",
+      "summary": "Character.AI 本周申请破产后，Bloomberg 发现的法律文件显示迪士尼同意向至少 60 名员工（占多数）发出录用，预估年薪合计约 6000 万美元，且「绝大多数」获邀者已接受；此前迪士尼曾以约 2000 万美元收购部分资产，前 CEO Karandeep Anand 已任迪士尼首位 CTO。文件称公司虽有庞大用户仍被高成本与潜在诉讼、监管拖累，该方案为 stalking horse 竞标，仍可能被更高报价取代。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "category": "融资并购",
+      "published_at": "2026-10-18 09:30 PDT（约 00:30 SGT 次日凌晨）",
+      "original_title": "Disney agrees to hire the majority of Character.AI’s workforce"
+    },
+    {
+      "id": "microsoft-nscale-loughton",
+      "title": "微软退出英国 Nscale 洛顿 AI 数据中心租约：电网预计 2030 年代中前期才能供电，锚点租户落空",
+      "summary": "《卫报》等报道称微软已终止作为英国初创 Nscale 埃塞克斯郡 Loughton 项目锚点租户的协议；UK Power Networks 此前告知该站要到 2030 年代初至中期才可能获得足够电力，原计划 2027 年开业、曾被英政府宣传为「英国最大主权 AI 数据中心」。Nscale 称与微软其他合同不受影响（含挪威项目），并在探索就地发电；该公司正筹备赴美 IPO，潜在估值约 350 亿美元。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "category": "融资并购",
+      "published_at": "2026-10-18 08:28 EDT（约 20:28 SGT）",
+      "original_title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "related": [
+        {
+          "source": "Reuters（Investing.com 转载）",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports-4955864"
+        },
+        {
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-safety-bill",
+      "title": "Politico：Anthropic 向国会暗推前沿 AI 安全草案，仅当预见逾 10 亿美元损失或 50 人伤亡才可叫停模型",
+      "summary": "报道称 Anthropic 向议员私下散发草案：仅当模型因生物武器、失控或网络攻击等造成可预见的、迫在眉睫的逾 10 亿美元损害或杀死/重伤逾 50 人时，商务部方可请求哥伦比亚特区联邦法官暂停发布；并拟设商务部注册的独立第三方定期评估。公司发言人称草案反映其自 6 月起推动的 Advanced AI Framework；Tom's Hardware 与 HN（约 153 分）周日跟进，批评阈值过高、形同监管俘获。",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "category": "政策监管",
+      "published_at": "Politico 约 10-16；Tom's Hardware / HN 2026-10-18 持续发酵",
+      "original_title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
+      "related": [
+        {
+          "source": "POLITICO",
+          "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
+        },
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50141429"
+        },
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2111801627355013163"
+        }
+      ]
+    },
+    {
+      "id": "opencode-console-breach",
+      "title": "OpenCode Console 泄露：约 1.4% 托管用户的第三方 API 密钥或遭暴露，牵涉 OpenAI / Anthropic / Google",
+      "summary": "OpenCode 在 X 称前夜发生与「大规模蒸馏攻击」相关的安全事件，影响约 1.4% 的 OpenCode Console 用户（已邮件通知）；邮件截图显示遗留系统遭未授权访问，工作区中保存的第三方提供商密钥「可能已暴露」。HN 澄清本地 CLI/桌面端多数用户不受影响，中招者多为在托管 Console 上传 BYOK 密钥的用户；团队称正与 Anthropic、OpenAI、Google 协同处置，事件仍在进行中。",
+      "source": "On The Wire",
+      "url": "https://onthewire.ai/article/opencode-says-a-breach-hit-1-4-of-its-console-users-an-email-shared-online-tells",
+      "category": "产品更新",
+      "published_at": "2026-10-17 17:56 UTC 官方披露，10-18 全天在 HN 热议（941+ 分）",
+      "original_title": "OpenCode says a breach hit 1.4% of its Console users",
+      "related": [
+        {
+          "source": "Hacker News（941+ 分）",
+          "url": "https://news.ycombinator.com/item?id=50133401"
+        },
+        {
+          "source": "X（@opencode）",
+          "url": "https://twitter.com/opencode/status/2111516673953935833"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-500b-financing",
+      "title": "《财富》：英伟达联手六大资管搭建逾 5000 亿美元 AI 基建融资平台，称下一场竞赛在信贷台",
+      "summary": "分析文章回顾英伟达 8 月与 Apollo、BlackRock、Blackstone、Brookfield、高盛、KKR 共建融资平台、目标动员逾 5000 亿美元投向 AI 基础设施，并将算力项目化为养老金与保险公司可持有的类基础设施资产。文中称五大美超大规模云商 2026 年资本开支料达 7300 亿美元，约三分之一或需举债；并对比欧美中融资「管道」差异，认为资本成本正决定谁能继续竞赛。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/18/nvidia-ai-financing-capital-markets/",
+      "category": "融资并购",
+      "published_at": "2026-10-18 17:00 ET（约 05:00 SGT 次日）",
+      "original_title": "Nvidia's $500 billion AI financing push shows capital is the new AI race"
+    },
+    {
+      "id": "hybrid-reasoning-agents",
+      "title": "斯坦福 / Together 等提出 HybridAgent：潜空间思考、文本工具调用，11 项基准平均提升约 10.4%、推理提速最高约 2.6×",
+      "summary": "论文 Hybrid Reasoning Agents 介绍 HybridLink 与连续工作记忆，使智能体在同一次生成中于潜空间推理与文本工具调用间切换；HybridSFT / HybridRL 分别稳住混合生成并学习何时潜思考、何时文本行动。在 4B/8B/14B 的 Qwen3 骨干上相对文本与潜空间基线平均提升约 10.4%，文本 token 减少约 35.5%–54.7%，推理约 1.8×–2.6×，成本约 2.7×–3.7×；代码已开源。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "category": "研究突破",
+      "published_at": "2026-10-18 约 20:48 UTC 登上 HN（163+ 分）",
+      "original_title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "related": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50145337"
+        },
+        {
+          "source": "GitHub（Together）",
+          "url": "https://github.com/togethercomputer/HybridAgent"
+        }
+      ]
+    },
+    {
+      "id": "google-harness2",
+      "title": "Google 研究开源 Harness²：冻结权重下递归改进智能体 harness，单步可提升最高约 11.8 个百分点",
+      "summary": "Google Cloud AI Research 论文与代码库介绍 Harness²：在无真值开放任务下用 Propose–Probe–Compose 对比式改 harness，并在任务级与「改进 harness」两级递归中沉淀可复用经验。在 WorkBuddy-Bench、JobBench、法律智能体基准上，对 GLM-5 与 Gemini 3.5 Flash 等配置单步即可带来最高约 11.5 / 4.5 / 11.8 个百分点增益，并行递归 k=5 可再抬升。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.14224",
+      "category": "研究突破",
+      "published_at": "约 2026-10-18 在 X / 技术简报传播",
+      "original_title": "Harness²: Recursive Agent Harnessing for an Open World",
+      "related": [
+        {
+          "source": "GitHub（google-research）",
+          "url": "https://github.com/google-research/harness2"
+        },
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2111809599519002671"
+        }
+      ]
+    },
+    {
+      "id": "replit-openai-default",
+      "title": "Replit 默认模型改投 OpenAI：CEO 称成本、合作与基准更优，用户仍可选 Claude，曾为 Anthropic 前五大客户",
+      "summary": "TechCrunch Disrupt 上 Amjad Masad 表示基于内部与公开基准，Sol / Astra 在从零「氛围编程」上更强，故以 OpenAI 为 Replit Agent 首选合作方；周末澄清平台仍模型中立、可用 Claude，但默认切换会显著削减对 Anthropic 的支出。他称 Replit 此前曾是 Anthropic 前五大客户之一；匿名知情人士则否认双方合作已终止。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "产品更新",
+      "published_at": "2026-10-16 首发，10-17 更新；周末澄清后 10-18 仍在发酵",
+      "original_title": "Replit makes OpenAI its default over Anthropic, CEO says"
+    },
+    {
+      "id": "anthropic-pbf-x",
+      "title": "X 热议：Anthropic 公益股权基金官宣帖约 1.09 万赞、逾 200 万曝光，话题页同步刷屏",
+      "summary": "Anthropic 官方账号发帖宣布 Public Benefit Fund，截稿时约 1.09 万赞、776 转发、逾 200 万曝光；X News 话题页汇总称起步 5% 股份、估值每升 50% 可再加 2%，并结合联合创始人 80% 股权捐赠与员工匹配，合计约两成股份服务公共利益。",
+      "source": "X（@AnthropicAI）",
+      "url": "https://x.com/AnthropicAI/status/2111881963657412903",
+      "category": "X 热议",
+      "published_at": "2026-10-18 18:07 UTC（约 2026-10-19 02:07 SGT）",
+      "original_title": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund…",
+      "related": [
+        {
+          "source": "X 热门话题",
+          "url": "https://x.com/i/trending/2111886822477570470"
+        }
+      ]
+    },
+    {
+      "id": "openai-distillation-estimate",
+      "title": "X 热议：OpenAI 战略未来负责人 Dean Ball 将中国模型追赶中「蒸馏」贡献估计上调至约 50%",
+      "summary": "X News 汇总称 Ball 发帖称内部信息使其将蒸馏对中国模型基准进步的解释权重从约 30% 上调至约 50%；讨论同时提及美情报界对 DeepSeek、阿里等「工业级」抽取美前沿模型 token 的警告，以及检测与分阶段发布等防御手段。属社交媒体热议，细节仍待官方长文核实。",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2111863244294119425",
+      "category": "X 热议",
+      "published_at": "2026-10-18 约 17:00 UTC 话题更新",
+      "original_title": "OpenAI Executive Raises Estimate of Distillation's Role in Chinese AI Gains"
+    },
+    {
+      "id": "sphinx-ai-code-quiz",
+      "title": "Show HN：Sphinx 在推生产前用问卷考你是否理解 AI 写的代码，开源钩子登上首页",
+      "summary": "作者介绍 Sphinx 可接入现有编程智能体工作流，每次准备推生产时弹出问卷，检查开发者是否理解即将上线的代码；HN 讨论聚焦「氛围编程」后的责任与可读性，帖文约 240 分并进入首页。",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50137950",
+      "category": "产品更新",
+      "published_at": "2026-10-18 04:33 UTC（约 12:33 SGT）",
+      "original_title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "related": [
+        {
+          "source": "Sphinx 演示站",
+          "url": "https://sphinx-six-theta.vercel.app/"
+        }
+      ]
+    }
+  ]
+}
