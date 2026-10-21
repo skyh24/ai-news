@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-21",
+  "weekday": "周三",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-20 08:00 至 2026-10-21 08:00（新加坡时间）",
+  "updated_at": "2026-10-21 08:30 SGT",
+  "top_story_id": "anthropic-s1-loss",
+  "items": [
+    {
+      "id": "anthropic-s1-loss",
+      "title": "WSJ 曝 Anthropic S-1：上半年净亏约 807 亿美元、营收 163 亿，云厂商渐把它当对手",
+      "summary": "据《华尔街日报》获得的 IPO 招股书草案，Anthropic 2026 年上半年净亏损约 807 亿美元，同期营收约 163 亿美元，两家客户约占五分之一销售额。文件称 AWS、Google、微软日益视其为竞争对手，算力难以足量获得，云合同支出可能超过 7500 亿美元；公司据报瞄准 11 月 IPO。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "category": "融资并购",
+      "published_at": "2026-10-21 05:25 SGT",
+      "original_title": "Anthropic’s cloud partnerships are getting messy",
+      "related": [
+        {"source": "Reuters", "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/"},
+        {"source": "X 热议", "url": "https://x.com/i/trending/2112633705877340245"}
+      ]
+    },
+    {
+      "id": "deepseek-deepinfer",
+      "title": "DeepSeek 开源推理引擎 DeepInfer：支撑 V4.1-Flash 的服务框架，Apache 2.0 许可",
+      "summary": "DeepSeek 以 Apache 2.0 开源内部推理框架 DeepInfer，基于 vLLM，加入优化算子、多芯片分布式与加速生成技术，并同步发布复现官方 API 分词处理的 deepseek-recipe；公司称未来模型代码也将开源。Hacker News 上相关帖子获得约 2100 分，居当日 AI 话题首位。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+      "category": "产品更新",
+      "published_at": "2026-10-21 02:56 SGT",
+      "original_title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+      "related": [
+        {"source": "GitHub", "url": "https://github.com/deepseek-ai/DeepInfer"},
+        {"source": "Hacker News", "url": "https://news.ycombinator.com/item?id=50163277"}
+      ]
+    },
+    {
+      "id": "google-torchtpu",
+      "title": "Google 开源 TorchTPU：改配置即可让 PyTorch 应用跑在 TPU 上，继亚马逊后再攻英伟达生态",
+      "summary": "Google 周二宣布其 PyTorch 版本 TorchTPU 开源，开发者只需改配置、无需重写代码即可把现有 PyTorch 应用迁到 TPU 与 Google Cloud。就在前一天亚马逊刚发布面向 Trainium 的 TorchNeuron，两大云厂商同时瞄准英伟达 GPU 的默认地位；Hugging Face 也宣布原生支持。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "category": "产品更新",
+      "published_at": "2026-10-21 02:38 SGT",
+      "original_title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "related": [
+        {"source": "GitHub", "url": "https://github.com/google-pytorch/torch_tpu"},
+        {"source": "Hugging Face", "url": "https://huggingface.co/blog/hf-torchtpu"}
+      ]
+    },
+    {
+      "id": "openai-orchestra-bio",
+      "title": "OpenAI 收购 AI 生物科技软件公司 Orchestra Bio，并入生命科学模型 Rosalind 团队",
+      "summary": "OpenAI 宣布收购成立四年的 Orchestra Bio，交易条款未披露；该公司做帮药企处理药物研发运营琐事的 AI 智能体，此前据报融资约 2000 万美元。团队与技术将用于 OpenAI 的生命科学模型 Rosalind 及 Rosalind Workbench，OpenAI 称 Moderna、诺和诺德已是客户。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "category": "融资并购",
+      "published_at": "2026-10-20 08:00 SGT",
+      "original_title": "OpenAI acquires Orchestra Bio",
+      "related": [
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"}
+      ]
+    },
+    {
+      "id": "mistral-voxtral-3",
+      "title": "Mistral 发布 Voxtral 3：语音智能体 SDK 加新一代语音模型，支持 50 多种语言实时对话",
+      "summary": "Voxtral 3 包含语音智能体 SDK 和语音识别、带情绪的语音合成模型，面向实时多轮对话与工具调用，覆盖 50 多种语言；可通过 Mistral 欧盟托管 API 或自部署使用，主打数据主权，目标场景是客服中心、虚拟助理等。Hacker News 帖子获约 490 分。",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "category": "模型发布",
+      "published_at": "2026-10-20 20:00 SGT",
+      "original_title": "Voxtral 3",
+      "related": [
+        {"source": "The Decoder", "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"},
+        {"source": "Hacker News", "url": "https://news.ycombinator.com/item?id=50168396"}
+      ]
+    },
+    {
+      "id": "meta-muse-exposure",
+      "title": "Meta Muse 分享链接可被批量发现：研究者一次查询找到约 6800 条，Meta 暂停分享功能",
+      "summary": "安全公司 Claroc 称，通过被动 DNS 记录即可枚举约 6800 个 Muse 对话分享链接，抽查数百条发现公司营收、工作日历、贷款申请等敏感信息。Meta 表示已暂停该分享功能并审查报告；研究者称 10 月 8 日即通过漏洞赏金计划上报，但未获回复。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "category": "产品更新",
+      "published_at": "2026-10-20 20:33 SGT",
+      "original_title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "related": [
+        {"source": "The Verge", "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"}
+      ]
+    },
+    {
+      "id": "anthropic-nscale-45b",
+      "title": "CNBC：Anthropic 与 Nscale 洽谈第二笔算力租赁，西弗吉尼亚 460MW 数据中心，或值约 450 亿美元",
+      "summary": "知情人士称，Anthropic 正与英伟达支持的英国 neocloud 公司 Nscale 商谈第二笔数十亿美元级协议，租用同一西弗吉尼亚园区的第二座 460 兆瓦数据中心，金额可能约 450 亿美元。Bloomberg 首先报道，Anthropic 拒绝置评；此前微软刚退出 Nscale 伦敦附近项目。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+      "category": "融资并购",
+      "published_at": "2026-10-20 22:12 SGT",
+      "original_title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC"
+    },
+    {
+      "id": "eka-robotics-series-a",
+      "title": "具身智能公司 Eka 获 1.5 亿美元 A 轮、估值 14.5 亿：抓取速度每小时约 1500 件",
+      "summary": "由 MIT 教授 Pulkit Agrawal 与前 DeepMind 研究员 Tuomas Haarnoja 创立的 Eka Robotics 完成 a16z 与 F-Prime 领投的 1.5 亿美元 A 轮，投后估值 14.5 亿美元。其力敏夹爪加新型深度学习模型每小时可抓取约 1500 件 1 公斤以内物体（人类约 600 件），公司称成功率超 95%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "category": "融资并购",
+      "published_at": "2026-10-20 21:00 SGT",
+      "original_title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
+    },
+    {
+      "id": "claude-scorpion-binders",
+      "title": "Anthropic：Claude 设计抗蝎毒神经毒素蛋白结合体，211 个实验测试中 17 个达标并全部公开",
+      "summary": "Anthropic 让内部研究版 Claude 在一个提示加四次追问下设计针对蝎子神经毒素的微型结合蛋白，由 Adaptyv Bio 与 Twist Bioscience 实验测试 211 个设计，其中 17 个达到标准。项目与 Citrini Research 合作，探索非专家能否借 AI 攻克真实健康问题，全部设计与数据已公开。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "category": "研究突破",
+      "published_at": "2026-10-20 08:00 SGT",
+      "original_title": "How Claude designed protein binders against scorpion neurotoxins",
+      "related": [
+        {"source": "Hacker News", "url": "https://news.ycombinator.com/item?id=50170021"}
+      ]
+    },
+    {
+      "id": "otter-320m",
+      "title": "会议记录工具 Otter.ai 获 General Catalyst 成长基金 3.2 亿美元投资",
+      "summary": "Otter.ai 宣布获 General Catalyst 旗下 CVF 3.2 亿美元融资，将用于企业市场、国际扩张与产品；据 PitchBook，它此前累计仅融资约 5000 万美元。公司去年 ARR 突破 1 亿美元，累计用户从去年的 2500 万增至 4000 万，但面对 Granola、Fireflies 等激烈竞争。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "category": "融资并购",
+      "published_at": "2026-10-20 19:00 SGT",
+      "original_title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool"
+    },
+    {
+      "id": "elevenlabs-realtime",
+      "title": "ElevenLabs 发布 Eleven Realtime 语音到语音模型：Max 版 Big Bench Audio 98.8%、响应 0.57 秒",
+      "summary": "ElevenLabs 推出两款实时语音到语音模型：v1 Max 面向客服等复杂任务，Big Bench Audio 得分 98.8%、响应约 0.57 秒，公司称 Artificial Analysis 榜单上暂无又快又准胜过它的模型；v1 Mini 更便宜，能分辨对方说完还是在「嗯嗯」附和。两者经 ElevenAgents 和兼容 OpenAI 的 Realtime API 提供。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+      "category": "模型发布",
+      "published_at": "2026-10-21 03:03 SGT",
+      "original_title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations"
+    },
+    {
+      "id": "chatgpt-locked-chats",
+      "title": "ChatGPT 上线「锁定聊天」：用 PIN 把敏感对话单独锁起，且有独立记忆",
+      "summary": "锁定后的对话移入单独的 Locked Chats 区，不出现在普通历史与搜索中；开启记忆时该区有自己的记忆，不会泄漏到普通对话。OpenAI 说明这不是端到端加密，也不改变保留期限和训练设置；重置 PIN 会永久删除所有锁定内容。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "category": "产品更新",
+      "published_at": "2026-10-21 02:36 SGT",
+      "original_title": "ChatGPT now lets you lock your chats",
+      "related": [
+        {"source": "Engadget", "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/"}
+      ]
+    },
+    {
+      "id": "spotify-50m-ai-slop",
+      "title": "Spotify 从推荐中撤下 5000 万首 AI 垃圾和刷量歌曲，调整算法突出真人音乐人",
+      "summary": "据 The Verge，Spotify 已把约 5000 万首 AI 生成的低质和垃圾曲目移出推荐系统，并修改推荐机制以突出人类音乐人的作品。Engadget 则评论称 Spotify 仍在回避 AI 垃圾内容问题的核心。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "category": "产品更新",
+      "published_at": "2026-10-20 22:18 SGT",
+      "original_title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "related": [
+        {"source": "Engadget", "url": "https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/"}
+      ]
+    },
+    {
+      "id": "x-humans-ampersand",
+      "title": "X 热议：humans& 发布 Ampersand v0.1，主打陪团队数月协作的「合作者」AI",
+      "summary": "据 X 话题汇总，由前 DeepMind、OpenAI、Anthropic 等成员创立的 humans& 发布 Ampersand v0.1，用多月模拟训练，帮助团队追求共同和个人目标，已通过 Agents API 向开发者开放。此为 X 帖子汇总，细节以官方发布为准。",
+      "source": "X",
+      "url": "https://x.com/i/trending/2112681478547255563",
+      "category": "X 热议",
+      "published_at": "2026-10-21 07:11 SGT",
+      "original_title": "humans& Launches Ampersand, AI for Long-Term Group Collaboration"
+    },
+    {
+      "id": "x-amazon-nvidia-spv",
+      "title": "X 热议：亚马逊据报洽谈把约 80 亿美元英伟达芯片打包进 SPV 再租回，因数据中心电力不足闲置",
+      "summary": "据 X 话题汇总的报道，亚马逊正商谈把约 80 亿美元 Grace Blackwell 芯片转入特殊目的载体，通过债务和少量股权融资后再租回使用；内部文件显示大量 GB300 机柜因电力与基础设施不足堆在仓库。此为 X 帖子汇总，细节以原始报道为准。",
+      "source": "X",
+      "url": "https://x.com/i/trending/2112540739628630161",
+      "category": "X 热议",
+      "published_at": "2026-10-20 21:52 SGT",
+      "original_title": "Amazon Explores Offloading $8 Billion in Nvidia Chips to Investors"
+    }
+  ]
+}
