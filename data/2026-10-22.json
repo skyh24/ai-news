@@ -8,7 +8,7 @@
   "items": [
     {
       "id": "php2shell-ai-found",
-      "title": "AI 挖出 PHP 核心严重漏洞「PHP2Shell」：近十年所有版本受影响，全网紧急打补丁",
+      "title": "AI 挖出 PHP 核心严重漏洞「PHP2Shell」：5.4 以来所有版本受影响，各方紧急修补",
       "summary": "Wiz 披露 PHP 引擎多处严重漏洞，包括未授权远程代码执行和类似 Heartbleed 的内存泄露，5.4 以来的每个版本至少受其中一个影响。OpenAI 的 GPT-5.6 Sol（Patch the Planet 计划）和借助 Gemini 4 Argon 的 Wiz 分别独立发现，修复历经两个月多方协调。",
       "source": "Wiz Research",
       "url": "https://www.wiz.io/blog/php2shell-php-rce",
