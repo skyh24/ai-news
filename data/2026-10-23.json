@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-23",
+  "weekday": "周五",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-22 08:00 至 2026-10-23 08:00（新加坡时间）",
+  "updated_at": "2026-10-23 08:30 SGT",
+  "top_story_id": "openai-30b-raise-1-25t",
+  "items": [
+    {
+      "id": "openai-30b-raise-1-25t",
+      "title": "OpenAI 拟再融资最高 300 亿美元、估值约 1.25 万亿美元，阿联酋与 Coatue 牵头",
+      "summary": "据 CNBC 等报道，OpenAI 接近敲定一轮最高约 300 亿美元的私募融资，投前估值约 1.25 万亿美元，由 Coatue 与阿联酋投资者牵头；此前市场曾传出 1.4 万亿美元目标后遭部分投资人阻力。该轮被描述为 IPO 前的「机会性」过桥融资，阿联酋资金或伴随算力合作，OpenAI 未予置评。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "category": "融资并购",
+      "published_at": "2026-10-23 06:08 SGT",
+      "original_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "related": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-agent-skills-aaif",
+      "title": "Anthropic 把 Agent Skills 标准捐给 Linux 基金会旗下 Agentic AI Foundation",
+      "summary": "Anthropic 宣布将 Agent Skills（含名称、Logo、GitHub 组织与 agentskills.io 域名）捐赠给与 Block、OpenAI 等共创的 AAIF，以保持开放与厂商中立。自 2025 年底开源以来，已有超 70 个代理平台接入，约 100 万个 skills 发布、近 2.8 亿次安装。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "category": "产品更新",
+      "published_at": "2026-10-22 12:00 SGT",
+      "original_title": "Donating Agent Skills to the Agentic AI Foundation",
+      "related": [
+        {
+          "source": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox"
+        }
+      ]
+    },
+    {
+      "id": "deepmind-resign-military-ai",
+      "title": "DeepMind 等多名谷歌员工因军方 AI 合同辞职，BBC 披露内部反弹",
+      "summary": "BBC 采访到近期离职或正离职的 DeepMind 员工，伦敦工程师 Sofia Liguori 本周辞职并称公司加强军方 AI 部署让她「羞愧」；研究员 Andreas Kirsch 亦因认为对五角大楼使用缺乏有效管控而离开。谷歌回应称公共部门合同经可接受使用政策与 AI 原则审查，并有内部举报渠道。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "category": "政策监管",
+      "published_at": "2026-10-22 08:00 SGT",
+      "original_title": "Google staff resign in backlash over its AI contracts with military",
+      "related": [
+        {
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-22-2026/"
+        }
+      ]
+    },
+    {
+      "id": "openai-decisions-api-ga",
+      "title": "OpenAI Decisions API 正式全面开放：用 GPT-6 Luna 做低成本实时决策",
+      "summary": "OpenAI 宣布 Decisions API 结束公测并全面可用，面向分类、路由、打分等有界问题，称可比 Responses API 上的 Luna 快至约 10 倍；支持文本、图像与原生 JSON，单次最多 400 个问题，并与 GPT-Live 原生集成。定价为每百万输入 token 0.10 美元（缓存 0.01），不收输出 token 费。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/decisions-api",
+      "category": "产品更新",
+      "published_at": "2026-10-22 12:00 SGT",
+      "original_title": "Build more responsive apps with the Decisions API",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+        }
+      ]
+    },
+    {
+      "id": "canva-craft-image-model",
+      "title": "Canva 发布首个自研图像模型 Craft：先规划构图再渲染，支持 2K",
+      "summary": "Canva Research 推出首个从零训练的图像生成模型 Craft，采用两阶段「规划—渲染」架构，最高 2K、30 多种宽高比，并可在 Dream Lab 与公开 API 使用。公司称在 DesignArena 上跻身前列，训练数据侧重设计模板与排版，输出更易转成可编辑图层。",
+      "source": "Canva",
+      "url": "https://www.canva.com/newsroom/news/canva-craft/",
+      "category": "模型发布",
+      "published_at": "2026-10-22 12:00 SGT",
+      "original_title": "Introducing Canva Craft",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+        }
+      ]
+    },
+    {
+      "id": "1password-for-agents",
+      "title": "1Password for Agents 上线：AI 代理代登录却看不到你的密码",
+      "summary": "1Password 推出面向个人 AI 代理的登录通道：代理用数字身份发起请求，用户在本机批准后由 1Password 直接填入凭证，代理拿不到密码或保险库内容。首批支持 Claude Duet、OpenAI Dots/ChatGPT Work、Grok Bot、Meta Muse 等，正值银行侧开始察觉账户中的代理活动。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "category": "产品更新",
+      "published_at": "2026-10-23 03:07 SGT",
+      "original_title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+        },
+        {
+          "source": "1Password",
+          "url": "https://1password.com/press/2026/october/1password-for-agents-trust-layer-personal-ai-agents"
+        }
+      ]
+    },
+    {
+      "id": "amodei-race-to-top-x",
+      "title": "阿莫迪长文回击 Encode：Anthropic 必须留在「向上竞赛」里才能推高安全标准",
+      "summary": "面对 Encode AI 的 Nathan Calvin 对其安全承诺的长文批评，Dario Amodei 在 X 上近 2000 字回应，列出九项据称牺牲商业利益的安全决策（含 Mythos 限量发布、限制对华销售等），并承认部分立法沟通处理不当。该辩论在 10 月 22 日继续发酵，成为安全圈热议焦点。",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/dario-amodei-anthropic-race-to-top-ai-safety-2026-10",
+      "category": "X 热议",
+      "published_at": "2026-10-21 14:54 SGT（本窗口持续发酵）",
+      "original_title": "Amodei Says Anthropic Must Stay in 'Race to the Top' to Keep AI Safe",
+      "related": [
+        {
+          "source": "X Trending",
+          "url": "https://x.com/i/trending/2113303850631450773"
+        },
+        {
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-22-2026/"
+        }
+      ]
+    },
+    {
+      "id": "meta-terms-news-scrape",
+      "title": "法律专家：Meta 改完商业条款后，仍可能免费抓取新闻站训练 AI",
+      "summary": "Meta 更新面向商家的条款，去掉了易被解读为可自由「训练」的措辞，但律师指出「开发」广告与商业产品的表述仍可能覆盖 AI 训练用途；条款拟 10 月 30 日生效。出版方可借 robots.txt 表达偏好，但 Meta 并未明确承诺遵守。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "category": "政策监管",
+      "published_at": "2026-10-22 12:00 SGT",
+      "original_title": "Meta’s AI could still scrape news sites, legal experts say",
+      "related": [
+        {
+          "source": "Nieman Lab",
+          "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
+        }
+      ]
+    },
+    {
+      "id": "memtensor-memt-1",
+      "title": "MemTensor 开源 MemT 1.0：用固定大小记忆态替代全量上下文缓存",
+      "summary": "MemTensor 开源记忆原生模型家族 MemT 1.0（含 Nano 与 Flash），把交互写入固定大小内部状态而非整段 KV 缓存；公司称在 256K token 场景端到端推理约快 3.99 倍，单会话记忆态约 40 MiB。权重已上 Hugging Face，论文同步公开。",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/MemTensor/MemT-1.0-Flash",
+      "category": "研究突破",
+      "published_at": "2026-10-22 12:00 SGT",
+      "original_title": "MemT-1.0: Towards Memory-Native Evolution",
+      "related": [
+        {
+          "source": "arXiv",
+          "url": "https://arxiv.org/html/2610.26825"
+        },
+        {
+          "source": "GitHub",
+          "url": "https://github.com/MemTensor/MemT-1.0"
+        }
+      ]
+    },
+    {
+      "id": "design-it-for-us-2027",
+      "title": "青年团体 Design It For Us 推 2027 AI 政策纲领，吁国会年底前立法",
+      "summary": "Design It For Us 发布基于超 700 名成员反馈的 2027 AI 政策平台，要求国会在 2027 年底前通过法案：独立测试大模型、产品伤人可追责、保留各州加严监管权，并对面向未成年人的聊天机器人设默认安全与危机响应要求。",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/10/21/2026/youth-led-ai-safety-group-demands-protections-for-young-users",
+      "category": "政策监管",
+      "published_at": "2026-10-21 12:00 SGT（本窗口持续报道）",
+      "original_title": "Youth-led AI safety group demands protections for young users",
+      "related": [
+        {
+          "source": "Design It For Us",
+          "url": "https://designitforus.org/platform/design-it-for-us-2027-ai-policy-platform/"
+        }
+      ]
+    },
+    {
+      "id": "mistral-nvidia-engineering",
+      "title": "Mistral 联手英伟达推工业工程 AI：仿真闭环 + CAE/EDA 代理评测",
+      "summary": "Mistral 与 NVIDIA 扩大合作，将 Mistral Large 4 与 CUDA-X、Warp、Omniverse 结合，加速工程仿真并打通设计—仿真闭环；同时计划发布物理 AI 与 CAE/EDA 代理的公开基准与数据集，覆盖航空航天、汽车与半导体场景。",
+      "source": "Mistral",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "category": "产品更新",
+      "published_at": "2026-10-21 12:00 SGT（本窗口持续发酵）",
+      "original_title": "Mistral Advances AI for Engineering with NVIDIA",
+      "related": [
+        {
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/"
+        }
+      ]
+    },
+    {
+      "id": "google-agent-compute-engine",
+      "title": "谷歌云推出 Agent Compute Engine：用隔离微虚拟机跑 AI 代理会话",
+      "summary": "Google Cloud 宣布 Agent Compute Engine，为代理会话提供硬件隔离的 microVM 沙箱，并扩展代理治理能力；预览计划于 2026 年内晚些时候开放。该服务把支撑 Gemini 代理的基础设施产品化，面向企业规模部署。",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
+      "category": "产品更新",
+      "published_at": "2026-10-22 12:00 SGT",
+      "original_title": "Introducing Agent Compute Engine and expanding agent governance",
+      "related": [
+        {
+          "source": "Google Cloud Blog",
+          "url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive"
+        },
+        {
+          "source": "The New Stack",
+          "url": "https://thenewstack.io/google-agent-compute-engine/"
+        }
+      ]
+    }
+  ]
+}
