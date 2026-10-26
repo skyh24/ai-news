@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "weekday": "周一",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-25 08:00 至 2026-10-26 08:00（新加坡时间）",
+  "updated_at": "2026-10-26 08:30 SGT",
+  "top_story_id": "softbank-malaysia-50bn",
+  "items": [
+    {
+      "id": "softbank-malaysia-50bn",
+      "title": "软银拟在马来西亚投入约 500 亿美元 AI 与数据中心：安华称已与孙正义视频会谈",
+      "summary": "日经亚洲与马来西亚 BusinessToday 报道，总理安华称与软银创始人孙正义视频会谈后，软银正讨论在马来西亚约 500 亿美元（约合 2043 亿令吉）的 AI、新兴技术与数据中心投资，地点包括古晋（砂拉越）与半岛。项目仍处规划阶段，实施时间表与资金结构尚未公布。",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says",
+      "category": "融资并购",
+      "published_at": "2026-10-26 01:11 SGT",
+      "original_title": "SoftBank plans $50bn AI investment in Malaysia, PM says",
+      "related": [
+        {
+          "source": "BusinessToday",
+          "url": "https://www.businesstoday.com.my/2026/10/25/softbank-founder-plans-us50-billion-malaysia-tech-investment-anwar-says/"
+        }
+      ]
+    },
+    {
+      "id": "openai-php2shell",
+      "title": "AI 挖出 PHP 核心十余年隐患：OpenAI Patch the Planet 与 Wiz 协同披露 PHP2Shell",
+      "summary": "OpenAI 与 Calif、Wiz 等协调披露核心 PHP 严重漏洞（CVE-2026-109618、CVE-2026-109619）：可导致未认证远程代码执行与内存泄露，影响近十年多版 PHP，WordPress/Drupal/Joomla 等演示可被打穿。10 月 21 日补丁已发；OpenAI 另承诺约 10 亿美元补贴防御方 Daybreak 接入。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "category": "研究突破",
+      "published_at": "2026-10-21 12:00 SGT（本窗口持续发酵）",
+      "original_title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "related": [
+        {
+          "source": "Wiz Blog",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce"
+        }
+      ]
+    },
+    {
+      "id": "openai-training-containment",
+      "title": "OpenAI 强化前沿训练环境隔离：默认无公网，「离线世界」+ 深度红队",
+      "summary": "OpenAI 详述前沿模型训练与评估环境的纵深防御：默认禁止访问公网、用缓存构建「离线世界」，并叠容器/微虚拟机、网络边界与监控。9 月 20 日一次 DNS 误配导致有限出网后曾暂停最强模型训练；高算力红队发现 Kata/gVisor 等漏洞后于 10 月 1 日恢复 RL。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "category": "研究突破",
+      "published_at": "2026-10-23 12:00 SGT（本窗口持续发酵）",
+      "original_title": "Securing our frontier model training environment"
+    },
+    {
+      "id": "lynch-cnn-skin-cancer",
+      "title": "皮肤科医生实测：十年前 CNN 在皮肤癌诊断上优于 GPT-6 Astra 与 Claude Fable 5.1",
+      "summary": "伦敦国王学院 Magnus Lynch 在 200 例活检证实皮损上对比：微调 Inception v3（约 62% 首诊正确）显著高于 GPT-6 Astra 与 Claude Fable 5.1（约 42%）。作者强调样本量小、非 SOTA，但专病小模型在识别黑色素瘤与区分可否出院上仍明显更强；病例与评分代码公开。",
+      "source": "Lynch Lab",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "category": "研究突破",
+      "published_at": "2026-10-25 12:00 SGT",
+      "original_title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "related": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50233779"
+        }
+      ]
+    },
+    {
+      "id": "openai-decisions-api",
+      "title": "OpenAI Decisions API 正式 GA：面向分类/路由/打分的低延迟决策接口",
+      "summary": "基于 GPT-6 Luna 的 Decisions API 全面可用，专攻有界答案（概率、选择、评分），宣称可比 Responses API 快约至 10 倍；支持原生 JSON、图像指令、单请求最多 400 题，并与 GPT-Live 集成。定价约每百万输入 token 0.10 美元、无输出计费；Box、Datadog、Ramp、Sierra 等给出早期用例。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/decisions-api/",
+      "category": "产品更新",
+      "published_at": "2026-10-22 12:00 SGT（本窗口持续报道）",
+      "original_title": "Build more responsive apps with the Decisions API"
+    },
+    {
+      "id": "nanbeige-43-33b",
+      "title": "南贝 Nanbeige4.3-33B 开源上架：约 30B 档开源代理编码表现领先",
+      "summary": "Nanbeige 团队在 Hugging Face 发布 Apache-2.0 的 Nanbeige4.3-33B（约 33B 稠密、至多 512K 上下文），定位系列教师模型。官方对比称 Terminal-Bench 2.1 达 80.9，多数代理编程与办公协作基准领先 Qwen3.8-27B 等同档开源模型，并计划蒸馏更小的 3B。",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "category": "模型发布",
+      "published_at": "2026-10-24 12:00 SGT（本窗口持续发酵）",
+      "original_title": "Nanbeige4.3-33B"
+    },
+    {
+      "id": "anthropic-single-agent-loop",
+      "title": "Anthropic 建议把子代理折回主循环：技能渐进披露常胜过组织图式多智能体",
+      "summary": "Anthropic Applied AI 发文称，多个企业部署把路由/规划/领域子代理并入单一主循环后，在质量、成本与延迟上常优于「一任务一子代理」。文章给出迁移工具包与保留子代理的三条标准（上下文膨胀、可丢弃并行、工具选择冲突），并批评按组织架构复制子代理的做法。",
+      "source": "Claude / Anthropic",
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "category": "产品更新",
+      "published_at": "2026-10-22 12:00 SGT（本窗口 X 热议）",
+      "original_title": "Building agents: When to fold subagents into your main agent loop",
+      "related": [
+        {
+          "source": "X Trending",
+          "url": "https://x.com/i/trending/2114330879086461367"
+        }
+      ]
+    },
+    {
+      "id": "cerebras-trillion-param",
+      "title": "Cerebras 公开万亿参数部署法：以开源 Kimi K3（约 3T）为例拆到约 59 片晶圆",
+      "summary": "Cerebras 技术博客解释如何在 WSE-3T（片上约 44GB）上部署万亿参数前沿模型：4bit 权重下以 Kimi K3 为例，稠密层一晶圆一层、线性注意力层可双层共片，合计约 59 片，流水线只传激活、称可达约 1000–2000+ tokens/s 量级。",
+      "source": "Cerebras",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "category": "产品更新",
+      "published_at": "2026-10-22 12:00 SGT（本窗口 HN/社区持续讨论）",
+      "original_title": "How we deploy Trillion-parameter frontier models on Cerebras"
+    },
+    {
+      "id": "openai-google-cloud",
+      "title": "OpenAI 模型与 Codex 将登陆 Google Cloud Model Garden",
+      "summary": "OpenAI 与 Google Cloud 宣布把前沿模型与 Codex 代理工作流接入 Model Garden，经 Marketplace 计费并可抵扣 GCP 承诺消费；随后还将进入 Antigravity 与 Gemini Agent。目前为邀请预览，全面可用计划数周内；微软仍为 OpenAI 主要云伙伴。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "category": "产品更新",
+      "published_at": "2026-10-21 12:00 SGT（本窗口持续报道）",
+      "original_title": "OpenAI models are coming to Google Cloud"
+    },
+    {
+      "id": "x-gemini-coding-hallucinations",
+      "title": "X 热议 Gemini 编程幻觉：Theo 晒出虚构行号与导出细节，DeepMind 工程师求复现",
+      "summary": "t3.gg 的 Theo 等开发者在 X 上展示 Gemini 在代理式编程中高幻觉案例（如引用远超文件长度的行号、编造脚本与导出状态）。讨论指真实工作流不可靠，有人改投 Claude；一名 Google DeepMind 工程师公开索要 prompt 与 commit 以便排查。",
+      "source": "X Trending",
+      "url": "https://x.com/i/trending/2114508753114460424",
+      "category": "X 热议",
+      "published_at": "2026-10-26 08:10 SGT",
+      "original_title": "Developer Exposes High Hallucination Rates in Google's Gemini for Coding"
+    },
+    {
+      "id": "x-claude-openrouter-surge",
+      "title": "X 热议 Claude 5.5 用量暴涨：OpenRouter 日 token 冲高，IPO 估值传言再起",
+      "summary": "X 新闻帖称自 Opus 5.5 发布以来 Anthropic 模型在 OpenRouter 等渠道 7 日均 token 量数倍增长、单日可至数万亿 token；用户赞性价比，同时讨论周限额吃紧。帖文还提到约 11 月 9 日当周启动 IPO、目标约 2 万亿美元估值等市场传言，需对照官方披露。",
+      "source": "X Trending",
+      "url": "https://x.com/i/trending/2114377216171880917",
+      "category": "X 热议",
+      "published_at": "2026-10-26 06:29 SGT",
+      "original_title": "Anthropic's Claude 5.5 Models Drive Massive Usage Surge on OpenRouter"
+    },
+    {
+      "id": "x-anthropic-rea-limits",
+      "title": "X 热议 Anthropic 收紧 REA 逆向：用 Claude 给三星电视去广告的玩法遇阻",
+      "summary": "社区流传 Anthropic 限制 Claude 使用开源 REA（逆向/二进制检查）类工具后，此前用长会话给 Android/三星电视去广告、改界面的工作流受影响。讨论转向本地模型与 GitHub 变通方案；Anthropic 尚未就该变更公开说明。",
+      "source": "X Trending",
+      "url": "https://x.com/i/trending/2114190302982316485",
+      "category": "X 热议",
+      "published_at": "2026-10-25 11:03 SGT",
+      "original_title": "Anthropic Limits Claude's Reverse Engineering with REA Tool"
+    }
+  ]
+}
