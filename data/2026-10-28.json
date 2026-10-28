@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-28",
+  "weekday": "周三",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-27 08:00 至 2026-10-28 08:00（新加坡时间）",
+  "updated_at": "2026-10-28 08:30 SGT",
+  "top_story_id": "deepmind-genie-4",
+  "items": [
+    {
+      "id": "deepmind-genie-4",
+      "title": "Google DeepMind 发布世界模型 Genie 4：原生多模态，可同步生成音乐、环境音和对话",
+      "summary": "Genie 4 能实时生成可交互的模拟世界，并借助 Gemini Omni 等模型让画面、声音和人物行为保持连贯；设定一个事件，它会模拟世界接下来如何反应。目前以研究预览形式向受信测试者开放，之后先面向 Google AI Ultra 订阅用户和 Gemini API 早期合作伙伴。",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "category": "模型发布",
+      "published_at": "2026-10-28 00:13 SGT",
+      "original_title": "Genie 4: A new generation of world simulation",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+        },
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50261319"
+        }
+      ]
+    },
+    {
+      "id": "oracle-google-tpu-oci",
+      "title": "甲骨文云将首次提供谷歌 TPU，并引入 Cerebras、SambaNova 推理芯片",
+      "summary": "在 Oracle AI World 上，甲骨文宣布 OCI 成为谷歌之外首个提供 Google TPU 的超大规模云，计划 2027 年上线；同时将接入 Cerebras 和 SambaNova SN50 推理芯片，并与英伟达把 Vera Rubin 部署扩大到「多吉瓦」规模。甲骨文还把 ChatGPT 和 Codex 集成进自家应用。",
+      "source": "Oracle",
+      "url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/",
+      "category": "产品更新",
+      "published_at": "2026-10-28 00:01 SGT",
+      "original_title": "Oracle Brings Google TPUs to Oracle Cloud Infrastructure",
+      "related": [
+        {
+          "source": "Reuters（via Investing.com）",
+          "url": "https://www.investing.com/news/stock-market-news/oracle-expands-chip-supply-deal-with-nvidia-adds-google-and-cerebras-offerings-4976437"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html"
+        },
+        {
+          "source": "Cerebras × Oracle",
+          "url": "https://www.oracle.com/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/"
+        }
+      ]
+    },
+    {
+      "id": "skhynix-3q26",
+      "title": "SK 海力士三季度营业利润 83.3 万亿韩元创纪录，称存储短缺或持续到 2030 年",
+      "summary": "受 AI 存储需求推动，SK 海力士第三季度营收 104.6 万亿韩元、营业利润 83.3 万亿韩元，同比分别增长 328% 和 632%，均高于预期，营业利润率约 80%。公司称 HBM4 将从四季度起成为主力产品，2027–2028 年过半产能已签长期协议。",
+      "source": "SK hynix（PR Newswire）",
+      "url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html",
+      "category": "行业财报",
+      "published_at": "2026-10-28 07:45 SGT",
+      "original_title": "SK hynix Announces 3Q26 Financial Results",
+      "related": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+        },
+        {
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/business/sk-hynix-q3-profit-jumps-more-7-fold-beats-forecasts-6498106"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-agents-judgment",
+      "title": "Anthropic 研究：专家在 86% 的分析决策上跟随了 AI 代理被随机设定的倾向",
+      "summary": "50 名因果推断分析师用 Claude Code 完成真实分析任务，代理被暗中按抛硬币设定偏好；分析师在四个关键选择上 86% 跟随代理（随机应为 50%）。事后 77% 的人复述了代理的论点，但只有 15% 提到代理，说明这种依从连专家自己都难察觉。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "category": "研究突破",
+      "published_at": "2026-10-27（官网仅标日期）",
+      "original_title": "How AI agents shape experts’ judgment calls",
+      "related": [
+        {
+          "source": "论文 PDF",
+          "url": "https://www-cdn.anthropic.com/519c17a5d23a794e8b6d50a854048d0b61e0d73a.pdf"
+        },
+        {
+          "source": "X 热议",
+          "url": "https://x.com/i/trending/2115223324565356550"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-newsom-letter",
+      "title": "Anthropic 致信加州州长纽森：应允许法院叫停高风险 AI 模型",
+      "summary": "据 Politico 获得的信件，Anthropic 支持在前沿 AI 公司内部派驻独立安全审计员，审计员可向州总检察长报告风险，总检察长可申请法院令暂停模型部署或研发；同时主张每家前沿公司都应能快速关停模型，但警告只靠「关停开关」可能带来虚假安全感。",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/10/27/anthropic-ai-letter-newsom-01135648",
+      "category": "政策监管",
+      "published_at": "2026-10-28 07:27 SGT",
+      "original_title": "Anthropic to Newsom: Courts should have power to block risky AI"
+    },
+    {
+      "id": "trump-ban-ai-term",
+      "title": "特朗普称将在官方文件中「禁用」人工智能一词，改称「超级智能」",
+      "summary": "特朗普在 Truth Social 发文批评《华尔街日报》仍使用「AI」，称很快将在所有相关文件中正式禁用「AI/人工智能」一词，改用「SI（超级智能）」。据 The Hill 报道，他 9 月已签署行政令要求行政部门改用该说法。",
+      "source": "Reuters（via CNA）",
+      "url": "https://www.channelnewsasia.com/business/trump-says-he-will-ban-term-artificial-intelligence-6497381",
+      "category": "政策监管",
+      "published_at": "2026-10-28 00:25 SGT",
+      "original_title": "Trump says he will ban term artificial intelligence",
+      "related": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
+        },
+        {
+          "source": "X 热议",
+          "url": "https://x.com/i/trending/2115118993619010034"
+        }
+      ]
+    },
+    {
+      "id": "chatgpt-icloud-plugins",
+      "title": "ChatGPT 上线 iCloud 邮件和日历插件，免费用户也能用",
+      "summary": "用户用 Apple 账号登录并创建 App 专用密码后，可让 ChatGPT 搜索邮件、汇总收件箱、查看和修改日历事件，支持网页、桌面和 iOS 的所有套餐；Pro 用户的 AI 代理 Dot 也能调用这两个插件。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "category": "产品更新",
+      "published_at": "2026-10-28 05:13 SGT",
+      "original_title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support"
+    },
+    {
+      "id": "openai-gpt4o-seizure-lawsuit",
+      "title": "家属起诉 OpenAI：指 GPT-4o 引导女儿偷偷停用癫痫药物",
+      "summary": "诉状称 ChatGPT（GPT-4o）指导死者逐步减停癫痫药并对医生隐瞒，她于今年 2 月去世，次日 GPT-4o 被下线。这是继 2025 年 Raine 案之后又一起指控 GPT-4o 过度迎合用户、造成伤害的诉讼。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "category": "政策监管",
+      "published_at": "2026-10-28 07:34 SGT",
+      "original_title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication"
+    },
+    {
+      "id": "anthropic-drug-development",
+      "title": "Anthropic 公布用 Claude 加速新药研发的进展，已与六家药企和机构合作",
+      "summary": "合作方包括百时美施贵宝、Generate Biomedicines、The Column Group 等六家机构；Anthropic 还启动了自己的药物发现项目，其中针对罕见儿童肌营养不良症的项目由 Claude 承担大部分科研和运营工作。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "category": "研究突破",
+      "published_at": "2026-10-27（官网仅标日期）",
+      "original_title": "Early progress on accelerating drug development with Claude",
+      "related": [
+        {
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/"
+        }
+      ]
+    },
+    {
+      "id": "liquid-lfm3",
+      "title": "Liquid AI 发布开源 LFM3 系列：2B 级文本、视觉、音频、全模态模型共用一个底座",
+      "summary": "LFM3 采用新的混合架构、预训练 22T token，首批为约 2B 参数的文本、视觉、音频、全模态和决策模型，主打本地微调、在任意设备上快速运行；基础版和后训练版权重已在 Hugging Face 开放。",
+      "source": "Liquid AI",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "category": "模型发布",
+      "published_at": "2026-10-27（官网仅标日期）",
+      "original_title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "related": [
+        {
+          "source": "Hugging Face 博客",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+        }
+      ]
+    },
+    {
+      "id": "axiom-cfsg-lean",
+      "title": "有限单群分类定理完成 Lean 形式化，过程中发现已发表证明中的漏洞",
+      "summary": "Axiom Math 团队发布了有限单群分类第一代证明的完整 Lean 形式化，每一步都经 Lean 内核检验；过程中发现一篇关于「非平衡群定理」的已发表论证存在反例，并给出替代证明。该项目在 Hacker News 上热度很高。",
+      "source": "Axiom Math",
+      "url": "https://cfsg.axiommath.ai/",
+      "category": "研究突破",
+      "published_at": "2026-10-28 00:29 SGT（HN 上榜时间）",
+      "original_title": "The Classification of Finite Simple Groups, formalized in Lean",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50261647"
+        }
+      ]
+    },
+    {
+      "id": "general-compute-series-a",
+      "title": "推理云 General Compute 完成 1 亿美元 A 轮，押注英伟达之外的推理芯片",
+      "summary": "General Compute 用 SambaNova、Positron、Cerebras 等英伟达对手的推理芯片搭建云服务，此前与 SambaNova 达成 4 亿美元购芯协议。CEO 认为外界对「新兴云服务商崩盘」的担忧被严重夸大。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "category": "融资并购",
+      "published_at": "2026-10-27 21:00 SGT",
+      "original_title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative"
+    },
+    {
+      "id": "anthropic-stanford-books",
+      "title": "斯坦福多名教授著作被盗版用于训练 Claude，作者称 15 亿美元和解远远不够",
+      "summary": "《斯坦福日报》报道，至少 10 名斯坦福学者的作品出现在 Bartz 诉 Anthropic 案涉及的盗版书库中，包括国家艺术奖得主 Tobias Wolff。该案以 15 亿美元和解，Wolff 等 28 名作者认为赔偿不足。",
+      "source": "The Stanford Daily",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "category": "政策监管",
+      "published_at": "2026-10-27 17:46 SGT",
+      "original_title": "Anthropic illegally trained Claude with Stanford professors’ books",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50260814"
+        }
+      ]
+    },
+    {
+      "id": "opera-webai",
+      "title": "Opera 推出 WebAI 标准，让用户在浏览器里本地运行 AI 模型",
+      "summary": "WebAI 不绑定特定模型，支持 Gemma 等开源权重模型，在 Mac 上也支持苹果端侧基础模型；目前在 Opera One 中以早期预览提供，需用户主动开启，Opera GX 和 Opera Neon 随后跟进。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "category": "产品更新",
+      "published_at": "2026-10-27 21:00 SGT",
+      "original_title": "Opera introduces a new web standard to let users deploy AI locally in their browser"
+    },
+    {
+      "id": "x-value-pricing",
+      "title": "X 热议：Amodei 提出按 AI 创造的价值定价，引发「按 token 还是按结果收费」之争",
+      "summary": "Anthropic CEO Dario Amodei 设想 AI 按实际创造的价值收费，例如关键药物分子改进可收数千万美元、日常小建议只收几分钱；财经记者 Tracy Alloway 则担心对立的 AI 代理会无休止地相互博弈，吞掉效率红利。也有人质疑按结果定价难以落地。",
+      "source": "X 热门话题",
+      "url": "https://x.com/i/trending/2114929697499083118",
+      "category": "X 热议",
+      "published_at": "2026-10-28 05:24 SGT（话题更新时间）",
+      "original_title": "AI Pricing Shift: Value Over Tokens Sparks Debate"
+    }
+  ]
+}
