@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-29",
+  "weekday": "周四",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-10-28 08:00 至 2026-10-29 08:00（新加坡时间）",
+  "updated_at": "2026-10-29 08:30 SGT",
+  "top_story_id": "gemini-4-carbon",
+  "items": [
+    {
+      "id": "gemini-4-carbon",
+      "title": "谷歌发布新一代前沿模型 Gemini 4 Carbon，网络安全和长程任务能力大幅提升",
+      "summary": "谷歌称 Carbon 是其最强模型，在 Artificial Analysis 智能指数 v5 中以 59 分排名第一，并在 SEC-bench Pro（88.2%）、ExploitGym（54.8%）、CWE-bench（71.0%）等安全基准上领先。距 Gemini 4 Argon 发布仅两周；本周起先向部分网络安全防御方开放，再通过 Fairwind 计划逐步扩大到受信合作伙伴。",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "category": "模型发布",
+      "published_at": "2026-10-29 01:00 SGT",
+      "original_title": "Gemini 4 Carbon: Our next frontier model",
+      "related": [
+        {"source": "Google 博客", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"},
+        {"source": "The Verge", "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"},
+        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50276792"}
+      ]
+    },
+    {
+      "id": "microsoft-openai-10b",
+      "title": "微软财报：单季从 OpenAI 获得 100 亿美元收入，首次公布 Azure 季度营收 332 亿美元",
+      "summary": "截至 9 月 30 日的季度，微软从与 OpenAI 的商业安排（含收入分成）中获得 100 亿美元，上一财年合计 241 亿美元。微软首次以美元披露 Azure 收入为 332 亿美元，约占总营收 923 亿美元的 36%，略高于 Google Cloud 同季的 307 亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "category": "行业财报",
+      "published_at": "2026-10-29 05:34 SGT",
+      "original_title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "related": [
+        {"source": "TechCrunch（Azure 营收）", "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"},
+        {"source": "CNBC", "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"}
+      ]
+    },
+    {
+      "id": "alphabet-q3-miss",
+      "title": "Alphabet 三季度营收和利润近四年来首次双双不及预期，股价盘后跌超 10%",
+      "summary": "Alphabet 营收同比增长 25%，但自由现金流为负 90.7 亿美元，远差于分析师预期的负 27 亿美元，净利润降至 261.7 亿美元；公司维持 2026 年资本开支不变，并预计 2027 年大幅增加。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "category": "行业财报",
+      "published_at": "2026-10-29 06:07 SGT",
+      "original_title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027"
+    },
+    {
+      "id": "google-ai-mode-ads-global",
+      "title": "搜索增速放缓，谷歌把 AI 模式广告首次推向全球",
+      "summary": "谷歌三季度搜索收入同比增长 12%，低于二季度的 17% 和一季度的 19%。首席商务官 Philipp Schindler 在财报电话会上宣布，AI 模式里的广告将扩展到海外市场，并推出多轮对话广告。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "category": "产品更新",
+      "published_at": "2026-10-29 05:48 SGT",
+      "original_title": "Google expands AI Search ads globally as core ad growth slows"
+    },
+    {
+      "id": "neocloud-stocks-drop",
+      "title": "微软资本开支低于预期，CoreWeave、Nebius 等新兴云厂商股价盘后下跌",
+      "summary": "微软当季资本开支和融资租赁为 452 亿美元，同比增约 30%，但低于分析师平均预期的 507 亿美元，被解读为基础设施合作方交付算力变慢；同期 Azure 收入同比增长 48%。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "category": "行业财报",
+      "published_at": "2026-10-29 05:14 SGT",
+      "original_title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations"
+    },
+    {
+      "id": "anthropic-roi-tools",
+      "title": "Anthropic 推出企业报告工具，让公司看清 AI 花费换来了什么",
+      "summary": "管理者可以查看团队在某段时间内用 Claude 做了什么、产出了什么、花了多少钱以及流程在哪里卡住，并获得改进建议；Anthropic 还推出团队共享的 token 预算池，称默认不会用这些数据训练模型。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "category": "产品更新",
+      "published_at": "2026-10-29 03:19 SGT",
+      "original_title": "Anthropic just launched tools to show companies what their AI spending is buying"
+    },
+    {
+      "id": "google-connected-apps-platform",
+      "title": "谷歌向更多开发者开放 Gemini 和搜索的「连接应用」，第三方服务可直接在 AI 里被调用",
+      "summary": "新的开发者平台让企业把自家服务接入 Gemini 和谷歌搜索，用户可以在 AI 对话里直接完成操作，例如用 Canva 做海报、用 YouTube Music 建歌单，与 ChatGPT 等的应用集成路线正面竞争。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "category": "产品更新",
+      "published_at": "2026-10-29 01:00 SGT",
+      "original_title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+    },
+    {
+      "id": "chrome-autofill-gmail",
+      "title": "Chrome 的 AI 自动填充可读取 Gmail，帮你填航班号、订单号等表单信息",
+      "summary": "在用户授权后，Chrome 会从邮箱里找出航班确认号、会员号、物流单号、订单号等信息来建议填写，这是谷歌「个人智能」功能的扩展。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "category": "产品更新",
+      "published_at": "2026-10-29 01:00 SGT",
+      "original_title": "Chrome's AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "related": [
+        {"source": "The Verge", "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"}
+      ]
+    },
+    {
+      "id": "openai-dot-texting",
+      "title": "OpenAI 的 Dot 个人智能体支持短信对话，iMessage 和 RCS 都能用",
+      "summary": "用户在 ChatGPT 里打开 Dot 的资料页即可开启短信功能，用文字、图片或语音给它派任务，它也会主动发短信汇报进展；OpenAI 与 Linq 合作提供消息支持。上周 Anthropic 也推出了个人智能体 Claude Duet。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+      "category": "产品更新",
+      "published_at": "2026-10-29 03:15 SGT",
+      "original_title": "OpenAI now lets you text your Dot agent"
+    },
+    {
+      "id": "nvidia-nemotron-transcribe",
+      "title": "英伟达开源语音转写模型 Nemotron 3.5 Transcribe，支持 40 种语言",
+      "summary": "这款 300 亿参数的开放权重模型可处理最长一小时的录音、区分最多 8 位说话人，并支持 31 种语言与英语互译，英伟达称其在 Hugging Face Open ASR 榜单上胜过对手；同时发布开源语音数据集 Granary v2。目前只支持录音，不支持实时音频。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "category": "模型发布",
+      "published_at": "2026-10-28 23:00 SGT",
+      "original_title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "related": [
+        {"source": "Hugging Face 博客", "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"},
+        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50275128"}
+      ]
+    },
+    {
+      "id": "ny-chatbot-child-law",
+      "title": "纽约州长签署 AI 聊天机器人儿童安全法",
+      "summary": "对未满 18 岁或尚未确认成年的用户，聊天机器人不得假装是真人、有生命或有情感，不得与儿童建立恋爱或权威关系，不得主动问情绪问题或利用此前对话中的健康隐私，也不得鼓励自杀、自残、饮食失调或酒精药物滥用。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+      "category": "政策监管",
+      "published_at": "2026-10-29 00:33 SGT",
+      "original_title": "New York governor signs AI chatbot child safety law"
+    },
+    {
+      "id": "google-ai-mode-2020-election",
+      "title": "被问「谁赢了 2020 年美国大选」，谷歌 AI 模式含糊其辞只让人去查官方报告",
+      "summary": "Ars Technica 实测发现，AI 模式对 2020 和 2024 年大选结果都不直接回答，而是让用户查阅联邦选举委员会的报告，但对其他年份的大选会直接给出答案；在美国以外提问时回答更直接。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "category": "政策监管",
+      "published_at": "2026-10-29 01:46 SGT",
+      "original_title": "Google AI gets cagey when asked who won the 2020 elections",
+      "related": [
+        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50280178"}
+      ]
+    },
+    {
+      "id": "xai-southaven-homes",
+      "title": "xAI 被曝出价收购数据中心周边住房，条件是房主不参与噪音诉讼",
+      "summary": "据报道，xAI 及其子公司 MZX 正提出收购密西西比州 Southaven 数百套住房，前提是房主不加入针对其附近数据中心和发电厂的诉讼。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "category": "行业动态",
+      "published_at": "2026-10-28 22:44 SGT",
+      "original_title": "xAI is buying out homeowners who promise not to sue over data center noise"
+    },
+    {
+      "id": "x-ai-peer-review",
+      "title": "X 热议：同样的论文错误，人类审稿人只发现 27%，大模型发现 53% 到 96%",
+      "summary": "一篇预印本复现了 2008 年 BMJ 实验，在临床试验稿件中埋入 9 处重大错误，15 个大模型的检出率都远高于人类审稿人；第一作者 Ruslan Rust 表示今后拒绝只有人类审稿的临床试验评审，也有人强调 AI 应作为补充而非替代。",
+      "source": "X 新闻",
+      "url": "https://x.com/i/trending/2115567745374855200",
+      "category": "X 热议",
+      "published_at": "2026-10-29 06:21 SGT（话题更新时间）",
+      "original_title": "AI Outperforms Humans in Spotting Errors in Peer Review Test"
+    }
+  ]
+}
