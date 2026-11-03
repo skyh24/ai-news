@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-03",
+  "weekday": "周二",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-02 08:00 至 2026-11-03 08:00（新加坡时间）",
+  "updated_at": "2026-11-03 08:30 SGT",
+  "top_story_id": "anthropic-rsi",
+  "items": [
+    {
+      "id": "anthropic-rsi",
+      "title": "Anthropic 警告：已非常接近 RSI（AI 自我改进）能力",
+      "original_title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "summary": "Anthropic 表示其模型已非常接近「递归自我改进」（RSI）能力，即 AI 足以训练自身、引发能力急剧加速的临界点。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "category": "研究突破",
+      "published_at": "2026-11-03 06:14 SGT"
+    },
+    {
+      "id": "anthropic-revenue-loss",
+      "title": "Anthropic 营收增长 12 倍，但亏损 230 亿美元",
+      "original_title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
+      "summary": "在备受瞩目的 IPO 之前，Anthropic 营收增长十二倍，但重新陷入经营亏损，亏损额达 230 亿美元。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
+      "category": "融资并购",
+      "published_at": "2026-11-03 00:26 SGT"
+    },
+    {
+      "id": "chatgpt-merge-official",
+      "title": "OpenAI 正式宣布合并 ChatGPT 的 Chat 与 Work 标签页",
+      "original_title": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+      "summary": "OpenAI 确认合并 Chat 与 Work，改动后 ChatGPT 与 Codex 将共用同一个用量额度池。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "category": "产品更新",
+      "published_at": "2026-11-02 21:57 SGT"
+    },
+    {
+      "id": "grok-bot-limits",
+      "title": "马斯克因成本「高得不可持续」收紧 Grok Bot 用量上限",
+      "original_title": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs",
+      "summary": "马斯克在 X 上称 Grok Bot 运营成本相对收入「高得不可持续」，因此下调额度，而不到两周前他还称其为增长最快的产品；OpenAI 与 Anthropic 也在收紧包月方案。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "category": "产品更新",
+      "published_at": "2026-11-03 00:23 SGT"
+    },
+    {
+      "id": "nyt-sues-brave",
+      "title": "《纽约时报》等媒体起诉 Brave 浏览器涉嫌抓取内容",
+      "original_title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "summary": "《纽约时报》等指控 Brave 抓取其受版权保护的内容并分发给 Anthropic、Perplexity 等客户，还让用户绕过付费墙。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "category": "政策监管",
+      "published_at": "2026-11-03 03:19 SGT"
+    },
+    {
+      "id": "aramco-humain",
+      "title": "沙特阿美以 26 亿美元收购 AI 公司 Humain 49% 股份",
+      "original_title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+      "summary": "沙特阿美入股 Humain，这家公司肩负把沙特打造成全球 AI 中心的任务。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+      "category": "融资并购",
+      "published_at": "2026-11-02 19:47 SGT"
+    },
+    {
+      "id": "openai-grid-protectors",
+      "title": "OpenAI 推出「电网守护者」计划，承诺紧急时释放最多 1000 兆瓦电力",
+      "original_title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI 将在佐治亚州 Effingham 县的数据中心试点，极端天气或紧急情况下可让出最多 1000 兆瓦电力，约够 70 万户家庭开空调，以回应各地对数据中心的反对。",
+      "source": "OpenAI / The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "category": "政策监管",
+      "published_at": "2026-11-02 21:01 SGT"
+    },
+    {
+      "id": "goldman-coding-tools",
+      "title": "高盛收回交易员和银行家的 AI 编程工具",
+      "original_title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+      "summary": "高盛将 Claude Code、GitHub Copilot 等工具限定为仅工程师可用，理由是「生产力与风险管理」，而 7 月其 CIO 还公开称赞非技术员工的 vibe coding。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "category": "产品更新",
+      "published_at": "2026-11-03 04:00 SGT"
+    },
+    {
+      "id": "42ai-world-model",
+      "title": "42AI 携 6250 万美元结束隐身，推出可「预测人类行为」的世界模型",
+      "original_title": "42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior'",
+      "summary": "初创公司 42AI 宣布融资 6250 万美元，其世界模型目标是在全新情境下预测人会做什么。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "category": "融资并购",
+      "published_at": "2026-11-03 00:30 SGT"
+    },
+    {
+      "id": "trajectory-45m",
+      "title": "Trajectory 融资 4500 万美元，让非技术专家也能训练 AI 模型",
+      "original_title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "成立一年的 Trajectory 完成 4500 万美元融资，估值达 3 亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "category": "融资并购",
+      "published_at": "2026-11-03 07:13 SGT"
+    },
+    {
+      "id": "claude-game-clones",
+      "title": "Anthropic 限制用 Claude Code 复刻现有电子游戏",
+      "original_title": "Anthropic clamps down on Claude's AI video game clones",
+      "summary": "Anthropic 更新 Claude Code 系统提示词，阻止用户用它重制已有游戏；做原创游戏仍可以。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "category": "产品更新",
+      "published_at": "2026-11-03 01:57 SGT"
+    },
+    {
+      "id": "openai-pando-git",
+      "title": "OpenAI 公开 Pando：为 Codex 规模打造的 Git 兼容后端",
+      "original_title": "Scaling Git at OpenAI",
+      "summary": "OpenAI 介绍内部如何构建 Git 兼容后端 Pando，以支撑 Codex 带来的开发规模。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "category": "研究突破",
+      "published_at": "2026-11-02 23:30 SGT"
+    },
+    {
+      "id": "openai-lifeval",
+      "title": "OpenAI 发布 LifeVal 基准，衡量 AI 帮人办日常事务的能力",
+      "original_title": "LifeVal",
+      "summary": "LifeVal 测试 AI 在找托儿服务、理财、办政府手续等日常任务中的帮助程度。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lifeval",
+      "category": "研究突破",
+      "published_at": "2026-11-02 17:00 SGT"
+    },
+    {
+      "id": "minecraft-agents",
+      "title": "50 个 AI 智能体在 Minecraft 中自发形成官僚体系",
+      "original_title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+      "summary": "YC Labs 与 Olam Labs 的实验中，GPT-6.1 Sol 智能体和平建城时陷入荒诞官僚，与 Claude Opus 5.5 对抗时则自行下载游戏源码求胜。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "category": "研究突破",
+      "published_at": "2026-11-02 23:42 SGT"
+    }
+  ]
+}
