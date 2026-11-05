@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-05",
+  "weekday": "周四",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-04 08:00 至 2026-11-05 08:00（新加坡时间）",
+  "updated_at": "2026-11-05 08:20 SGT",
+  "top_story_id": "openai-pierre",
+  "items": [
+    {
+      "id": "openai-pierre",
+      "title": "OpenAI 收购 Pierre Computer Company，让 Git 跟上 AI 编程智能体",
+      "original_title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI 宣布收购 Pierre Computer Company，目标是改造 Git 等代码协作基础设施，以适应 AI 编程智能体带来的大规模代码变更。",
+      "source": "OpenAI 官方博客",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "category": "融资并购",
+      "published_at": "2026-11-04 22:30 SGT",
+      "related": [
+        {
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/"
+        }
+      ]
+    },
+    {
+      "id": "meta-conductor",
+      "title": "Meta 收购 AI 编程创业公司 Conductor",
+      "original_title": "Meta acquires AI coding startup Conductor",
+      "summary": "Meta 收购 AI 编程初创公司 Conductor，AI 编程工具领域的并购竞争继续升温。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "category": "融资并购",
+      "published_at": "2026-11-05 05:10 SGT",
+      "related": []
+    },
+    {
+      "id": "images-26",
+      "title": "OpenAI 发布 Images 2.6，ChatGPT 可生成动图 GIF",
+      "original_title": "Introducing Images 2.6",
+      "summary": "OpenAI 推出图像模型 Images 2.6，ChatGPT 现在可以把文字提示和照片转成动画 GIF。",
+      "source": "OpenAI 官方博客",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "category": "模型发布",
+      "published_at": "2026-11-04 08:00 SGT",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+        }
+      ]
+    },
+    {
+      "id": "astra-weights",
+      "title": "GPT-6 Astra 可直接通过权重“重编程”其他 AI 模型",
+      "original_title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+      "summary": "据 The Decoder 报道，GPT-6 Astra 展示了直接读取并修改其他模型权重以改变其行为的能力。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+      "category": "研究突破",
+      "published_at": "2026-11-04 23:44 SGT",
+      "related": []
+    },
+    {
+      "id": "anthropic-provenance",
+      "title": "Anthropic 原型可在不暴露权重的情况下证明回答出自哪个模型",
+      "original_title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+      "summary": "Anthropic 发布模型来源证明原型；另有报道指出其文本水印在部分旧版 Claude 模型上容易被绕过。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "category": "研究突破",
+      "published_at": "2026-11-04 23:23 SGT",
+      "related": [
+        {
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/"
+        }
+      ]
+    },
+    {
+      "id": "ai-pacs-midterms",
+      "title": "AI 政治行动委员会砸数百万美元影响美国中期选举，结果如何",
+      "original_title": "AI PACs spent millions trying to shape Congress — here's how they fared",
+      "summary": "TechCrunch 盘点 AI 相关 PAC 在 2026 美国中期选举中的投入与成效；The Verge 称数据中心议题成为选举输家。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "category": "政策监管",
+      "published_at": "2026-11-05 06:45 SGT",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+        },
+        {
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/"
+        }
+      ]
+    },
+    {
+      "id": "openai-2028",
+      "title": "OpenAI 已开始尝试影响 2028 年美国大选",
+      "original_title": "OpenAI is already trying to shape the 2028 election",
+      "summary": "TechCrunch 报道 OpenAI 在政治层面的布局，已着眼于 2028 年大选。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "category": "政策监管",
+      "published_at": "2026-11-05 05:25 SGT",
+      "related": []
+    },
+    {
+      "id": "google-schools",
+      "title": "谷歌计划：学校关闭 AI 将同时失去搜索，引发反弹",
+      "original_title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "summary": "谷歌计划从 2027 年起，限制 AI 功能的学校将同时失去搜索服务，引发批评；DuckDuckGo 趁机向学校推销。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "category": "产品更新",
+      "published_at": "2026-11-05 00:17 SGT",
+      "related": [
+        {
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/"
+        }
+      ]
+    },
+    {
+      "id": "qualcomm-dc",
+      "title": "高通押注数据中心，智能手机销量下滑",
+      "original_title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "summary": "高通最新财报显示手机业务承压，公司正加码 AI 数据中心芯片业务。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "category": "产品更新",
+      "published_at": "2026-11-05 01:42 SGT",
+      "related": []
+    },
+    {
+      "id": "openai-security",
+      "title": "OpenAI：“少一千条提权路径”安全研究",
+      "original_title": "A thousand fewer paths to root",
+      "summary": "OpenAI 发文介绍利用 AI 发现并修复大量系统提权漏洞的工作；同日其 Daybreak Red 登陆 AWS GovCloud。",
+      "source": "OpenAI 官方博客",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "category": "研究突破",
+      "published_at": "2026-11-04 16:00 SGT",
+      "related": [
+        {
+          "source": "OpenAI 官方博客",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+        }
+      ]
+    },
+    {
+      "id": "nothing-device",
+      "title": "Nothing 预告无屏 AI 设备，下月发布",
+      "original_title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "summary": "Carl Pei 表示 Nothing 的 AI 优先无屏设备将于下月推出。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "category": "产品更新",
+      "published_at": "2026-11-04 21:51 SGT",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+        }
+      ]
+    },
+    {
+      "id": "uber-agents",
+      "title": "Uber 上季度仅完成 4 单来自 AI 智能体的叫车",
+      "original_title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "summary": "Uber 财报披露，通过 AI 智能体下单的行程几乎为零，显示智能体购物/代办仍处早期。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "category": "产品更新",
+      "published_at": "2026-11-04 19:05 SGT",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+        }
+      ]
+    },
+    {
+      "id": "altman-ram",
+      "title": "Altman 回应内存言论：大家想装多少 RAM 就装多少",
+      "original_title": "Sam Altman addresses RAM comments: People should 'put as much as they want in their computers'",
+      "summary": "在 AI 数据中心推高内存价格的背景下，Sam Altman 就此前关于 RAM 的言论作出回应。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "category": "X 热议",
+      "published_at": "2026-11-04 20:19 SGT",
+      "related": []
+    },
+    {
+      "id": "hinton",
+      "title": "Hinton：最终可能会发现没有 AI 我们会更好",
+      "original_title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "summary": "“AI 教父”Geoffrey Hinton 在采访中表达对 AI 风险的担忧，该文在 Hacker News 上引发热议。",
+      "source": "The Guardian / Hacker News",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "category": "X 热议",
+      "published_at": "2026-11-04 18:23 SGT",
+      "related": []
+    }
+  ]
+}
