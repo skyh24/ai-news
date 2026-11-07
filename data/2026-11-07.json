@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-07",
+  "weekday": "周六",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-06 08:00 至 2026-11-07 08:00（新加坡时间）",
+  "updated_at": "2026-11-07 08:25 SGT",
+  "top_story_id": "openai-11b-125t",
+  "items": [
+    {
+      "id": "openai-11b-125t",
+      "title": "OpenAI 据报再融资 110 亿美元，估值达 1.25 万亿美元",
+      "original_title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "Bloomberg 援引知情人士称，OpenAI 已完成新一轮融资中的首批 110 亿美元，公司估值约 1.25 万亿美元；整轮尚未关闭，有望在未来数周扩至约 200 亿美元，远低于此前最高约 300 亿美元的目标。报道称市场对 AI 基建与数据中心的态度在中期选举后明显降温。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "category": "融资并购",
+      "published_at": "2026-11-07 06:53 SGT",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        }
+      ]
+    },
+    {
+      "id": "inkling-2-small",
+      "title": "Thinking Machines 发布 Inkling 2 Small：594B MoE、下周开源权重",
+      "original_title": "Introducing Inkling 2 Small",
+      "summary": "Mira Murati 团队推出第二代 Inkling：总参数 5940 亿、每次激活约 170 亿，支持图像输入与可变推理强度；Artificial Analysis Intelligence Index 约 31 分。现已在 Tinker 上以闭源权重提供推理与微调，公司称完成外部安全测试后将于下周以 Apache 2.0 开源完整权重。",
+      "source": "Thinking Machines Lab",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "category": "模型发布",
+      "published_at": "2026-11-05 12:00 SGT",
+      "related": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50386338"
+        },
+        {
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/ai/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks"
+        }
+      ]
+    },
+    {
+      "id": "metr-anthropic-rd",
+      "title": "METR：Anthropic 能力提升约加速一倍，多数归因于用 AI 做研发",
+      "original_title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "summary": "独立评估组织 METR 在 Anthropic 内部高权限评估后认为：截至 2026 年 10 月，该公司在明确任务上的能力提升速度大约是 2024 年 3 月至 2025 年 10 月的两倍（AECI 趋势约 1.9 倍），且当前加速大部分可归因于用 AI 辅助研发；未发现未来 12 个月的明显瓶颈，但大量证据被公司脱敏。",
+      "source": "METR",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "category": "研究突破",
+      "published_at": "2026-11-05 12:00 SGT",
+      "related": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23"
+        }
+      ]
+    },
+    {
+      "id": "meta-muse-spaces",
+      "title": "Meta Muse 上线 Spaces：用自然语言定制专属智能体工作区",
+      "original_title": "Design the Muse App, Just for You",
+      "summary": "Meta 为个人智能体 Muse 推出 Spaces：用户用自然语言描述需求，Muse 即可生成礼物追踪、行程板、婚礼规划等自定义体验，并可接入第三方应用在后台自动更新；功能已随 Muse 可用地区同步上线。",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+      "category": "产品更新",
+      "published_at": "2026-11-06 12:00 SGT",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+        }
+      ]
+    },
+    {
+      "id": "meta-scraping-pause",
+      "title": "Meta 无限期搁置商业条款更新：不再强迫商家开放站外抓取训练",
+      "original_title": "Meta abandons sketchy commercial terms update",
+      "summary": "在挪威、巴西法院初步禁令与英国竞争监管调查压力下，Meta 宣布暂停原定 11 月 20 日生效的商业条款修订；该修订曾要求 Facebook 商业账号允许 Meta 抓取外链网站内容用于 AI 开发。公司称现有条款继续有效，并将继续与利益相关方协商。",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "category": "政策监管",
+      "published_at": "2026-11-07 00:43 SGT"
+    },
+    {
+      "id": "openai-biobasicsbench",
+      "title": "OpenAI 发布 BioBasicsBench：评测智能体解读湿实验室原始数据",
+      "original_title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "与酶设计公司 Ligo 合作推出含 100 项任务的基准，覆盖凝胶、显微、测序与仪器读数等日常湿实验分析。高推理设置下 GPT-6 Astra 平均得分 66.7%，显著高于 GPT-5.6 Sol 的 43.8%，但仍难可靠完成控制组判断与显微读图。",
+      "source": "OpenAI 官方博客",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "研究突破",
+      "published_at": "2026-11-06 12:00 SGT"
+    },
+    {
+      "id": "agility-nasdaq",
+      "title": "Agility Robotics 登陆纳斯达克：美国首家纯人形机器人上市公司",
+      "original_title": "Agility Becomes First U.S. Publicly Listed Pure-Play Humanoid Robotics Company",
+      "summary": "人形机器人公司 Agility 完成与 Churchill Capital Corp XI 的业务合并，股票代码 AGLT，相关融资约 4.65 亿美元毛额；公司称 Digit 5 已有逾 3 亿美元多年期订单（需满足合同里程碑与规格），并已在物流与制造场景部署。",
+      "source": "Agility Robotics",
+      "url": "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt",
+      "category": "融资并购",
+      "published_at": "2026-11-05 12:00 SGT",
+      "related": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+        }
+      ]
+    },
+    {
+      "id": "meta-muse-voice",
+      "title": "Meta 为 Muse 推实时语音与表情化数字人视频通话",
+      "original_title": "Give Your Muse a Voice",
+      "summary": "美国用户可在手机、网页与 Mac 上用 Muse 进行实时语音对话，并可选择表情与手势同步的数字人视频模式；响应延迟约亚秒级，后续还将扩展到 AI 眼镜与 Muse Charm。",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+      "category": "产品更新",
+      "published_at": "2026-11-05 12:00 SGT",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+        }
+      ]
+    },
+    {
+      "id": "visa-agentic-benchmark",
+      "title": "Visa 发布购物智能体基准：近半数测试失败，失败时仍常乱买",
+      "original_title": "Visa Releases First-of-Its-Kind Industry Benchmark for AI Shopping",
+      "summary": "Visa Agentic Commerce Benchmark 用 15 个真实购物场景测试 12 家实验室的 22 个模型：总体通过率约 57.2%，约 42.8% 的尝试失败；在失败案例中约 54% 仍完成了不符合需求的购买，且三次全过的场景仅约 34.2%。",
+      "source": "Visa",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22936.html",
+      "category": "研究突破",
+      "published_at": "2026-11-05 12:00 SGT"
+    },
+    {
+      "id": "openai-hacktron",
+      "title": "OpenAI 与 Hacktron 合作，用前沿模型找自家系统漏洞",
+      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI 宣布与安全公司 Hacktron 加深合作，重点测试自家系统与第三方服务的交界漏洞，并通过 Daybreak Red 扩大 Hacktron 对前沿模型的访问；此前本周还宣布与 Cathedral 开展安全冲刺并提高了漏洞赏金。",
+      "source": "OpenAI 官方博客",
+      "url": "https://openai.com/index/partnering-with-hacktron/",
+      "category": "产品更新",
+      "published_at": "2026-11-06 12:00 SGT"
+    },
+    {
+      "id": "apple-intelligence-china",
+      "title": "苹果在中国开启 Apple Intelligence 测试，底层接入阿里 Qwen",
+      "original_title": "iOS 27.3 Beta Brings Apple Intelligence to China",
+      "summary": "iOS 27.3 开发者测试版已向中国开发者开放部分 Apple Intelligence：Siri、写作工具与视觉智能等接入阿里巴巴 Qwen；预计 12 月随 iOS 27.3 正式面向用户，暂不包含最新的 Siri AI 应用体验。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-apple-intelligence-china-2/",
+      "category": "产品更新",
+      "published_at": "2026-11-04 03:24 SGT"
+    },
+    {
+      "id": "kimi-k31-pro",
+      "title": "月之暗面开源 Kimi K3.1 Pro 权重：2.8T MoE 上 Hugging Face",
+      "original_title": "moonshotai/Kimi-K3.1-Pro",
+      "summary": "Moonshot AI 在 Hugging Face 发布旗舰多模态模型 Kimi K3.1 Pro 的开源权重：总参数约 2.8 万亿、激活约 1040 亿，支持约 100 万 token 上下文与图文输入；社区与 NVIDIA Build 等平台已出现试用入口，本地运行对硬件要求极高。",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "category": "模型发布",
+      "published_at": "2026-11-04 12:00 SGT"
+    },
+    {
+      "id": "nvidia-51-nonchina",
+      "title": "英伟达口头要求云客户：至少 51% 算力卖给非中国买家",
+      "original_title": "Nvidia Tells Cloud Clients 51% of Capacity Must Go to Non-Chinese Buyers",
+      "summary": "据《金融时报》等报道，英伟达近几个月通过销售团队口头要求全球云与数据中心客户，未来合同中至少 51% 服务须售予非中国公司；存量租约不受影响。此举意在堵住中国企业借海外云租用高端 AI 芯片的路径。",
+      "source": "Seoul Economic Daily / FT",
+      "url": "https://en.sedaily.com/international/2026/11/03/nvidia-tells-cloud-clients-51-percent-of-capacity-must-go",
+      "category": "政策监管",
+      "published_at": "2026-11-03 16:19 SGT"
+    },
+    {
+      "id": "x-model-standoff",
+      "title": "X 热议：社区等 GPT-6.2 Astra / 新模型落空，称大厂陷入发布对峙",
+      "original_title": "AI Labs Hold Back on GPT-6.2 Astra and Fable 5.5 Releases",
+      "summary": "11 月 6 日社区预期 OpenAI GPT-6.2 Astra 等大模型发布未如期出现，X 上讨论称各家可能在互相观望、避免先发后被对标；同日 OpenAI 放出的是 BioBasicsBench 与安全合作，而非新通用模型。",
+      "source": "X News",
+      "url": "https://x.com/i/trending/2118844626979148126",
+      "category": "X 热议",
+      "published_at": "2026-11-07 07:23 SGT"
+    }
+  ]
+}
