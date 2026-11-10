@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-10",
+  "weekday": "周二",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-09 08:00 至 2026-11-10 08:00（新加坡时间）",
+  "updated_at": "2026-11-10 08:35 SGT",
+  "top_story_id": "anthropic-fable-mythos-52",
+  "items": [
+    {
+      "id": "anthropic-fable-mythos-52",
+      "title": "Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2：速度快 30%，价格降 20%",
+      "original_title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+      "summary": "这是 Amodei 9 月呼吁放慢 AI 发展后 Anthropic 首次发布前沿模型。官方称新模型在编程、推理和视觉上提升，输出比 5.1 快 30%，价格降 20%（每百万输入/输出 token 8/40 美元）；预发布测试中解决了两个黑洞物理开放问题，并在 30 小时内形式化了费马大定理证明。Fable 5.2 今天上线，Mythos 5.2 先只开放给审核过的机构。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+      "category": "模型发布",
+      "published_at": "2026-11-10 03:00 SGT",
+      "related": [
+        {"source": "Anthropic 官方", "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"},
+        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"},
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"},
+        {"source": "Artificial Analysis（HN 热帖）", "url": "https://artificialanalysis.ai/models/claude-fable-5-2"}
+      ]
+    },
+    {
+      "id": "nvidia-stock-megaspeed",
+      "title": "黄仁勋风波发酵：英伟达股价跌 4.27%，彭博称英伟达曾介入 Megaspeed 走私调查",
+      "original_title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang's affair with alleged Chinese spy",
+      "summary": "英伟达周一收跌 4.27%，董事会已就黄仁勋与被指为中国间谍的 Megaspeed 高管 Alice Huang 的关系启动独立调查。彭博社随后报道英伟达曾介入美国对 Megaspeed 芯片走私案的调查；国会议员要求英伟达说明情况，TechCrunch 称多家律所已在争相起诉英伟达。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "category": "行业动态",
+      "published_at": "2026-11-10 05:04 SGT",
+      "related": [
+        {"source": "Bloomberg（介入走私调查）", "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling"},
+        {"source": "Bloomberg（议员要求说明）", "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal"},
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"},
+        {"source": "The Verge（事件梳理）", "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"}
+      ]
+    },
+    {
+      "id": "google-tpu-8tx-8i-max",
+      "title": "谷歌新增 TPU 8tx 和 TPU 8i Max，一年内推出四款第八代 TPU",
+      "original_title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "summary": "TPU 8tx 面向政府和受监管企业的机密推理，数据和模型权重在计算时也保持加密隔离，延迟比 TPU 8t 低最多一半；TPU 8i Max 把两颗 8i 芯片封装在一起，算力、SRAM 和 HBM 带宽翻倍，专攻超长上下文。谷歌未公布价格和上市时间，彭博称两者 2027 年推出。",
+      "source": "Google 官方博客",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "category": "产品更新",
+      "published_at": "2026-11-09 21:54 SGT",
+      "related": [
+        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1029670/google-announced-two-new-versions-of-its-eighth-gen-ai-chips"},
+        {"source": "TechTarget", "url": "https://www.techtarget.com/news/google-specializes-tpus-for-agentic-confidential-computing/874084/"}
+      ]
+    },
+    {
+      "id": "meta-muse-ember",
+      "title": "Meta 发布轻量模型 Muse Ember，每百万输入 token 仅 0.1 美元",
+      "original_title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "Meta 超级智能实验室推出 Muse 系列第四款模型，专做智能体的高频活：工具调用、编程子任务、路由、信息抽取和长文档解析，支持文本、图像和音频输入。Meta 称其比 Anthropic Haiku 和 OpenAI Luna 更便宜也更聪明，定位是“Wonder 负责规划，Ember 负责跑量”。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "category": "模型发布",
+      "published_at": "2026-11-10 02:00 SGT"
+    },
+    {
+      "id": "anthropic-gas-turbines",
+      "title": "Anthropic 斥资 34 亿美元购入燃气轮机，可发电 1.7 吉瓦",
+      "original_title": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "据《金融时报》报道，Anthropic 直接向卡特彼勒购买了原本由 OnePWR 订购的燃气发电机组，最高可发电 1.7 吉瓦。一向偏好租算力的 Anthropic 罕见买入实体基础设施，反映出 AI 电力短缺之严重：燃气轮机订单已排到 2030 年代初。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "category": "融资并购",
+      "published_at": "2026-11-10 00:56 SGT"
+    },
+    {
+      "id": "openai-control-room",
+      "title": "OpenAI 公开 Control Room：35 秒内叫停任何失控的研究模型任务",
+      "original_title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "OpenAI 介绍了一套覆盖全部研究推理任务的中央“急停”系统：每个任务须关联已批准的安全方案，推理引擎每次出 token 前都要向 Control Room 确认，监控模型发现问题可在 35 秒内停止输出；系统故障时默认拒绝所有推理请求。X 上有人称此前手动叫停一次失控任务曾花 2.5 小时。",
+      "source": "OpenAI 官方",
+      "url": "https://openai.com/index/control-room",
+      "category": "研究突破",
+      "published_at": "2026-11-09 21:00 SGT",
+      "related": [
+        {"source": "X 热议", "url": "https://x.com/i/trending/2119926127955526063"}
+      ]
+    },
+    {
+      "id": "fireworks-ai-second-hack",
+      "title": "英伟达投资的 Fireworks AI 数周内第二次被黑，部分客户数据集和模型权重外泄",
+      "original_title": "Nvidia-Backed Fireworks AI Discloses Its Second Hack in Weeks",
+      "summary": "Fireworks AI 周一通知客户，攻击者 10 月 24 日经由一家外部云服务商入侵其研发机器，获取了账户和账单信息，少数客户的密钥、数据集和未完成的模型权重也受影响。该公司称正与 Notion、Cursor 等客户共同处理。",
+      "source": "Bloomberg",
+      "url": "https://news.bloomberglaw.com/business-and-practice/nvidia-backed-fireworks-ai-discloses-its-second-hack-in-weeks",
+      "category": "安全事件",
+      "published_at": "2026-11-10 04:46 SGT",
+      "related": [
+        {"source": "Unite.AI", "url": "https://www.unite.ai/fireworks-ai-expands-breach-disclosure-to-datasets-and-model-weights/"}
+      ]
+    },
+    {
+      "id": "trump-60-minutes-ai",
+      "title": "特朗普在《60 分钟》谈 AI 安全：称司法部曾警告一家大 AI 公司负责人“准备坐牢”",
+      "original_title": "Trump's 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "summary": "特朗普认为 AI 风险“远没有他们说的那么大”且可控，并称曾有大型 AI 公司负责人被举报“用 AI 做坏事”，司法部警告后对方“彻底改了”，但拒绝透露是谁。他表示愿与民主党合作制定护栏，但不想让美国落后中国。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "category": "政策监管",
+      "published_at": "2026-11-09 23:50 SGT"
+    },
+    {
+      "id": "google-schools-search",
+      "title": "谷歌称学校若屏蔽其 AI 工具将同时失去谷歌搜索，美国家长教师批“勒索”",
+      "original_title": "Parents and teachers decry Google pledge to yank Search if schools block AI: 'This threat is nothing but extortion'",
+      "summary": "谷歌上周推出面向学校的新 AI 工具，K-12 学生账户默认关闭 Gemini 等产品，但选择屏蔽谷歌 AI 的学校也会失去谷歌搜索。多位家长和教师向《卫报》表示不满，有人呼吁改用其他搜索引擎，也有教师认为应教学生正确使用 AI 而非一刀切。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+      "category": "政策监管",
+      "published_at": "2026-11-09 22:00 SGT"
+    },
+    {
+      "id": "chatgpt-enterprise-aws",
+      "title": "ChatGPT Enterprise 登陆 AWS Marketplace，可抵扣 AWS 承诺消费",
+      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "企业可以直接通过 AWS 采购和计费体系购买 ChatGPT Enterprise（含 ChatGPT Work、Codex 和 dots），符合条件的支出可计入 AWS 承诺额度；医疗和金融版本也同步上架。OpenAI 称 ChatGPT 每周用户已超 12 亿。",
+      "source": "OpenAI 官方",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "category": "产品更新",
+      "published_at": "2026-11-10 03:00 SGT"
+    },
+    {
+      "id": "disney-adobe-genai",
+      "title": "迪士尼与 Adobe 签多年合作，基于 Firefly Foundry 打造专属生成式 AI 模型",
+      "original_title": "Disney and Adobe are building generative AI tools together",
+      "summary": "在 Adobe MAX 大会上宣布：Adobe 将用迪士尼自有 IP 的角色、场景和画风训练专属模型，用于主题乐园、邮轮、影视制作和 ESPN 内容。此前彭博报道迪士尼正准备新一轮数千人裁员。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "category": "行业动态",
+      "published_at": "2026-11-09 23:38 SGT"
+    },
+    {
+      "id": "apple-ai-usage-packs",
+      "title": "苹果开卖 50 美元“AI 用量包”，延长 Creator Studio 的 AI 功能额度",
+      "original_title": "Apple's $50 Intelligence Usage Packs extend access to some AI features",
+      "summary": "Creator Studio（含 Logic Pro 等）中部分 AI 功能有使用上限，用完后可花 50 美元购买用量包继续使用，这是苹果少见的按量收费 AI 模式。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "category": "产品更新",
+      "published_at": "2026-11-10 03:09 SGT",
+      "related": [
+        {"source": "Engadget", "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/"}
+      ]
+    },
+    {
+      "id": "x-amodei-entry-level-jobs",
+      "title": "X 热议：Amodei 称 AI 可能在 1 到 5 年内砍掉一半入门级白领岗位",
+      "original_title": "Anthropic CEO Warns AI Could Cut Half of Entry-Level White-Collar Jobs Soon",
+      "summary": "X 新闻汇总称，Amodei 在近期采访中表示 AI 已从“聪明高中生”进步到“优秀大学生”水平，正在进入法律、金融、咨询的初级岗位；帖子引用 Anthropic 数据称其初级技术岗招聘占比从 27% 降到 9%。也有经济学者指出就业和 GDP 数据尚未显示大规模冲击。（X 汇总内容，细节未经独立核实）",
+      "source": "X 热议",
+      "url": "https://x.com/i/trending/2119765262350377112",
+      "category": "X 热议",
+      "published_at": "2026-11-10 00:16 SGT"
+    }
+  ]
+}
