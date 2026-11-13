@@ -27,7 +27,7 @@
       "id": "gemini-4-hydrogen",
       "title": "谷歌发布 Gemini 4 Hydrogen：主打速度的智能体模型，同步上线搜索与 Antigravity",
       "original_title": "Introducing Gemini 4 Hydrogen",
-      "summary": "Gemini 4 Hydrogen 定位快速执行的编程与智能体模型，在 Artificial Analysis 智能指数上以 51 分略超 Gemini 4 Argon（最高档思考 54 分），完成任务速度是 Gemini 3.8 Flash 的 2.5 倍，100 万 token 上下文统一定价每百万输入/输出 1.5/7.5 美元。即日起面向 Gemini API、Gemini 应用和全球 Google 搜索推出；Antigravity 新增 Orchestrator，可在 Carbon 与 Hydrogen 间动态切换，在 Terminal-Bench 4.1 上接近 Carbon 成功率、平均省 24% 配额。",
+      "summary": "Gemini 4 Hydrogen 定位快速执行的编程与智能体模型，在 Artificial Analysis 智能指数上，Hydrogen 默认高思考档得 51 分、略超 Gemini 4 Argon 的 50 分，最高 xhigh 思考档可达 54 分，完成任务速度是 Gemini 3.8 Flash 的 2.5 倍，100 万 token 上下文统一定价每百万输入/输出 1.5/7.5 美元。即日起面向 Gemini API、Gemini 应用和全球 Google 搜索推出；Antigravity 新增 Orchestrator，可在 Carbon 与 Hydrogen 间动态切换，在 Terminal-Bench 4.1 上接近 Carbon 成功率、平均省 24% 配额。",
       "source": "Google Blog",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "category": "模型发布",
