@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-13",
+  "weekday": "周五",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-12 08:00 至 2026-11-13 08:00（新加坡时间）",
+  "updated_at": "2026-11-13 08:15 SGT",
+  "top_story_id": "nvidia-huang-resigns",
+  "items": [
+    {
+      "id": "nvidia-huang-resigns",
+      "title": "黄仁勋辞去英伟达 CEO 及董事职务，CFO Colette Kress 出任临时 CEO",
+      "original_title": "Jensen Huang Resigns as Nvidia CEO",
+      "summary": "英伟达董事会宣布黄仁勋“即刻辞去总裁、CEO 及董事职务”，CFO Colette Kress 任临时 CEO，前 Synopsys CEO Harvey Jones 出任公司首位董事长，董事会将考虑内外部人选接任。英伟达当日收跌 4.34%（盘中一度跌 14%）；路透社随后报道黄仁勋还与另一名英伟达女员工有亲密关系。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "category": "行业动态",
+      "published_at": "2026-11-12 21:58 SGT",
+      "related": [
+        {"source": "CNBC（股价收跌 4%）", "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"},
+        {"source": "AP News", "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"},
+        {"source": "TechCrunch（临时 CEO Colette Kress）", "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"},
+        {"source": "TechCrunch（路透：第三段关系）", "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"},
+        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"}
+      ]
+    },
+    {
+      "id": "gemini-4-hydrogen",
+      "title": "谷歌发布 Gemini 4 Hydrogen：主打速度的智能体模型，同步上线搜索与 Antigravity",
+      "original_title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Gemini 4 Hydrogen 定位快速执行的编程与智能体模型，在 Artificial Analysis 智能指数上，Hydrogen 默认高思考档得 51 分、略超 Gemini 4 Argon 的 50 分，最高 xhigh 思考档可达 54 分，完成任务速度是 Gemini 3.8 Flash 的 2.5 倍，100 万 token 上下文统一定价每百万输入/输出 1.5/7.5 美元。即日起面向 Gemini API、Gemini 应用和全球 Google 搜索推出；Antigravity 新增 Orchestrator，可在 Carbon 与 Hydrogen 间动态切换，在 Terminal-Bench 4.1 上接近 Carbon 成功率、平均省 24% 配额。",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "category": "模型发布",
+      "published_at": "2026-11-13 02:00 SGT",
+      "related": [
+        {"source": "Google DeepMind", "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"},
+        {"source": "Google Antigravity（Orchestrator）", "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"},
+        {"source": "Google 搜索升级", "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"},
+        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"},
+        {"source": "Google DeepMind on X", "url": "https://x.com/GoogleDeepMind/status/2120940338869055788"}
+      ]
+    },
+    {
+      "id": "claude-meetings",
+      "title": "Anthropic 推出 Claude Meetings：Claude 可加入视频会议，边听边写文档和白板",
+      "original_title": "Introducing Claude Meetings, now in beta",
+      "summary": "Claude 可作为可见参会者加入视频会议，跟随讨论回答问题、调用已连接工具，并在会中实时生成文档、白板等产物，会后自动整理纪要与待办。目前先支持 Google Meet，向 Team 和 Enterprise 计划分批推出 Beta；官方发布推文获超 200 万次浏览。",
+      "source": "Claude Blog",
+      "url": "https://claude.com/blog/claude-meetings",
+      "category": "产品更新",
+      "published_at": "2026-11-13 04:16 SGT（官方 X 发布时间）",
+      "related": [
+        {"source": "Claude on X", "url": "https://x.com/claudeai/status/2120973994191094179"}
+      ]
+    },
+    {
+      "id": "lawsuit-freeze-frontier-ai",
+      "title": "非营利组织联合起诉 Anthropic、谷歌、Meta、OpenAI 和 SpaceXSI，要求法院冻结前沿模型开发",
+      "original_title": "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI",
+      "summary": "Public Citizen、Alliance for Secure AI 等四家组织在旧金山高等法院提起诉讼，援引加州《不正当竞争法》，指五家公司明知其模型可能助长生物武器和网络攻击等灾难性风险仍持续开发，请求法院叫停最先进 AI 系统的开发与部署。",
+      "source": "Public Citizen",
+      "url": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/",
+      "category": "政策监管",
+      "published_at": "2026-11-13 00:39 SGT",
+      "related": [
+        {"source": "AP News", "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba"},
+        {"source": "Quartz", "url": "https://qz.com/nonprofits-sue-ai-giants-freeze-frontier-model-development-111226"}
+      ]
+    },
+    {
+      "id": "us-remote-access-chip-rule",
+      "title": "美商务部拟堵住“远程租用”漏洞：新加坡等 7 国进口 Blackwell 级芯片需许可",
+      "original_title": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit",
+      "summary": "据 The Information 报道，美商务部工业与安全局正敲定新规，要求新加坡、马来西亚、泰国、印尼、巴西、挪威和南非进口 Blackwell 级及以上芯片须获许可并报告用户与用途，以阻止中国 AI 公司经第三国数据中心远程使用英伟达芯片。黄仁勋丑闻让此前遭英伟达反对的这一规则重获动力；路透称部分中国公司已在抢订海外算力。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html",
+      "category": "政策监管",
+      "published_at": "2026-11-12 15:16 SGT",
+      "related": [
+        {"source": "Gizmodo（中国公司抢订海外算力）", "url": "https://gizmodo.com/china-is-racing-to-exploit-an-nvidia-loophole-before-the-trump-admin-slams-it-shut-2000839012"},
+        {"source": "Chosun Biz", "url": "https://biz.chosun.com/en/en-international/2026/11/12/M2ICNVHJPVCFLJDLAGG5IP4VDE/"}
+      ]
+    },
+    {
+      "id": "democrats-nvidia-probe",
+      "title": "民主党就英伟达对华 H200 销售安排发起调查，黄仁勋同意感恩节前赴国会作证",
+      "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+      "summary": "众议员 Richard Neal 与参议员 Ron Wyden 致信商务部长卢特尼克，质疑特朗普政府要求 H200 先运至美国征收关税再获出口许可的安排“可能违宪”，要求保存相关记录。另据众议院外委会主席 Mast，黄仁勋已同意在感恩节前就国家安全问题出席国会作证。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "category": "政策监管",
+      "published_at": "2026-11-13 06:42 SGT",
+      "related": [
+        {"source": "TechCrunch（同意作证）", "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"}
+      ]
+    },
+    {
+      "id": "openai-daybreak-cyber",
+      "title": "OpenAI 举办“Cyber at the Frontier”发布会，推出两款网络安全防御智能体工具",
+      "original_title": "OpenAI sees a new enterprise frontier in cyber",
+      "summary": "OpenAI 发布 Daybreak Red Team（多智能体协同验证代码漏洞是否可被利用并排序优先级）和 Defense Factory（把发现的漏洞转成可审查、可测试的补丁），称将借此逐步扩大前沿网络安全模型的开放范围。总裁 Greg Brockman 在主题演讲中表示，需要从根本上以更安全的方式构建软件。",
+      "source": "The Deep View",
+      "url": "https://www.thedeepview.com/articles/openai-sees-a-new-enterprise-frontier-in-cyber",
+      "category": "产品更新",
+      "published_at": "2026-11-13 03:00 SGT",
+      "related": [
+        {"source": "OpenAI", "url": "https://openai.com/cyber-at-the-frontier/"}
+      ]
+    },
+    {
+      "id": "claude-managed-agents-self-hosted",
+      "title": "Anthropic 推出可自托管的 Claude Managed Agents（私测）",
+      "original_title": "Self-hosted Claude Managed Agents is now in private beta",
+      "summary": "企业可在自有云或本地部署 Managed Agents 的完整服务，包括智能体框架、沙箱、凭证和会话记录，并自选 Claude 请求的发送路径，适合修复构建、处理告警等需访问内部系统的任务；目前仅向符合条件的组织开放申请。",
+      "source": "Claude",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "category": "产品更新",
+      "published_at": "2026-11-13 01:57 SGT（官方 X 发布时间）",
+      "related": [
+        {"source": "ClaudeDevs on X", "url": "https://x.com/ClaudeDevs/status/2120938988165091693"},
+        {"source": "Claude 文档", "url": "https://platform.claude.com/docs/en/managed-agents/self-hosted/quickstart"}
+      ]
+    },
+    {
+      "id": "cerebras-q3-microsoft",
+      "title": "Cerebras 季度营收超预期并宣布与微软合作，盘后大涨 17%",
+      "original_title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "summary": "Cerebras 第三季度核心调整后营收 2.309 亿美元，同比增长 70%，高于市场预期的 2.147 亿美元，并上调全年指引；公司同时公布与微软的新合作。CEO Andrew Feldman 称 GPU 交付周期长、成本高为其硬件销售创造了机会。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "category": "行业动态",
+      "published_at": "2026-11-13 05:07 SGT",
+      "related": [
+        {"source": "SiliconANGLE", "url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systemss-stock-by-17/"}
+      ]
+    },
+    {
+      "id": "chinese-models-blackwell-fingerprint",
+      "title": "研究：DeepSeek、Kimi 等中国前沿模型权重中检出受管制 Blackwell GPU 的“指纹”",
+      "original_title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs",
+      "summary": "Unemployment Labs 通过分析公开权重中残留的初始化数值特征发现，DeepSeek、月之暗面、MiniMax 和蚂蚁集团自 2026 年 4 月以来发布的 6 个模型与 Blackwell 硬件特征吻合，而更早模型对应 Hopper；DeepSeek-V4-Flash 和 Kimi K3 还在实体 Blackwell 芯片上复现验证。作者强调这支持但不能证明训练使用了 Blackwell。",
+      "source": "Unemployment Labs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "category": "研究突破",
+      "published_at": "2026-11-13 05:56 SGT（Hacker News 发帖时间）"
+    },
+    {
+      "id": "fireworks-breach-notion",
+      "title": "Fireworks AI 遭网络攻击，Notion AI 部分用户聊天记录外泄",
+      "original_title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers' chat transcripts",
+      "summary": "开源模型推理平台 Fireworks AI 确认攻击者经其云服务商入侵开发系统，窃取客户账单信息和部分数据集。客户 Notion 披露约 1% 用户受影响，被盗内容包括使用“Insights”功能的 Notion AI 聊天输入输出，Notion 已于 11 月 3 日切断与 Fireworks 的连接。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "category": "安全事件",
+      "published_at": "2026-11-12 23:02 SGT"
+    },
+    {
+      "id": "meta-muse-calls",
+      "title": "Meta 个人智能体 Muse 可替付费用户给美国商家打电话",
+      "original_title": "Muse can now place calls to US businesses — if you pay",
+      "summary": "经过 9 月起的小范围测试，Muse 代打电话功能向美国付费订阅用户开放，可处理致电有线电视公司、车管所或订餐厅等事务。Muse 用户已超 1000 万，订阅起价每月 20 美元（每周 5 亿 token），重度用户可选 100 美元档。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "category": "产品更新",
+      "published_at": "2026-11-13 06:22 SGT",
+      "related": [
+        {"source": "Engadget", "url": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/"}
+      ]
+    },
+    {
+      "id": "neocloud-nebius-nscale",
+      "title": "新云厂商承压：Nebius 指引疲软股价跌 16%，Nscale 更新招股书显示季度亏损扩大至 16.9 亿美元",
+      "original_title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+      "summary": "Nebius 季度营收增长 571%，但全年营收指引令人失望且计划加大资本开支，股价周四下跌 16%。英伟达支持的 Nscale 更新美股 IPO 文件，第三季度营收 3.075 亿美元、净亏损 16.9 亿美元（上季 10.2 亿），同时强调与 Anthropic 的业务增长；黄仁勋离职加剧了新云板块的动荡。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "category": "行业动态",
+      "published_at": "2026-11-12 20:30 SGT",
+      "related": [
+        {"source": "CNBC（Nscale 招股书）", "url": "https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html"},
+        {"source": "TechCrunch（Nebius 400 亿美元支出计划）", "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"}
+      ]
+    },
+    {
+      "id": "cisco-ai-infra",
+      "title": "思科上调本财年超大规模客户 AI 基础设施收入预期至 90 亿美元，较上年翻倍有余",
+      "original_title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "summary": "思科第一财季营收同比增长 24%、净利润 46 亿美元，均超预期，盘后股价上涨；公司将来自超大规模云厂商的 AI 基础设施收入预期上调至 90 亿美元，是 2026 财年的两倍多。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "category": "行业动态",
+      "published_at": "2026-11-13 05:11 SGT"
+    },
+    {
+      "id": "deepmind-union-cac",
+      "title": "Google DeepMind 英国员工向政府仲裁机构申请，推动工会认可投票",
+      "original_title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "summary": "在与管理层的自愿谈判停滞后，CWU 和 Unite 两大工会代表 DeepMind 员工向英国中央仲裁委员会（CAC）提交申请，要求确认支持度以触发具有法律效力的工会投票，约 1000 名产品岗位员工可能纳入。DeepMind 表示尊重员工选择并将建设性参与。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "category": "行业动态",
+      "published_at": "2026-11-13 02:05 SGT"
+    }
+  ]
+}
