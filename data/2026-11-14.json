@@ -171,7 +171,7 @@
       "summary": "Anthropic 状态页显示，新加坡时间 11 月 13 日 17:58 起用户登录 Claude.ai 和 Claude Code 出现异常，波及 Claude 控制台和 Claude Cowork；19:05 部署修复，19:58 宣布恢复。该事件在 Hacker News 上获得近 500 点热度。",
       "source": "Claude Status",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "category": "安全事件",
+      "category": "行业动态",
       "published_at": "2026-11-13 17:58 SGT"
     }
   ]
