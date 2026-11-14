@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-14",
+  "weekday": "周六",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-13 08:00 至 2026-11-14 08:00（新加坡时间）",
+  "updated_at": "2026-11-14 08:25 SGT",
+  "top_story_id": "nvidia-ceo-search-haas",
+  "items": [
+    {
+      "id": "nvidia-ceo-search-haas",
+      "title": "英伟达物色新 CEO：英国《金融时报》称董事会接触 Arm CEO Rene Haas，董事会称尚未正式接洽任何人选",
+      "original_title": "Nvidia hasn't selected search firm for permanent Huang replacement, board tells CNBC",
+      "summary": "《金融时报》报道，英伟达董事会已就接替黄仁勋一事接触 Arm CEO Rene Haas（他早年曾在英伟达任职七年）；董事会随后对 CNBC 表示“正在挑选猎头公司”“尚未正式接洽任何潜在人选”，相关猜测“为时过早”。英伟达周五再跌逾 2%，市值跌破 4 万亿美元；WIRED 报道称，内部一则呼吁董事会倾听员工意见的帖子已获 1600 多条评论，多数支持黄仁勋回归。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "category": "行业动态",
+      "published_at": "2026-11-14 03:18 SGT",
+      "related": [
+        {"source": "Financial Times（接触 Rene Haas）", "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926"},
+        {"source": "WIRED（员工请愿让黄仁勋回归）", "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"}
+      ]
+    },
+    {
+      "id": "chatgpt-wallet",
+      "title": "OpenAI 推出 ChatGPT Wallet：让 “dots” 智能体替用户下单购物",
+      "original_title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "summary": "OpenAI 联合美国运通、万事达和 Visa 推出 ChatGPT Wallet，用户录入一次银行卡后，dots 智能体可代为找货下单，每笔需用户安全验证确认；智能体只拿到单笔交易专用的支付令牌，接触不到真实卡号。首批面向美国 18 岁以上 Pro 订阅用户，OpenAI 暂不抽成。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "category": "产品更新",
+      "published_at": "2026-11-13 23:00 SGT",
+      "related": [
+        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"},
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"}
+      ]
+    },
+    {
+      "id": "openai-disbands-robotics",
+      "title": "OpenAI 解散独立机器人团队，押注 GPT-6 Astra 等通用模型直接驱动机器人",
+      "original_title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+      "summary": "《财富》独家报道，OpenAI 已解散独立机器人团队：研究人员并入首席研究官 Mark Chen 领导的主研究团队，应用机器人与硬件团队并入 Greg Brockman 负责的 Applied 部门。OpenAI 称这不是放弃机器人，而是因为 GPT-6 Astra 等通用前沿模型已能直接用于机器人控制；仍计划 2027 年首次公开展示自研人形机器人。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "category": "行业动态",
+      "published_at": "2026-11-14 01:05 SGT"
+    },
+    {
+      "id": "amodei-compute-dilemma",
+      "title": "Anthropic 上市前夕，Dario Amodei 称算力是公司“最深的商业难题”；IPO 不向中国内地和香港机构开放",
+      "original_title": "CEO Dario Amodei says compute is the 'deepest business dilemma' facing Anthropic before its IPO",
+      "summary": "Amodei 在与摩根大通 CEO Jamie Dimon 的直播对谈中说，买多了算力会让公司财务过度扩张、买少了又无法服务客户，Anthropic 的做法是提前“偏少”采购、需求超预期时再上现货市场补充，IPO 募资正是为此留足缓冲。Anthropic 预计周三定价、11 月 19 日开始交易，估值最高约 1.4 万亿美元；彭博另报道，因美国出口管制等原因，承销行将中国内地和香港机构投资者排除在此次 IPO 之外。",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+      "category": "融资并购",
+      "published_at": "2026-11-14 03:02 SGT",
+      "related": [
+        {"source": "Bloomberg", "url": "https://news.bloombergtax.com/financial-accounting/anthropic-ceo-calls-computing-power-deepest-business-dilemma"},
+        {"source": "Bloomberg（IPO 拒收中国订单）", "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/anthropic-ceo-dario-amodei-aims-to-underpromise-and-overdeliver-as-ipo-valuation-drops-below-2t-hopes-181234804.html"}
+      ]
+    },
+    {
+      "id": "godel-notebooks-claude",
+      "title": "Claude 帮助破译哥德尔 1009 页速记笔记，发现数百条此前无人知晓的定理",
+      "original_title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "summary": "赫尔辛基大学逻辑学家 Jan von Plato 团队此前每周只能读懂约一页哥德尔 1940 年代用过时速记写成的笔记，借助 Claude 几天内就得到 650 页解读；Claude 提取出 663 条定理，经 Coq 证明助手检验约 400 条原样成立、约 200 条修正后成立、约 50 条有误。笔记还显示哥德尔离证明选择公理的独立性只差一步，但有学者提醒仍需史学界核实。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "category": "研究突破",
+      "published_at": "2026-11-14 00:38 SGT"
+    },
+    {
+      "id": "reuters-china-nvidia-projects",
+      "title": "路透调查：中国逾 32 亿美元算力项目围绕受管制英伟达芯片建设",
+      "original_title": "Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "summary": "路透社审阅 150 多份中国采购公告、投资计划、施工合同和企业披露，发现总额超 230 亿元人民币（约 32 亿美元）的算力项目以受美国出口管制的 H100、H200、H800 为核心，遍及福建、陕西、吉林、内蒙古、甘肃等地，部分已投运。与此同时，参议院银行委员会主席 Tim Scott 要求黄仁勋和商务部长卢特尼克 12 月分别出席听证会，卢特尼克已同意。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/",
+      "category": "政策监管",
+      "published_at": "2026-11-13 SGT",
+      "related": [
+        {"source": "Investing.com（路透全文转载）", "url": "https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462"},
+        {"source": "Politico（参议院听证）", "url": "https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124"},
+        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"}
+      ]
+    },
+    {
+      "id": "moonshot-ipo-restructure",
+      "title": "《华尔街日报》：月之暗面注销开曼控股公司，为香港 IPO 铺路",
+      "original_title": "China's Moonshot AI restructures to pave way for IPO",
+      "summary": "据知情人士，Kimi 开发商月之暗面正在注销其开曼群岛控股公司，把早期美元投资人的股份转移到中国境内的主要运营实体，以便在香港上市。此前报道称公司已向港交所秘密递表，最新一轮估值约 500 亿美元，考虑募资最多 50 亿美元。",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/chinas-moonshot-ai-restructures-to-pave-way-for-ipo-49f09abb",
+      "category": "融资并购",
+      "published_at": "2026-11-14 06:01 SGT",
+      "related": [
+        {"source": "PANews", "url": "https://www.panews.io/articles/01a1d422-1d14-773d-bf61-a76f257139c9"}
+      ]
+    },
+    {
+      "id": "samsung-modine",
+      "title": "彭博：三星洽购美国数据中心冷却设备商 Modine，后者盘后大涨 28%",
+      "original_title": "Samsung in talks to buy data center cooling firm Modine, Bloomberg News reports",
+      "summary": "彭博称三星电子正洽购 Modine，交易最快数周内达成，但仍可能告吹或出现其他竞购者。Modine 周四收盘市值约 56 亿美元，消息传出后盘后大涨约 28%；其数据中心业务季度营收同比增长 95%。若成交，或成为三星史上最大并购，三星去年已收购暖通企业 FläktGroup。",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/samsung-in-talks-buy-data-center-cooling-firm-modine-bloomberg-news-reports-6547876",
+      "category": "融资并购",
+      "published_at": "2026-11-13 08:12 SGT",
+      "related": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine"},
+        {"source": "DCD", "url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/"}
+      ]
+    },
+    {
+      "id": "huang-exit-startup-funding",
+      "title": "黄仁勋离任给 AI 创业融资“炸出大坑”：英伟达今年已参投 105 轮，VC 担心新管理层收紧投资",
+      "original_title": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "据 PitchBook，英伟达今年参与了 105 轮创业融资，常是最大投资方，覆盖新云、推理服务商和开源模型公司。多位投资人对 TechCrunch 表示，临时 CEO Colette Kress 风格“保守得多”，英伟达未来可能更挑剔、出手更小，进而压低相关公司估值；也有人认为谷歌、亚马逊、微软、AMD 等会补位，但不会像英伟达那样重金押注未盈利的基础设施初创公司。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "category": "行业动态",
+      "published_at": "2026-11-14 06:43 SGT"
+    },
+    {
+      "id": "langchain-3b",
+      "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
+      "original_title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "智能体管理平台 LangChain 宣布由 CapitalG 领投 3 亿美元 C 轮，新加坡 GIC、DFJ Growth、IVP、Sapphire 等跟投，估值较一年前的 12.5 亿美元翻倍有余。公司称其 LangSmith 不绑定任何模型或云平台，已有 7000 家客户，包括 Harvey、Rippling、英伟达、丰田和 Salesforce。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "category": "融资并购",
+      "published_at": "2026-11-14 03:37 SGT"
+    },
+    {
+      "id": "amazon-world-product-graph",
+      "title": "路透：亚马逊计划打造“世界商品图谱”，收录全网商品数据供用户和 AI 智能体使用",
+      "original_title": "Amazon has a plan to index the world's online shopping data",
+      "summary": "据路透看到的内部文件，亚马逊“World Product Graph”项目要收录互联网上所有在售商品的信息（包括亚马逊不卖的），让购物者和 AI 智能体都把亚马逊当作首选商品检索入口；文件还承认其购物 AI 助手“很多回答事实错误或不完整”。文件列出的上线时间为 2027 年 10 月 1 日，亚马逊回应称这只是头脑风暴草案，不代表当前计划。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "category": "行业动态",
+      "published_at": "2026-11-14 07:49 SGT"
+    },
+    {
+      "id": "elevenlabs-elevenai",
+      "title": "ElevenLabs 推出 ElevenAI：把会议纪要、语音输入和智能体整合进一个团队应用",
+      "original_title": "ElevenLabs' new app combines meeting note-taking and dictation for teams",
+      "summary": "估值 220 亿美元的 ElevenLabs 在纽约 11/11 峰会上推出实验性应用 ElevenAI（需申请预览），可跨会议记录与检索、提供实时辅助，接入 ElevenAgent 自动生成跟进邮件等，还支持 90 多种语言的听写，正面竞争 Granola、Fireflies、Wispr Flow 等产品。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "category": "产品更新",
+      "published_at": "2026-11-13 22:44 SGT"
+    },
+    {
+      "id": "sus-bench-mafia",
+      "title": "X 热议：25 万真人与 28 个 AI 模型玩“狼人杀”，OpenAI 模型最会撒谎、Claude 最爱告密",
+      "original_title": "SUS-Bench: the #1 AI EQ leaderboard",
+      "summary": "People Make Things 团队发布 SUS-Bench：来自 167 个国家的 25 万多人在类狼人杀游戏中与 AI 混战 50 多万局，用来衡量模型的合作、欺骗与识破谎言能力。作者在 X 上总结称 OpenAI 模型是“疯狂的骗子”、SpaceXAI 的模型最忠诚、Anthropic 的模型最爱“告密”，还加入了一个模拟果蝇大脑作对照；帖子浏览量超 120 万。",
+      "source": "X @imodarressi",
+      "url": "https://x.com/imodarressi/status/2121280505786110176",
+      "category": "X 热议",
+      "published_at": "2026-11-14 00:34 SGT",
+      "related": [
+        {"source": "SUS-Bench 项目页", "url": "https://peoplemakethings.com/sus"}
+      ]
+    },
+    {
+      "id": "claude-outage-1113",
+      "title": "Claude 服务故障约两小时：claude.ai、Claude Code 和控制台出现登录错误",
+      "original_title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "summary": "Anthropic 状态页显示，新加坡时间 11 月 13 日 17:58 起用户登录 Claude.ai 和 Claude Code 出现异常，波及 Claude 控制台和 Claude Cowork；19:05 部署修复，19:58 宣布恢复。该事件在 Hacker News 上获得近 500 点热度。",
+      "source": "Claude Status",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "category": "行业动态",
+      "published_at": "2026-11-13 17:58 SGT"
+    }
+  ]
+}
