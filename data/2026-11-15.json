@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-15",
+  "weekday": "周日",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-14 08:00 至 2026-11-15 08:00（新加坡时间）",
+  "updated_at": "2026-11-15 08:40 SGT",
+  "top_story_id": "huang-reinstate-petition",
+  "items": [
+    {
+      "id": "huang-reinstate-petition",
+      "title": "马斯克、Tim Sweeney 等联署请愿，要求英伟达恢复黄仁勋职务；马斯克称没有他会丢掉“关键交易”",
+      "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "名为 “Stand with Jensen” 的请愿截至周六下午已有逾 11.5 万个签名，网站称其中包括 5,965 名现任员工、1,108 名前员工和 63,063 名股东；联署者包括马斯克、Replit CEO Amjad Masad、Epic Games CEO Tim Sweeney 和 Y Combinator CEO Garry Tan，要求董事会在独立调查期间让黄仁勋回来，“要正当程序，不要暴民审判”。《商业内幕》提醒签名里也出现了明显假名，组织者称正在清理。马斯克周六在 X 上说，黄仁勋把供应链“打理得很出色”，但许多承诺“是与 Jensen 的握手，不是书面合同”，没有他会丢掉一些“关键交易”。另有 Altimeter 的 Brad Gerstner 与 Atreides 的 Gavin Baker 致信董事会，要求放慢寻找永久 CEO 的节奏，并保留黄仁勋回归的可能，但并未要求立即复职。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "category": "行业动态",
+      "published_at": "2026-11-15 05:41 SGT",
+      "related": [
+        {"source": "Business Insider（含假签名提醒）", "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11"},
+        {"source": "CNBC（投资人信件）", "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"},
+        {"source": "CNA / Reuters（马斯克谈关键交易）", "url": "https://www.channelnewsasia.com/business/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-6551936"}
+      ]
+    },
+    {
+      "id": "nvidia-circular-financing",
+      "title": "《华尔街日报》：黄仁勋曾斥责 Kress 收紧循环融资；报道称英伟达靠给客户提供担保来消化过剩芯片",
+      "original_title": "Jensen Huang didn't show confidence in his successor, report says",
+      "summary": "据《华尔街日报》报道，黄仁勋今夏在财务会上把质疑循环融资规模的 CFO、现任临时 CEO Colette Kress 称为 “a deer in the headlights”；Kress 此前已把英伟达对 OpenAI 俄亥俄数据中心项目的授信，从洽谈中的 2500 亿美元压至 1050 亿美元。后续科技媒体援引同一报道称，面对台积电晶圆“雪崩”般的到货，英伟达通过向云厂商和 AI 创业公司提供融资与担保来消化自身芯片，被解读为维持供应紧张与高价。该话题周六在 Hacker News 上获得逾 1000 点。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "category": "行业动态",
+      "published_at": "2026-11-13 20:28 SGT",
+      "related": [
+        {"source": "TechSpot（周六跟进）", "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"},
+        {"source": "Wccftech", "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/"}
+      ]
+    },
+    {
+      "id": "cursor-security-update",
+      "title": "Cursor 公布安全事件调查：泄露的供应商密钥导致恶意 Claude Code 扩展流入市场，最多约 5000 名用户可能中招",
+      "original_title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "summary": "Cursor 周五发布调查更新、周六获安全媒体跟进：攻击者利用 Fireworks 暴露的只读访问密钥，从用于模型训练的编码轨迹桶中取得少量未脱敏凭证（Cursor 称受影响客户不到 0.01%），进而进入部分内部 SaaS，并在 10 月 29 日把伪造的 Anthropic.claude-code 2.1.312 / 2.1.313 写入 Cursor 扩展市场缓存，试图安装持久 SSH 后门。恶意版本上线约 11 小时，最多约 5000 名在该时段请求特定缓存版本的用户可能下载到；官方扩展源 Open VSX 和 Anthropic 正版均未被植入。Cursor 称最后一次攻击活动出现在 11 月 1 日且已被阻断，并已直接通知受影响客户。",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "category": "安全事件",
+      "published_at": "2026-11-15 01:27 SGT",
+      "related": [
+        {"source": "Cursor 官方更新（11 月 13 日）", "url": "https://cursor.com/blog/security-incident-update"},
+        {"source": "Cursor 安全公告（10 月 29 日）", "url": "https://cursor.com/blog/claude-code-extension-security-notice"}
+      ]
+    },
+    {
+      "id": "anthropic-ipo-demand",
+      "title": "路透：Anthropic IPO 路演至周四已获约 6 倍认购，投资人仍质疑其领先优势能否保住",
+      "original_title": "Exclusive-Investors flock to Anthropic IPO but question durability of AI lead",
+      "summary": "知情人士对路透称，这场规模约 640 亿美元的 IPO 路演首日（周二）订单约相当于可售股份的两倍，到周四已约六倍超购，早期需求被认为强于 SpaceX 路演前两日；公司预计下周三定价。投资人最关心 Anthropic 能否在谷歌等对手追赶下落住模型领先，以及 Claude 能否从编程扩展到更广泛的知识工作。银行估值模型采用的 2028 年营收约为 2700 亿至 2800 亿美元，对 2026、2027 年的预测分别约为 520–530 亿和 1350–1370 亿美元；也有买方预测更高，同时有投资人抱怨部分会议未开放电话提问。Anthropic 拒评。",
+      "source": "CNA / Reuters",
+      "url": "https://www.channelnewsasia.com/business/exclusive-investors-flock-anthropic-ipo-question-durability-ai-lead-6550701",
+      "category": "融资并购",
+      "published_at": "2026-11-14 06:06 SGT"
+    },
+    {
+      "id": "nvidia-asia-governments",
+      "title": "黄仁勋离任后亚洲政府表态：韩国确认 26 万颗 GPU 供货承诺，新加坡说明对 Alice Huang 的调查进展",
+      "original_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "韩国科技部称，英伟达已重申向韩国供应 26 万颗先进 GPU 并继续合作；韩国政府 AI 战略委员会周五召开紧急会议评估影响。中国外交部重申反对出口管制，并称对受限芯片与 Alice Huang 相关上海数据中心的报道不知情；路透称逾 30 亿美元依赖英伟达受限芯片的中国 AI 算力项目前景更不确定。新加坡内政部介绍，Alice Huang 的护照曾于 2025 年 6 月被扣，2026 年 2 月警方认为虚假申报证据不足，但认定她故意提供不实职务信息，予以警告并禁止再入境；对 Megaspeed 及其他六人的调查仍在进行。台湾表示台北海外总部计划仍按合同推进，日本经产省称将密切关注。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "category": "行业动态",
+      "published_at": "2026-11-15 00:34 SGT"
+    },
+    {
+      "id": "google-antigravity-teamwork",
+      "title": "谷歌研究：用 Antigravity /teamwork 多智能体证明 2013 年 Courtade–Kumar 猜想",
+      "original_title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "summary": "谷歌研究副总裁 Vahab Mirrokni 在 11 月 13 日的博客中介绍，团队将 Gemini 4 Argon、Carbon、Hydrogen 与 Antigravity 的 /teamwork 多智能体工作流结合，用于数学、化学、系统软件和机器学习工程中的未解问题，并正在向外部用户开放这些工具。其中，谷歌与港中文、南加州大学、卡内基梅隆的研究者用 /teamwork 的 Long Proof 模式，在全称条件下证明了信息论中 2013 年的 Courtade–Kumar 猜想：随机比特串经过噪声信道后，没有任何把输入压缩成一个比特的方法，能比“独裁函数”（只复制其中一位）保留更多信息。该文周六在 Hacker News 上继续发酵。",
+      "source": "Google Research",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "category": "研究突破",
+      "published_at": "2026-11-13（具体时刻未标明）"
+    },
+    {
+      "id": "nvidia-stevens-stock-sale",
+      "title": "英伟达董事 Mark Stevens 的信托在黄仁勋丑闻曝光前数周卖出约 9.46 亿美元股票，且未走 10b5-1 预排计划",
+      "original_title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke — and no trading plan was flagged",
+      "summary": "据 SEC 申报，2008 年起担任英伟达董事的 Mark Stevens 在 2026 年 8 月 31 日至 9 月 18 日分三批出售约 420 万股，套现约 9.46 亿美元，且没有预先安排的 10b5-1 交易计划。文章强调这并不自动构成内幕交易，他仍持有约 2750 万股。该报道于周六在 Hacker News 上获得 200 多点关注。",
+      "source": "Moneywise",
+      "url": "https://moneywise.com/investing/stocks/nvidia-director-mark-stevens-stock-sale-huang-resignation",
+      "category": "行业动态",
+      "published_at": "2026-11-13（具体时刻未标明）"
+    },
+    {
+      "id": "llamacpp-ggml-v1",
+      "title": "llama.cpp 与 ggml 发布 v1.0.0：开始用语义化版本标记破坏性 API 变更",
+      "original_title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "维护了三年半的本地推理库 llama.cpp 与张量库 ggml 在 11 月 13 日发布 v1.0.0。项目称此后公共 C API / ABI 不兼容将提升主版本号，此版本删除了一批已废弃接口，加入 FP8 KV 缓存、可配置的 MoE 专家 CPU 缓存，并加固 llama-server 的安全选项。该发布周六在 Hacker News 上获得近 400 点。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "产品更新",
+      "published_at": "2026-11-13 18:20 SGT",
+      "related": [
+        {"source": "GitHub Release", "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"}
+      ]
+    },
+    {
+      "id": "deepseek-app-api",
+      "title": "DeepSeek 把 App 里的搜索、文件、安全和语音能力开放到 API，并提供独立 OCR / ASR / TTS 接口",
+      "original_title": "The full DeepSeek App experience, now via API",
+      "summary": "DeepSeek 宣布，App 背后的网络搜索、深度思考搜索、文件解析、链接阅读、安全检查以及语音能力，现可通过 API 调用；V4.1-Flash（deepseek-flash）已在 Messages、Responses 和 Chat Completions 中支持这些内置工具，也可单独调用搜索、OCR、语音识别和语音合成接口。面向公众的应用须启用安全检查，工具使用需在token费用之外另行计费。",
+      "source": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/news/news261113/",
+      "category": "产品更新",
+      "published_at": "2026-11-13（具体时刻未标明）"
+    },
+    {
+      "id": "claude-code-projects",
+      "title": "Claude Code Projects 升级：协调器可主动汇报，并分派并行云端线程干活",
+      "original_title": "Let Claude coordinate ongoing work with Projects",
+      "summary": "Anthropic 为 Claude Code 的 Projects 增加更主动的协调器：用户设定目标和仓库后，Claude 负责拆任务、分派到并行线程、汇总结果，并在项目聊天里回答问题和同步进度。每条线程是独立的云端 Claude Code 会话，使用各自的分支和仓库副本。该功能先向部分使用云端会话、且尚未在网页或桌面创建项目的 Pro / Max 用户开放公测，随后扩至 Team 和 Enterprise；官方提醒并行会话会更快触及用量上限。",
+      "source": "Claude Code Docs",
+      "url": "https://code.claude.com/docs/en/claude-projects",
+      "category": "产品更新",
+      "published_at": "2026-11-13（具体时刻未标明）"
+    },
+    {
+      "id": "nvidia-glm53-two-dgx",
+      "title": "英伟达教程：两台 DGX Station 用 vLLM 运行 GLM-5.3，峰值 607.8 tokens/秒",
+      "original_title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+      "summary": "英伟达开发者博客介绍如何把量化后的 GLM-5.3 NVFP4（总参数 7530 亿、每token激活 400 亿，权重约 464 GB，超过单颗 GB300 的 252 GB 显存）通过 ConnectX-8 RDMA 和张量并行拆到两台 DGX Station 上，用 vLLM 提供单一接口。在 SPEED-Bench Coding 测试中，并发 16 时输出吞吐量达到 607.8 tokens/秒；并发 32 时降至 385.0 tokens/秒，平均请求延迟 453.5 秒。",
+      "source": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "category": "产品更新",
+      "published_at": "2026-11-13（具体时刻未标明）"
+    },
+    {
+      "id": "eff-ai-wearables-privacy",
+      "title": "EFF：智能眼镜和 AI 可穿戴设备正在把“隐私选择”强加给周围的人",
+      "original_title": "Tech Companies Are Trying to Shift the Entire Concept of Privacy (Again)",
+      "summary": "电子前沿基金会撰文指出，Meta 和谷歌的智能眼镜可以拍摄或用 AI 描述佩戴者所见，Apple Watch 的 Audio Intelligence 以及亚马逊 Bee 等设备可全天转写或摘要对话；公司宣传的隐私保护主要针对设备主人，旁观者几乎无法退出。文章认为，把同意建立在“你必须先搞懂市场上每款设备怎么工作、何时在录”之上，并不构成有效的同意。该文周六在 Hacker News 上获得 400 多点。",
+      "source": "EFF",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "category": "政策监管",
+      "published_at": "2026-11-13（具体时刻未标明）"
+    }
+  ]
+}
