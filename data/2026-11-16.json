@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-16",
+  "weekday": "周一",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-15 08:00 至 2026-11-16 08:00（新加坡时间）",
+  "updated_at": "2026-11-16 08:40 SGT",
+  "top_story_id": "huang-return-talks",
+  "items": [
+    {
+      "id": "huang-return-talks",
+      "title": "金融时报：黄仁勋已与亲信讨论重返英伟达 CEO，盟友正组建“作战室”游说董事会并争取白宫支持",
+      "original_title": "Jensen Huang discusses comeback as Nvidia CEO with allies: Report",
+      "summary": "《金融时报》周日援引知情人士称，黄仁勋正在考虑重返英伟达首席执行官，并已与亲信讨论回归可能性。一名盟友对 FT 说，他们正在组建一个由硅谷高管组成的“作战室”（war room）为他游说，并将争取白宫支持；对方称“除了前沿实验室以外，科技圈里说了算的人都喜欢 Jensen”，并表示这些努力得到了黄仁勋本人支持。报道正值英伟达董事会物色继任者之际，FT 此前曾称董事会接触过 Arm CEO Rene Haas；英伟达在非工作时间未立即回应置评请求。The Verge 还提到，Megaspeed 声明 Alice Huang 自 2025 年 8 月起已不再任职，以及要求复职的公开信签名已逾 15 万（其中混有难以核实的名字）。",
+      "source": "CNA / 《金融时报》",
+      "url": "https://www.channelnewsasia.com/world/jensen-huang-discusses-comback-nvidia-6553591",
+      "category": "行业动态",
+      "published_at": "2026-11-16 07:25 SGT",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+        },
+        {
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/jensen-huang-nvidia-return-spy-b3085318.html"
+        },
+        {
+          "source": "Reuters（Investing.com 转载）",
+          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065"
+        }
+      ]
+    },
+    {
+      "id": "bessent-nvidia-shakeup",
+      "title": "美国财长 Bessent 呼吁英伟达“大换血”、外聘 CEO，质疑公司是否靠违规芯片销售抬高利润",
+      "original_title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "summary": "美国财政部长 Scott Bessent 周日接受 Fox News 采访时称，英伟达董事会应在公司外部寻找下一任首席执行官，并呼吁“dramatic shakeup”（大换血）。他质疑英伟达的企业文化，问公司是否在“靠这些看起来不合法的销售来抬高营收和利润”，并说如果是银行出现类似合规问题，货币监理署（OCC）现在就会进驻、许多高管会被撤换。他还指出，在对华销售下降的同时，公司呈报的新加坡收入曾大幅上升，而英伟达已于 2025 年 11 月起不再单独披露新加坡收入。CNBC 称，Bessent 与商务部长 Howard Lutnick 在芯片流向问题上争执加剧；Semafor 报道两人预计将随特朗普于本周访华。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "category": "政策监管",
+      "published_at": "2026-11-16 00:49 SGT"
+    },
+    {
+      "id": "nyt-lutnick-chip-rules",
+      "title": "《纽约时报》：商务部长 Lutnick 推动弱化东南亚数据中心芯片管制，其家族旧部与服务中企的项目有业务往来",
+      "original_title": "Lutnick pushed to weaken chip rules that overlap with his family business",
+      "summary": "《纽约时报》报道，马来西亚一座计划明年开业、名为 A201 的数据中心将部署价值数亿美元的英伟达先进 AI 服务器，并打算向一家中国科技巨头提供算力，从而在现行对华直接销售禁令之外运转。运营方是新加坡公司 Bitdeer，而商务部长 Howard Lutnick 此前长期执掌、现由其儿子经营的 Cantor Fitzgerald，今年担任了 Bitdeer 最高 10 亿美元股权发行的指定销售代理，双方往来可追溯至 2024 年一笔最高 2.5 亿美元的股票发行。报道称，Lutnick 正在起草会影响这类东南亚数据中心的规则，并主张采取较宽松的版本；商务部表示他已遵守所有伦理回避安排，时报也写明没有证据表明 Cantor 的业务影响了他的决策。",
+      "source": "《纽约时报》（The Philadelphia Inquirer 转载）",
+      "url": "https://www.inquirer.com/news/nation-world/howard-lutnick-commerce-secretary-rules-data-centers-nvidia-chips-china-southeast-asia-cantor-fitzgerald-20261115.html",
+      "category": "政策监管",
+      "published_at": "2026-11-16 02:29 SGT",
+      "related": [
+        {
+          "source": "Business Standard（同样转载时报）",
+          "url": "https://www.business-standard.com/world-news/nvidia-row-lutnick-pushed-to-weaken-chip-rules-linked-to-family-business-126111500775_1.html"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-ipo-commitments",
+      "title": "CNBC：Anthropic 招股书显示未履行支出承诺超 9000 亿美元，本周四上市被视作 AI 行情关键考验",
+      "original_title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "summary": "Anthropic 预计周四在纳斯达克上市。CNBC 根据其最新招股书梳理，公司未履行支出承诺已超过 9000 亿美元：对亚马逊十年至少 1100 亿美元，对其他公司的云服务约 4000 亿美元，对数据中心和芯片合作伙伴约 3000 亿美元，另计划向谷歌采购 1250 亿至 1500 亿美元 AI 芯片（2028 年起交付）。招股书称，亚马逊、谷歌和微软合计占合同义务的 31%；亚马逊去年还在印第安纳州专门为 Anthropic 建了一座使用定制芯片的数据中心。风险投资人 Joe Fath 对 CNBC 说：“这些数字简直令人瞠目。”文章将此次 IPO 放在利率上升、AI 舆论反转、华盛顿政治转向和黄仁勋离职之后的行业压力背景下。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "category": "融资并购",
+      "published_at": "2026-11-15 20:00 SGT"
+    },
+    {
+      "id": "china-mofcom-48",
+      "title": "中国商务部、科技部就增列 23 项 AI 技术出口管制的征求意见于 11 月 15 日截止，出口前登记已在实施",
+      "original_title": "MOFCOM and MOST Announcement No. 48 of 2026 on revising the Catalogue of Technologies Prohibited and Restricted from Export",
+      "summary": "商务部、科技部 10 月 16 日发布 2026 年第 48 号公告，拟修订《中国禁止出口限制出口技术目录》，公开征求意见窗口为 10 月 16 日至 11 月 15 日，已于昨天结束。拟增列 40 项技术，其中人工智能领域 23 项，覆盖大模型、智能体、算力集群和信息处理；已通过开源或发表学术论文进入公共领域的技术不纳入管理。商务部英文新闻稿称，40 项中有 14 项拟禁止出口、26 项拟限制出口（需许可）。公告同时要求：自发布之日起至目录正式修订实施前，出口附件所列技术须先在商务部平台办理出口前登记，已经开始但尚未完成的出口也在登记范围内，情形包括向境外转让所有权、授权境外使用，以及所有权人或实际控制人变更为境外主体。",
+      "source": "中国商务部",
+      "url": "https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/blgg/art/2026/art_718071a95e6948cdb652e2f08f422673.html",
+      "category": "政策监管",
+      "published_at": "征求意见于 2026-11-15 截止（公告发布于 2026-10-16）",
+      "related": [
+        {
+          "source": "商务部英文新闻稿",
+          "url": "https://english.mofcom.gov.cn/News/SpokesmansRemarks/art/2026/art_74bf283f105a4b19a11f7430df3671ae.html"
+        }
+      ]
+    },
+    {
+      "id": "openai-science-blog-lattice",
+      "title": "OpenAI 开设科学博客，首篇文章介绍物理学家与 GPT-6 Astra 合作提出标准模型的格点定义候选方案",
+      "original_title": "A step toward defining the Standard Model on a lattice",
+      "summary": "OpenAI 11 月 15 日推出科学博客，供科学家分享用 AI 做出的发现和方法。首篇客座文章来自该站访问科学家、加州大学圣塔芭芭拉分校粒子理论组负责人 Nathaniel Craig：他在今年 10 月的预印本中，在 GPT-6 Astra 协助下提出了一种候选的标准模型格点（非微扰）定义。Craig 写道，自己已有解决问题的策略，但未能证明它覆盖所有必要情形；Astra 帮助把策略变成具体构造，并在详细证明中起了主导作用。标准模型虽与实验高度吻合，但如何在不把相互作用当作微扰修正的前提下给出完整定义，仍是未解决的基础问题。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model/",
+      "category": "研究突破",
+      "published_at": "2026-11-15（具体时刻未标明）",
+      "related": [
+        {
+          "source": "OpenAI 科学博客上线说明",
+          "url": "https://openai.com/index/our-new-blog-for-science"
+        }
+      ]
+    },
+    {
+      "id": "bharat-semi-24m",
+      "title": "印度芯片创企 Bharat Semi 获 2400 万美元种子轮，开发集成 AI 的图像传感器，已拿下 General Atomics 设计订单",
+      "original_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "新德里的 Bharat Semi 完成 2400 万美元全股权种子轮，由 Info Edge Group、South Park Commons 和 Indus Bridge Ventures 领投，Valour Capital、Micromax、Gaingels 及个人投资者跟投。这家近五年、尚无营收的公司正在开发把图像采集、处理和 AI 做在同一颗芯片上的可编程图像传感器，联合创始人 Vrinda Kapoor 称，相比传统“传感器 + 图像信号处理器 + 系统芯片”方案，系统成本有望至少降低 70%。公司表示已获得美国 General Atomics 和印度 Kaynes Semicon 的设计订单，但传感器仍在开发中，目标 2027 年进入商业生产；约有 75 名员工，其中 10 至 12 人在美国圣克拉拉。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "category": "融资并购",
+      "published_at": "2026-11-16 07:30 SGT"
+    },
+    {
+      "id": "pony-ai-plan-b",
+      "title": "小马智行 CFO：若英伟达对华出口进一步收紧，公司已在用国产芯片做“B 计划”",
+      "original_title": "TechCrunch Mobility: The Nvidia backup plan for China's self-driving industry",
+      "summary": "TechCrunch Mobility 采访中国自动驾驶公司小马智行（Pony.ai）CFO 王晓枫（Leo Wang）时问及：如果黄仁勋离职后的连锁反应导致英伟达对华出口管制再收紧，公司怎么办。王说算力需求本就远大于供给，这是眼下的痛点之一；公司一方面要求训练尽量高效，必要时使用中端而非高端算力，另一方面更多转向国产芯片。“如果看整个局面，这件事已经演进了好几年……大家都在做某种 B 计划，所以至少替代方案已经存在，也比几年前更成熟，只是性价比大概还不是最好的选择。”",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "category": "行业动态",
+      "published_at": "2026-11-16 01:05 SGT"
+    },
+    {
+      "id": "hn-ai-code-opensource",
+      "title": "Hacker News 热议“AI 生成的代码都应开源”：这篇博文登上首页并收获千余分",
+      "original_title": "All AI-generated code should be Open Source",
+      "summary": "开发者 Jakub T. Jankiewicz 的文章主张，所有由 AI 生成的代码都应采用开源许可或放入公共领域（例如 CC0）。他的理由包括：模型大量训练自开源代码和 Stack Overflow 等需署名的知识库，把这些集体知识变成专有代码像是“许可洗白”；在美国，纯 AI 生成、缺少人类作者的作品通常难以获得版权（他援引“猴子自拍”先例和版权局立场），但各国法律并不一致。他特别指出，若人只写提示、几乎不审也不改，这样的代码更应公开。该文 11 月 15 日登上 Hacker News 首页，获 1054 分、577 条评论。",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50507303",
+      "category": "X 热议",
+      "published_at": "Hacker News 于 2026-11-15 登上首页（原文具体时刻未标明）",
+      "related": [
+        {
+          "source": "原文（Jakub T. Jankiewicz）",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+        }
+      ]
+    },
+    {
+      "id": "wired-oats-tamagotchi",
+      "title": "WIRED：卡内基梅隆学生做出约 20 美元的 E Ink“电子宠物”，给植物和哑铃配上 AI 人格",
+      "original_title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "summary": "卡内基梅隆大学 Future Interfaces Group 五年级博士生 Daehwa Kim 做了一套名为 OATs（Object Agent Twins）的微型 E Ink 装置，把花盆、滑板、哑铃等日常物品变成会用表情“讨照顾”的 AI 分身，用来提醒浇水、运动等习惯。硬件主体成本约 20 美元，可接水分、温度、湿度、光照、占用和运动等传感器；精灵形象用谷歌 Gemini 的 Nano Banana 生成。Kim 11 月初在底特律举行的 ACM UIST 上展示该项目，并获得两项荣誉奖。有人劝她上网卖套件，她尚未决定是否商业化。",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "category": "产品更新",
+      "published_at": "2026-11-15 06:00（美国时间）"
+    }
+  ]
+}
