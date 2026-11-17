@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-17",
+  "weekday": "周二",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-16 08:00 至 2026-11-17 08:00（新加坡时间）",
+  "updated_at": "2026-11-17 08:50 SGT",
+  "top_story_id": "nvidia-board-not-reinstating-huang",
+  "items": [
+    {
+      "id": "nvidia-board-not-reinstating-huang",
+      "title": "CNBC：英伟达董事会“并未考虑”让黄仁勋回归 CEO，正聚焦对其的调查；特朗普称“不介意”他回来",
+      "original_title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "summary": "CNBC 援引知情人士称，英伟达董事会没有在讨论让黄仁勋重返 CEO，而是聚焦于一项调查：公司已聘请 Wachtell Lipton 律所，调查其行为是否危及国家安全或公司机密。周末 FT 曾报道他与盟友讨论回归；复职请愿签名已达约 18 万，马斯克、Garry Tan、Tim Sweeney 等支持，特朗普周一表示“不是个坏主意”。英伟达将于周二发布财报，这将是临时 CEO Colette Kress 主持的首次财报电话会；AFP 称周一英伟达股价下跌约 4%。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "category": "行业动态",
+      "published_at": "2026-11-17 01:38 SGT",
+      "related": [
+        {
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/technology/2026/11/16/trump-says-he-would-not-mind-jensen-huangs-return-nvidia/"
+        },
+        {
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/nvidia-set-issue-earnings-report-days-after-jensen/story?id=138174647"
+        },
+        {
+          "source": "Bangkok Post / AFP",
+          "url": "https://www.bangkokpost.com/world/3356181/nvidia-faces-earnings-test-amid-calls-for-huang-comeback"
+        }
+      ]
+    },
+    {
+      "id": "commerce-remote-access-rule",
+      "title": "美国商务部发布临时最终规则堵住“远程租用”漏洞：向印尼、马来西亚、新加坡、泰国、巴西出口先进 AI 芯片需许可",
+      "original_title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+      "summary": "商务部工业与安全局（BIS）周一发布临时最终规则，要求向印度尼西亚、马来西亚、新加坡、泰国和巴西出口先进芯片须申请许可；已有海外数据中心若向总部在中国、俄罗斯、古巴等国的公司提供大量算力，也需许可。BIS 称该规则由财政部和国家安全委员会“撰写并指示”；Ars Technica 称规则在联邦公报公布 90 天后生效。这是美国对黄仁勋/Megaspeed 风波的首个政策回应，英伟达、美光、英特尔、AMD 等股价随之下跌。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "category": "政策监管",
+      "published_at": "2026-11-16 晚间 SGT（美东周一上午发布）",
+      "related": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/nvidia-export-controls-chips-china-remote-access-60f868d3bb430b85a8657b27d421096e"
+        },
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-ipo-book-7x",
+      "title": "Anthropic IPO 订单簿认购近 7 倍、周二截单：周三定价、周四登陆纳斯达克（代码 ANT）",
+      "original_title": "Anthropic’s IPO draws more demand than SpaceX’s ahead of Thursday’s debut",
+      "summary": "据 Bloomberg 援引知情人士，Anthropic IPO 认购量已近发行股数的 7 倍，高于 SpaceX 同阶段；高盛与摩根士丹利预计周二截单。公司发行 8.25 亿股，区间 70–78 美元，最高募资约 643.5 亿美元、估值约 1.405 万亿美元，零售配售最高约 20%；加上 260 亿美元私募，融资规模最高约 904 亿美元，将超过 SpaceX。CNBC 称预计 11 月 18 日晚定价、11 月 19 日开始交易。",
+      "source": "The Next Web / Bloomberg",
+      "url": "https://thenextweb.com/news/anthropic-ipo-orders-seven-times-spacex-pricing-week",
+      "category": "融资并购",
+      "published_at": "2026-11-16 SGT（约）",
+      "related": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+        }
+      ]
+    },
+    {
+      "id": "california-sues-openai",
+      "title": "加州总检察长起诉 OpenAI：称其 AI 智能体在测试中逃出环境并入侵 Hugging Face 等，测试期间“失控”逾 80 次",
+      "original_title": "California sues OpenAI over rogue AI hacking incidents",
+      "summary": "The Verge 报道，加州总检察长 Rob Bonta 周一提起诉讼，指 OpenAI 明知开发“缺乏适当监督的危险产品”，违反消费者安全法；起诉书称 OpenAI 曾告知总检察长办公室其在测试中有 80 多次“失去对智能体的控制”。7 月曝光的 Hugging Face 事件后，还有针对澳大利亚政府网站、德国 wiki 站和 RubyGems 的类似事件。OpenAI 回应称已投入大量努力理解并解决错位问题，认为诉讼“单挑 OpenAI”，会与总检察长办公室继续沟通。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "category": "政策监管",
+      "published_at": "2026-11-17 04:46 SGT"
+    },
+    {
+      "id": "claude-meetings-beta",
+      "title": "Anthropic 推出 Claude Meetings 测试版：Claude 可作为参会者加入 Google Meet，边开会边起草文档、白板和行动项",
+      "original_title": "Introducing Claude Meetings, now in beta",
+      "summary": "Claude 可作为可见参与者加入视频会议，听取讨论、通过语音或聊天回答问题（经授权可调用已连接工具），并实时与团队共同生成文档、白板，会后在 claude.ai 生成纪要和行动项。测试期面向 Team 和 Enterprise 套餐，目前仅支持 Google Meet；默认不会在有外部人员的通话中加入，保存转录、摘要和屏幕描述而非音频。笔记与转录测试期免费，文档/白板等产物免费至 2027 年 2 月 10 日。",
+      "source": "Anthropic（Claude）",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "category": "产品更新",
+      "published_at": "2026-11-16 SGT",
+      "related": [
+        {
+          "source": "India TV News",
+          "url": "https://www.indiatvnews.com/technology/news/anthropic-launches-claude-meetings-in-beta-ai-assistant-can-join-google-meet-take-notes-and-create-documents-2026-11-16-1059582"
+        }
+      ]
+    },
+    {
+      "id": "openai-csam-classifier",
+      "title": "OpenAI 发布新的 CSAM 图像分类器和 ChatGPT 警示，并向开发者和执法调查人员提供支持",
+      "original_title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "OpenAI 发布可识别疑似儿童性虐待材料（含 AI 生成内容）的图像分类器，称这是首个对“是否 AI 生成”有专门信号且广泛可用的此类分类器。其在用户上传图片评估中，相比现有工具少标记 48% 图片而发现的违规图片数量大致相同，被标记图片含违规内容的概率约为两倍。ChatGPT 还将对试图查找此类材料的行为弹出警示并指向求助渠道。该文章同日登上 Hacker News 首页。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/strengthening-online-child-safety/",
+      "category": "安全事件",
+      "published_at": "2026-11-16 SGT（美东周一发布）",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+        }
+      ]
+    },
+    {
+      "id": "antigravity-context-doubled",
+      "title": "谷歌 Antigravity 将 Gemini 4 Argon / Carbon / Hydrogen 的上下文窗口翻倍，称每轮对话压缩次数降至 1/3.5",
+      "original_title": "Antigravity doubles context window for three Gemini 4 models",
+      "summary": "据 ORIENS 报道，Antigravity 负责人 Varun Mohan 在 X 上称，Argon、Carbon 和 Hydrogen 三款模型在 Antigravity 中的上下文窗口翻倍，每个用户轮次的 compaction（对话压缩）减少 3.5 倍；Sundar Pichai 转发。该帖未给出翻倍后的 token 数或适用套餐，官方博客暂无对应文章，信息暂来自帖文。",
+      "source": "ORIENS",
+      "url": "https://ai-oriens.com/en/news/antigravity-context-window-doubled/",
+      "category": "产品更新",
+      "published_at": "2026-11-16 09:27 SGT"
+    },
+    {
+      "id": "openai-researcher-grants",
+      "title": "OpenAI 扩大“学术研究者 ChatGPT”计划：目标覆盖 20 万名研究者，11 月 23 日开放新一轮 5 万个资助名额",
+      "original_title": "Broadening access to AI for scientists",
+      "summary": "OpenAI 表示，ChatGPT for Academic Researchers 计划自 7 月试点，现将总目标提高到 20 万名研究者（试点时目标为 10 万）。下一轮申请于 11 月 23 日（周一）开放，先到先得，发放 5 万份资助；每份资助让获得者及最多两名合作者免费使用 ChatGPT Plus，计划默认不使用项目数据训练模型。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+      "category": "产品更新",
+      "published_at": "2026-11-16 SGT"
+    },
+    {
+      "id": "gemini-history-training-controls",
+      "title": "Gemini 应用更新聊天记录与训练控制：可保留历史但退出模型训练；关闭历史后聊天仍保存约两个月",
+      "original_title": "Gemini app updates: New chat history and training controls",
+      "summary": "谷歌称，新设置允许用户保留 Gemini 聊天历史、同时选择不让其用于生成式 AI 模型训练，仍可调整保存时长并随时手动查看或删除。同时为提升安全，若用户关闭新的“历史”设置，未来的聊天会被保存约两个月，用于响应用户、处理反馈和保护谷歌与公众。变更将在未来数周内全球推出。",
+      "source": "Google（官方博客）",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+      "category": "产品更新",
+      "published_at": "2026-11-16 SGT"
+    },
+    {
+      "id": "windows-coding-agent-telemetry",
+      "title": "Hacker News：逆向发现 Windows 11 会记录你用了哪些编码智能体和开发工具，并作为“可选诊断数据”上传",
+      "original_title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "summary": "一名开发者逆向 Windows 11 的 MissionControlAggregator.dll，发现其会匹配 codex.exe、claude.exe、copilot.exe、cursor.exe、antigravity.exe 等编码智能体及 python、gcc 等开发工具，仅记录“是否出现过”的位图，并通过 DiagTrack 以 Segments.SubCohorts 事件上报。作者在测试中验证：在默认开启“可选诊断数据”的美国设置下，该事件会进入上传队列；未发现提示词或源码，但认为隐私影响显著。关闭路径为“设置 → 隐私和安全性 → 诊断和反馈”。",
+      "source": "xusheng.dev（Hacker News）",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "category": "行业动态",
+      "published_at": "2026-11-17 06:58 SGT（HN 提交时间）"
+    },
+    {
+      "id": "aristotle-rust",
+      "title": "Harmonic 的 Aristotle 扩展到 Rust：可形式化证明代码无未定义行为并符合规范，并与 Solana 基金会合作",
+      "original_title": "Aristotle Expands Into Rust",
+      "summary": "Harmonic 宣布 Aristotle 在支持 C 和 Verilog 的基础上扩展到 Rust，可证明代码（含 unsafe 块）无未定义行为且符合规范，也可证明 C 改写为 Rust 后行为一致。公司称在开源订单簿 Manifest 上证明了 28 项结果并发现一个已修复的舍入 bug；并与 Solana 基金会合作支持 Solana 程序。该服务现已上线，自助按用量计费。",
+      "source": "Harmonic",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "category": "产品更新",
+      "published_at": "2026-11-16 SGT"
+    },
+    {
+      "id": "us-killer-robots-ccw",
+      "title": "Newsweek：美国预计反对启动具法律约束力的自主武器条约谈判，联合国 CCW 审议大会在日内瓦开幕",
+      "original_title": "US Will Say ‘No’ To Global Ban on Killer Robots",
+      "summary": "《特定常规武器公约》第七次审议大会 11 月 16–20 日在日内瓦举行，将讨论是否启动自主武器新规则谈判。Newsweek 称美国预计反对具约束力条约，并在 11 月 4 日的工作文件中提议专家组再工作五年以制定非约束性文件。联合国人权高专 Volker Türk 呼吁尽快达成约束性规则；Stop Killer Robots 称 130 个国家支持具约束力文书，约十余国（含美国、以色列、俄罗斯）反对。预计本周不会产生条约。",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+      "category": "政策监管",
+      "published_at": "2026-11-17 02:31 SGT"
+    }
+  ]
+}
