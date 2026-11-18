@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-18",
+  "weekday": "周三",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-17 08:00 至 2026-11-18 08:00（新加坡时间）",
+  "updated_at": "2026-11-18 08:40 SGT",
+  "top_story_id": "gpt-6-2-astra-sol",
+  "items": [
+    {
+      "id": "gpt-6-2-astra-sol",
+      "title": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol：前沿模型降价 20%，主打专业工作与更高 token 效率",
+      "original_title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "OpenAI 推出面向高难任务的前沿模型 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol，称两者以更少输出 token 完成复杂任务；Astra 在 Agents’ Last Exam 上比 GPT-6 Astra 高 5.2 分、成本不到三分之一，并在 Terminal-Bench-Science 等科学基准创新高。API 定价 Astra 为每百万 token 输入 $8、缓存输入 $0.40、输出 $40（较 GPT-6 Astra 低 20%），Sol 维持 $2/$10；即日起向 ChatGPT Work 与 Codex 的 Plus、Pro、Enterprise、Edu 用户及 API 开放。该消息登上 Hacker News 榜首附近（1000+ 分），X 上开发者评价褒贬不一。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "category": "模型发布",
+      "published_at": "2026-11-18 01:45 SGT 前后",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50535230"
+        },
+        {
+          "source": "X @CodexReleases",
+          "url": "https://x.com/CodexReleases/status/2122748544289223100"
+        },
+        {
+          "source": "X 热议",
+          "url": "https://x.com/i/trending/2122749560661360835"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-q3-earnings-kress",
+      "title": "英伟达黄仁勋离任后首份财报超预期：季度营收 1158 亿美元，指引约 1300 亿；董事会主席称无意让黄仁勋回归",
+      "original_title": "Nvidia’s Kress tells CNBC that 'customers continue to be with us’ in exclusive interview: Live updates",
+      "summary": "英伟达第三财季营收 1158.4 亿美元（预期 1091 亿）、调整后 EPS 2.68 美元（预期 2.48），营收较去年同期的 570 亿美元翻倍有余；本季度指引约 1300 亿美元，并将下一财年增长预期从 70% 上调至 75%，盘后股价涨超 3%。临时 CEO Colette Kress 称“一切照常”，董事会主席 Harvey Jones 在电话会开场表示不打算让黄仁勋重返 CEO；公司仍不在展望中计入任何中国数据中心收入。FT 另报道英伟达已不再单独披露新加坡销售额。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "category": "行业动态",
+      "published_at": "2026-11-18 05:00 SGT 后（美东周二盘后发布）",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-ipo-above-range",
+      "title": "CNBC：Anthropic IPO 定价可能高于 70–78 美元区间，周二美东 16 点截止认购",
+      "original_title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+      "summary": "多名知情人士告诉 CNBC 的 David Faber，Anthropic 很可能将 IPO 定价在 70–78 美元区间之上，并计划于美东周二下午 4 点关闭订单簿。公司预计美东周三晚间定价，11 月 19 日以代码 ANT 在纳斯达克上市；按区间上限计算，此次发行 8.25 亿股将募资超 640 亿美元、估值约 1.405 万亿美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "category": "融资并购",
+      "published_at": "2026-11-17 22:13 SGT",
+      "related": [
+        {
+          "source": "CNBC IPO 指南",
+          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+        },
+        {
+          "source": "Investopedia",
+          "url": "https://www.investopedia.com/anthropic-prices-its-ipo-wednesday-here-s-what-investors-need-to-know-12258058"
+        }
+      ]
+    },
+    {
+      "id": "isomorphic-labs-5b",
+      "title": "DeepMind 分拆的 Isomorphic Labs 完成 50 亿美元 C 轮融资，推进 AI 设计药物进入临床",
+      "original_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "summary": "AI 药物发现公司 Isomorphic Labs 完成 50 亿美元 C 轮融资，由 Greenoaks 与红杉联合领投，a16z 新加入，GV、Thrive、MGX、淡马锡、英国主权 AI 基金等老股东跟投。公司称其肿瘤和免疫项目已取得“积极的临床前结果”，资金将用于推进药物设计引擎并迈向临床试验；这是 Demis Hassabis 卸任 DeepMind 负责人、专注药物研发后的首次融资，距 5 月的 21 亿美元 B 轮仅半年。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "category": "融资并购",
+      "published_at": "2026-11-17 22:50 SGT"
+    },
+    {
+      "id": "gemini-tasks-hydrogen",
+      "title": "谷歌 Gemini 上线“任务”模式：可代打电话、付账单、购物，基于新模型 Gemini 4 Hydrogen 免费推向多国",
+      "original_title": "Put Gemini to work for you",
+      "summary": "谷歌宣布 Gemini 可接手多步骤任务：同时致电商家预约、分析账单、比价并通过 Google Pay 下单（使用 Agent Payments Protocol，支持设置消费上限），还可通过转发邮件到 gemini@google.com 或 RCS 短信下达任务。该更新基于新的 Gemini 4 Hydrogen 模型，向美国、日本、韩国、加拿大、澳大利亚、印度的数亿用户免费推出；任务在每个账户专属的硬件隔离虚拟机中运行，关键步骤（如“购买”）前会征求确认。",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "category": "产品更新",
+      "published_at": "2026-11-18 SGT（美国 11 月 17 日发布）"
+    },
+    {
+      "id": "microsoft-ignite-mai-models",
+      "title": "微软 Ignite 2026：发布 MAI Code 2 等七款自研模型，Copilot 推出常驻代理 Autopilot",
+      "original_title": "MAI Code 2 and Code 2 Flash: Everyday coding at scalable prices",
+      "summary": "微软 AI 在 Ignite 上发布七款模型，其中编码模型 MAI Code 2 称在四项企业编码基准上达到 GPT-6.1 Sol 98% 的表现、成本约 40%，达到 Claude Opus 5.5 96% 的表现、成本仅 5%，已上线 GitHub Copilot；另有 MAI Cyber 2 Flash、MAI Image 2.7、MAI Realtime 1 等，第二代自研芯片 Maia 200 已投产。Copilot 同时推出拥有独立 Entra Agent ID、记忆和工具的常驻代理 Autopilot（向 Frontier 客户推出）及人机协作空间 Workspaces；Agent 365 已注册超 5000 万个代理。",
+      "source": "Microsoft AI",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "category": "模型发布",
+      "published_at": "2026-11-18 凌晨 SGT（Ignite 首日，美西 11 月 17 日）",
+      "related": [
+        {
+          "source": "Microsoft AI：七款新模型",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+        },
+        {
+          "source": "Microsoft Copilot Blog",
+          "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
+        },
+        {
+          "source": "Official Microsoft Blog",
+          "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+        }
+      ]
+    },
+    {
+      "id": "openai-nato-daybreak",
+      "title": "OpenAI 与北约合作：通过 Daybreak 向北约机构提供网络防御模型，月用量最高达 3000 亿 token",
+      "original_title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "OpenAI 宣布与北约通信与信息局（NCIA）合作，通过 Daybreak 计划向北约核心机构提供先进网络安全模型，用于代码审查、可疑活动调查、漏洞验证及修复测试；北约每月使用量最高达 3000 亿个输入输出 token。OpenAI 还支持了 2026 年“Crossed Swords”演习，并称欧盟 ENISA 借助其模型发现 4 个漏洞、波兰 CERT Polska 发现 6 个 MikroTik RouterOS 漏洞。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/",
+      "category": "政策监管",
+      "published_at": "2026-11-17 SGT",
+      "related": [
+        {
+          "source": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/defence-alliance-nato-partners-with-openai-on-cybersecurity"
+        },
+        {
+          "source": "Help Net Security",
+          "url": "https://www.helpnetsecurity.com/2026/11/17/openai-nato-ai-cyber-defense/"
+        }
+      ]
+    },
+    {
+      "id": "waymo-california-freeway-ban",
+      "title": "加州车管局以“迫在眉睫的公共安全危险”为由禁止 Waymo 无人车上高速，Waymo 暂停各地高速服务",
+      "original_title": "Waymo robotaxis banned from California freeways",
+      "summary": "加州 DMV 周二披露，已于 11 月 11 日禁止 Waymo 在州内高速公路运营，起因是一辆 Waymo 试图超越正在实施交通管制的高速巡警车辆，另有三辆误入旧金山湾区高速的施工封闭区。禁令将持续到 Waymo 解决问题为止；Waymo 称事件无人受伤，正配合监管，并已在其他运营城市暂停高速行驶。",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
+      "category": "政策监管",
+      "published_at": "2026-11-18 07:24 SGT",
+      "related": [
+        {
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b"
+        }
+      ]
+    },
+    {
+      "id": "genesis-ai-500m",
+      "title": "具身智能公司 Genesis AI 完成 5 亿美元 A 轮融资，用传感手套采集人类操作数据训练灵巧机器人",
+      "original_title": "Genesis AI raises $500M to deploy glove-wearing robots",
+      "summary": "Genesis AI 宣布由 Khosla Ventures、Premji Invest 和 Eclipse 领投的 5 亿美元 A 轮融资。公司让全球 100 多名工人佩戴带传感器的手套和头戴摄像头采集力觉数据，训练自研物理 AI 模型并自造人形机器人；已制造 30–40 台 Eno 机器人、与少数客户试点，并选定美国代工厂明年开始量产。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "category": "融资并购",
+      "published_at": "2026-11-17 22:00 SGT"
+    },
+    {
+      "id": "model-ml-250m",
+      "title": "投行 AI 代理公司 Model ML 完成 2.5 亿美元 B 轮融资，估值 15 亿美元",
+      "original_title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "伦敦初创公司 Model ML 用 AI 代理自动完成初级投行和咨询人员的工作，如搭建财务模型、制作路演材料和撰写尽调报告；本轮由 General Atlantic 与 QED Investors 联合领投，估值 15 亿美元。公司称基于开源模型运行，成本约为前沿模型的 2%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "category": "融资并购",
+      "published_at": "2026-11-18 03:32 SGT"
+    },
+    {
+      "id": "meta-muse-australia",
+      "title": "Meta 个人 AI 代理 Muse 登陆澳大利亚，接入 Canva、realestate.com.au 等本地服务",
+      "original_title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "summary": "Meta 宣布个人 AI 代理 Muse 在澳大利亚上线，可连接 Gmail、Google 日历、Instagram、OpenTable 等处理邮件、日程和订位，本地合作方包括 Canva、Domain、Kogan、MECCA、Officeworks、realestate.com.au、Ticketek 等（逐步开放）。Muse 运行在专用云端虚拟机 Muse Secure VM 中，发邮件、购物等敏感操作前需用户确认；支持 iOS、Android、网页和 Mac，基础功能免费。",
+      "source": "Meta",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "category": "产品更新",
+      "published_at": "2026-11-17 SGT",
+      "related": [
+        {
+          "source": "SmartCompany",
+          "url": "https://www.smartcompany.com.au/artificial-intelligence/your-new-muse-meta-launches-ai-personal-assistant-in-australia/"
+        }
+      ]
+    },
+    {
+      "id": "openai-healthcare-computer-use",
+      "title": "OpenAI 推进医疗场景“电脑操作”代理：与 CVS、Cigna、Abridge 等合作处理预授权、转诊等流程",
+      "original_title": "Advancing computer-use agents for healthcare teams",
+      "summary": "OpenAI 公布医疗场景电脑操作代理的评测：GPT-6 Astra 在 EHR 收件箱任务中 99% 的 325 项任务被评为安全；在斯坦福 HealthAdminBench 上 Astra 得 94.3%，GPT-6 Luna 得 91.8% 且成本低 98%（每任务 8.5 美分）。CVS Health 已在生产中用其清理文件积压并开源 Agent Kit；相关能力已在 OpenAI API、ChatGPT for Healthcare 和 ChatGPT for Clinicians 中提供。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "category": "产品更新",
+      "published_at": "2026-11-17 SGT（官网标注 11 月 16 日，美国时间）"
+    },
+    {
+      "id": "alljoined-air-o",
+      "title": "X 热议：Alljoined 发布 AIR-O，仅凭无创 EEG 脑电实时生成“你正在注视什么”的图像",
+      "original_title": "Introducing AIR-O, a model that decodes what a person is attending to directly from brain scans.",
+      "summary": "脑机接口初创公司 Alljoined 发布 AIR-O 模型，称仅用无创脑数据即可实时从零生成图像，呈现一个人注意力聚焦的对象，并称这是能直接从脑活动“读取思维形状”的新一代算法的首个成果。官方帖子获逾 10 万次浏览、1300+ 点赞，研究者 @iScienceLuvr 转发称这是用 EEG 实现的实时解码演示。",
+      "source": "X @alljoined",
+      "url": "https://x.com/alljoined/status/2122736523007447048",
+      "category": "X 热议",
+      "published_at": "2026-11-18 01:00 SGT",
+      "related": [
+        {
+          "source": "X 热议",
+          "url": "https://x.com/i/trending/2122770228442784016"
+        },
+        {
+          "source": "Digg",
+          "url": "https://digg.com/ai/hcjzpius"
+        }
+      ]
+    }
+  ]
+}
