@@ -8,7 +8,7 @@
   "items": [
     {
       "id": "riemann-alpoge-claude",
-      "title": "Anthropic 数学家阿尔珀格宣布借助 Claude 证明黎曼猜想（含广义黎曼猜想），Lean 形式化证明已获独立编译验证",
+      "title": "Anthropic 数学家阿尔珀格称借助 Claude 证明了黎曼猜想（含广义黎曼猜想），Lean 代码经独立确认可编译，证明仍待数学界检验",
       "original_title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "summary": "Anthropic 数学家 Levent Alpöge 在个人网站发文，称与 Claude 合作发现了黎曼猜想的证明，并可推广到广义黎曼猜想，证明以 Lean 形式化发布；MIT 数学家 Andrew Sutherland 等人已确认其可成功编译，但人类可读的证明思路仍待梳理，距克雷研究所千禧年大奖认定还需至少两年检验。同日，斯坦福博士后 Alessandro Masullo 也公布了一份“完全由人类完成、没有 AI”的广义黎曼猜想证明草稿。",
       "source": "The Verge",
