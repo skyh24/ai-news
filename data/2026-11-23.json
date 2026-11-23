@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-23",
+  "weekday": "周一",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-22 08:00 至 2026-11-23 08:00（新加坡时间）",
+  "updated_at": "2026-11-23 09:00 SGT",
+  "top_story_id": "openai-perplexity-limits",
+  "items": [
+    {
+      "id": "openai-perplexity-limits",
+      "title": "OpenAI 首席科学家 Pachocki 公开内部预训练困惑度数据，提议以困惑度为基准设定全行业“共同开发上限”",
+      "original_title": "Perplexity and Intelligence",
+      "summary": "Jakub Pachocki 在 OpenAI 官网发文，首次公布内部预训练进展：在其内部代码数据集上，GPT‑3.5 的对数困惑度约 0.99、GPT‑4 约 0.91，如今已低于 0.8，并称模型达到约 0.76 后开始在数学开放问题上产出突破性结果。他提议各前沿实验室以困惑度等指标为共同基准，承诺在理解和监控 AI 行为的能力达到具体里程碑前不越过某一上限；但文章未给出具体数值，也未表示有其他实验室同意。Altman 称这是 OpenAI 近来发布的最重要内容，LessWrong 等处则质疑困惑度难以跨实验室比较、且不约束后训练。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "category": "政策监管",
+      "published_at": "2026-11-22（美国时间）",
+      "related": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
+          "source": "LessWrong 讨论",
+          "url": "https://www.lesswrong.com/posts/TtiTdER4jvQDzuwj3/openai-proposes-common-limits-for-training-but"
+        },
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50601525"
+        }
+      ]
+    },
+    {
+      "id": "openrouter-offboards-providers",
+      "title": "提示词泄露事件后续：OpenRouter 下架 3 家推理服务商、撤销 125 个端点的零数据保留资格；Together AI 披露 AI 编程助手误提交凭证致提示词样本被下载",
+      "original_title": "Data Processing Incidents on Inference Providers",
+      "summary": "OpenRouter 发文称，安全研究者发现部分推理服务商数据被泄露或未遵守数据政策（OpenRouter 自身未遭入侵），已据调查下架 3 家服务商、将 125 个端点移出 ZDR 资格（部分为预防性措施）并通知可能受影响客户，后续将常态化运行类似测试。Together AI 则披露：其 AI 编程助手在公开 GitHub 仓库中误提交了一个私有 Hugging Face 仓库的凭证，未授权方借此下载了 6–7 月 MiniMax M3、GLM-5.2、Kimi K2.6 请求的提示词样本，并试用了其中的凭证，其中 5 个是 Dragos 实验的“金丝雀”凭证；Together 已把 ZDR 设为新账户默认。",
+      "source": "OpenRouter 博客",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "category": "行业动态",
+      "published_at": "2026-11-22 10:14 SGT 前（美国时间 11 月 21 日晚）",
+      "related": [
+        {
+          "source": "Together AI 安全公告",
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+        },
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50595554"
+        }
+      ]
+    },
+    {
+      "id": "asia-markets-ai-wipeout",
+      "title": "路透：AI 股暴跌一周后，美股期货周一早盘反弹约 2%，亚洲市场严阵以待，台湾、中国大陆、韩国相继推出稳市措施",
+      "original_title": "US futures bounce while Asia markets brace for AI wipeout",
+      "summary": "上周纳斯达克下跌 10%，为 2020 年 3 月以来最大单周跌幅，台股一周跌 17%、创 1990 年以来最大周跌幅；路透称黄仁勋离任及 Anthropic 股价上周五收跌 8.5% 加剧了市场悲观情绪。周一早盘纳指 100 期货反弹约 2%，但恒指期货仍预示走低；台湾金管会周六进一步收紧卖空规则，中国交易所放宽融资融券要求，韩国财政部称必要时将立即动用稳市基金。",
+      "source": "路透（Investing.com 转载）",
+      "url": "https://www.investing.com/news/economy-news/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout-5044181",
+      "category": "行业动态",
+      "published_at": "2026-11-23 07:46 SGT"
+    },
+    {
+      "id": "anthropic-ipo-bankers",
+      "title": "路透独家：Anthropic IPO 流程“异常”令投行不满——要求核心银行家半年内不得服务 OpenAI、Cursor、DeepSeek 等对手",
+      "original_title": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "summary": "据多位知情人士，Anthropic 内部代号“Project Lantern”的 IPO 时间表紧凑、临时改动多，曾要求部分承销商将参与人数限制为 4 名资深银行家，并要求部分银行高管签署文件，限制核心交易团队在上市后六个月内为 OpenAI、Cursor、DeepSeek、Hugging Face 等对手服务；文件通过带水印、记录访问的 NetRoadshow 平台分发以防泄密。承销商仍拿到逾 5 亿美元费用，Anthropic 及主承销商高盛、摩根士丹利拒绝置评。",
+      "source": "路透（Investing.com 转载）",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivelike-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-5043898",
+      "category": "融资并购",
+      "published_at": "2026-11-22 19:02 SGT"
+    },
+    {
+      "id": "nga-ai-principles",
+      "title": "美国全国州长协会发布两党 AI 治理原则：呼吁联邦针对前沿模型立规，同时保留州层面保护消费者和劳动者的权力",
+      "original_title": "Governors Call for AI Action",
+      "summary": "由马里兰州州长 Wes Moore、印第安纳州州长 Mike Braun 等牵头的 NGA 两党委员会发布原则，主张联邦政府应对国家和国际层面的 AI 风险，州政府保留保护民众、规范 AI 部署的灵活性；据彭博报道，方案还呼吁对先进模型进行独立安全评审，并要求开发者报告重大安全事件，以供新一届国会制定联邦 AI 框架参考。",
+      "source": "美国全国州长协会（NGA）",
+      "url": "https://www.nga.org/news/press-releases/governors-call-for-ai-action/",
+      "category": "政策监管",
+      "published_at": "2026-11-22（美国时间）",
+      "related": [
+        {
+          "source": "彭博（Bloomberg Law）",
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/governors-call-for-federal-ai-rules-without-sidelining-states"
+        },
+        {
+          "source": "NGA 原则全文（PDF）",
+          "url": "https://www.nga.org/wp-content/uploads/2026/11/NGA_AI_Princples_Nov2026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "korea-minister-ai-cheating",
+      "title": "韩国教育部长崔教振因 AI 作弊风波引咎辞职，高考期间查出 111 起电子设备违规",
+      "original_title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+      "summary": "此前一名税务师考试状元承认用微型摄像头拍题、发给 AI 并通过手机读取答案作弊，引发韩国对高考（修能）AI 作弊的恐慌，政府在考前紧急加倍监考、屏蔽考场周边公共 Wi‑Fi 并向全国手机发送紧急警报。考试结束后，崔教振以“未能提前充分准备”为由请辞，总统李在明已批准；官方称考试当天查出 111 起涉电子设备违规。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "category": "政策监管",
+      "published_at": "2026-11-22 13:04 SGT",
+      "related": [
+        {
+          "source": "韩联社",
+          "url": "https://en.yna.co.kr/view/AEN20261122001051315"
+        }
+      ]
+    },
+    {
+      "id": "tencent-hy4-safety",
+      "title": "腾讯公布混元 Hy4 开源权重模型的第三方安全评估：网络攻击能力“有限”，欺骗与失控风险低",
+      "original_title": "Tencent touts latest AI model Hy4's performance on independent safety assessments",
+      "summary": "据《南华早报》，腾讯上周五发布 82 页安全报告，披露与中国初创公司 Fangcun AI 及以色列裔美国公司 Alice 合作，在发布前对 Hy4 开源权重版本进行独立评估，评估方认为其黑客能力有限、欺骗或失控风险低。报道称这是中国头部科技公司首次披露在新模型发布前引入独立第三方做此类评估。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+      "category": "模型发布",
+      "published_at": "2026-11-22 21:30 SGT",
+      "related": [
+        {
+          "source": "Hy4 System Card（PDF）",
+          "url": "https://cdn-front.hy.tencent.ai/common-files/Hy4_system_card.pdf"
+        }
+      ]
+    },
+    {
+      "id": "masullo-lean-errata",
+      "title": "黎曼猜想另一份人类证明的 Lean 形式化进展引热议：Masullo 940 页手稿已全部陈述入 Lean，勘误表列出约 245 处“按原文为假”的命题",
+      "original_title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "summary": "社区项目 riemann-masullo 用人与编程智能体协作的方式形式化 Alessandro Masullo 声称证明广义黎曼猜想的未审稿草稿：截至 11 月 22 日约 6800 条定理已陈述、约 6100 条已证明，第 5–7 章等关键部分的证明仍待完成。其勘误表约 660 条（多数由 AI 智能体首报、尚无专家复核），其中约 245 条命题按原文为假，22 个步骤暂无已知修补；项目强调不预设主定理对错，HN 评论也提醒进度条不代表证明大体正确。",
+      "source": "GitHub（mccorvie/riemann-masullo）",
+      "url": "https://github.com/mccorvie/riemann-masullo",
+      "category": "X 热议",
+      "published_at": "2026-11-23 07:12 SGT（Hacker News 热议）",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50605045"
+        },
+        {
+          "source": "ERRATA.md",
+          "url": "https://github.com/mccorvie/riemann-masullo/blob/main/ERRATA.md"
+        }
+      ]
+    },
+    {
+      "id": "clayton-outages",
+      "title": "美国国家情报总监克莱顿：为适应 AI 时代升级系统，民众应为更多技术中断“颠簸”做好准备",
+      "original_title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "summary": "在 FAA 全国停飞、微软 Outlook 和摩根大通等接连出现故障后，Jay Clayton 在 CNN 节目中表示，政府和企业为适应 AI 时代大规模升级系统和网络安全，可能带来暂时中断；官方普遍认为这些故障并非协同或 AI 网络攻击。财长贝森特也称银行为防范 AI 打的“补丁”可能引发小故障，并将其比作打疫苗。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "category": "政策监管",
+      "published_at": "2026-11-23 00:17 SGT"
+    },
+    {
+      "id": "chip-rule-sea-fallout",
+      "title": "彭博：美国新芯片出口规则冲击东南亚，印尼等国数据中心运营商连夜评估影响",
+      "original_title": "Trump's AI Chip Crackdown Inflicts Collateral Damage Across Asia",
+      "summary": "美国商务部 11 月 19 日在联邦公报发布临时最终规则，收紧先进芯片出口及远程访问先进算力的管控；据彭博报道，新规对包括印尼在内的四个东南亚国家的先进芯片出货设限。报道称，一家印尼大型数据中心运营商的 CEO 在规则公布后连夜评估影响，并飞往新加坡与英伟达团队会面，显示规则对东南亚 AI 基建的连带冲击。",
+      "source": "彭博（Bloomberg Law）",
+      "url": "https://news.bloomberglaw.com/artificial-intelligence/trumps-ai-chip-crackdown-inflicts-collateral-damage-across-asia",
+      "category": "政策监管",
+      "published_at": "2026-11-23 06:00 SGT",
+      "related": [
+        {
+          "source": "美国联邦公报（规则原文）",
+          "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-gas-power",
+      "title": "非营利机构估算 Anthropic 2028 年用电约 87% 来自天然气、11% 来自煤，Hacker News 热议",
+      "original_title": "How AI is powered: a breakdown of BYOP and grid power",
+      "summary": "Better Data Center Project 按 Anthropic 已签约落地的 5.9–9.6 GW 美国数据中心容量，结合现场燃气发电与预计承接新增负荷的电网边际机组估算，2028 年其电力约 87% 来自天然气、11% 来自煤，中值情景下年排放约 3200 万吨二氧化碳当量；报告称 Anthropic 在美国尚无公开的可再生能源采购承诺。这是该机构的模型估算，并非 Anthropic 披露数据。",
+      "source": "Better Data Center Project",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "category": "X 热议",
+      "published_at": "2026-11-16（美国时间），11 月 22 日 16:57 SGT 起在 Hacker News 热议",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50597612"
+        }
+      ]
+    },
+    {
+      "id": "amodei-video-games",
+      "title": "The Verge：据《华尔街日报》，达里奥·阿莫代伊曾在内部讨论中提出沉浸式电子游戏或可缓解 AI 失业引发的政治动荡",
+      "original_title": "Dario Amodei reportedly suggested video games could pacify the masses after AI took their jobs.",
+      "summary": "《华尔街日报》在 Anthropic 上市后发布的阿莫代伊兄妹特写中提到，据广泛流传的 Slack 消息，Dario Amodei 曾与同事辩论，认为沉浸式电子游戏可能是应对 AI 导致失业所引发政治纷争的一种办法；The Verge 转述后引发热议。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "category": "X 热议",
+      "published_at": "2026-11-22 23:52 SGT"
+    }
+  ]
+}
