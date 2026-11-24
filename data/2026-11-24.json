@@ -10,14 +10,20 @@
       "id": "nvidia-huang-reinstated",
       "title": "英伟达董事会一致投票恢复黄仁勋 CEO 职务，股价当日收涨 31%",
       "original_title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-      "summary": "英伟达周一宣布黄仁勋即日起复任 CEO，董事会称一致投票通过，并表示“听取了美国政府高层的意见”，确信其复职“不构成国家安全风险”。特朗普对 CNBC 称曾“直接和间接”与董事会沟通，并称黄仁勋“没有做错任何事”；英伟达股价当日收涨 31%。黄仁勋此前于 11 月 12 日因婚外情丑闻（其中一名女性据报是涉嫌中国间谍）辞职。",
+      "summary": "英伟达周一宣布黄仁勋即日起复任 CEO，董事会称一致投票通过、“听取了美国政府高层的意见”并确信其复职“不构成国家安全风险”，特朗普对 CNBC 称曾“直接和间接”与董事会沟通、黄仁勋“没有做错任何事”。英伟达股价当日收涨 31%；黄仁勋此前于 11 月 12 日因婚外情丑闻（其中一名女性据报是涉嫌中国间谍）辞职。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "category": "X 热议",
       "published_at": "2026-11-23 21:59 SGT",
       "related": [
-        {"source": "TechCrunch（据 Semafor：特朗普致电董事会会议）", "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"},
-        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50611576"}
+        {
+          "source": "TechCrunch（据 Semafor：特朗普致电董事会会议）",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        },
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50611576"
+        }
       ]
     },
     {
@@ -37,20 +43,23 @@
       "summary": "英伟达周一涨 31.48%，创 2003 年 5 月以来最佳单日表现；纳斯达克综合指数涨 6.51%，为 2025 年 4 月 9 日以来最大单日涨幅，半导体 ETF 涨 13.63%，CoreWeave、Nebius 等新云厂商涨逾 20%。Anthropic 上市第三个交易日则下跌 1.43%。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "category": "融资并购",
+      "category": "行业动态",
       "published_at": "2026-11-24 05:22 SGT（更新时间）"
     },
     {
       "id": "megaspeed-entity-list",
-      "title": "Semafor：黄仁勋丑闻核心公司、新加坡云服务商 Megaspeed 将被列入美国商务部实体清单",
+      "title": "据 Semafor 报道，黄仁勋丑闻核心公司、新加坡云服务商 Megaspeed 或将被列入美国商务部实体清单",
       "original_title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "据 Semafor 援引知情人士报道，Alice Huang 曾执掌两年多的 Megaspeed 将被加入美国商务部实体清单，美国企业须获特别许可才能向其出售产品，目的是阻止其获取美国芯片。美国和新加坡当局正调查该公司是否违反出口管制向中国走私英伟达芯片，Megaspeed 否认有不当行为；商务部尚未回应置评。",
+      "summary": "据 Semafor 援引知情人士报道，Alice Huang 曾执掌两年多的 Megaspeed 或将被加入美国商务部实体清单；若成行，美国企业须获特别许可才能向其出售产品，据报此举旨在阻止其获取美国芯片。美国和新加坡当局正调查该公司是否违反出口管制向中国走私英伟达芯片，Megaspeed 否认有不当行为；商务部尚未回应置评，消息未获官方确认。",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
       "category": "政策监管",
       "published_at": "2026-11-24 05:25 SGT",
       "related": [
-        {"source": "CNBC", "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html"}
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html"
+        }
       ]
     },
     {
@@ -63,7 +72,10 @@
       "category": "融资并购",
       "published_at": "2026-11-23 22:38 SGT",
       "related": [
-        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"}
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+        }
       ]
     },
     {
@@ -76,7 +88,10 @@
       "category": "融资并购",
       "published_at": "2026-11-24 01:14 SGT",
       "related": [
-        {"source": "CNBC", "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"}
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+        }
       ]
     },
     {
@@ -89,7 +104,10 @@
       "category": "产品更新",
       "published_at": "2026-11-24 06:05 SGT",
       "related": [
-        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"}
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
       ]
     },
     {
@@ -102,7 +120,10 @@
       "category": "研究突破",
       "published_at": "2026-11-24 06:09 SGT 登上 Hacker News",
       "related": [
-        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50620102"}
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50620102"
+        }
       ]
     },
     {
@@ -115,7 +136,10 @@
       "category": "模型发布",
       "published_at": "2026-11-23（官方博客日期），18:06 SGT 起在 Hacker News 热议",
       "related": [
-        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50609685"}
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50609685"
+        }
       ]
     },
     {
@@ -138,7 +162,10 @@
       "category": "政策监管",
       "published_at": "2026-11-23 20:40 SGT",
       "related": [
-        {"source": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"}
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        }
       ]
     },
     {
@@ -161,7 +188,10 @@
       "category": "产品更新",
       "published_at": "2026-11-24 01:00 SGT",
       "related": [
-        {"source": "TechCrunch", "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"}
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+        }
       ]
     },
     {
@@ -184,7 +214,10 @@
       "category": "X 热议",
       "published_at": "2026-11-23 01:06 SGT 发帖，11 月 24 日 01:07 SGT 起在 Hacker News 热议",
       "related": [
-        {"source": "Hacker News 讨论", "url": "https://news.ycombinator.com/item?id=50615308"}
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50615308"
+        }
       ]
     }
   ]
