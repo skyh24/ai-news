@@ -85,3 +85,4 @@ Pages 目前尚未启用，而且本仓库的自动化令牌没有 `administrati
 1. 打开 <https://github.com/skyh24/ai-news/settings/pages>
 2. 在 **Build and deployment** 下，把 **Source** 选为 **GitHub Actions**
 3. 如果合并触发的工作流因为 Pages 尚未启用而失败，到 Actions 里重新运行 **Deploy static content to Pages**
+
