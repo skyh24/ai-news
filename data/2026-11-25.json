@@ -8,7 +8,7 @@
   "items": [
     {
       "id": "gpt6-protein-design",
-      "title": "OpenAI 称 GPT-6 模型具备“内在”蛋白质设计能力：仅靠推理与通用代码即可设计蛋白，实验室验证有结合证据",
+      "title": "OpenAI 称 GPT-6 模型具备“内在”蛋白质设计能力：设计环节仅靠推理与通用代码，候选筛选仍依赖专用模型",
       "original_title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "summary": "OpenAI 发布预印本《GPT-6 as a Universal Foundation Model for Protein Biology》，称其 GPT-6 系列无需调用专用生物模型，仅凭推理和通用编程工具即可设计全新蛋白结构与序列。与研究伙伴 Onava 的实验室测试中，针对 5 个靶点测试 322 个 minibinder，有 35 个（10.9%）显示结合；重设计的抗体片段中 272 个里 179 个（66%）保留对 PD-1/PD-L1 的结合。OpenAI 也承认筛选候选时仍依赖 Boltz-2、ESMFold2 等专用模型，尚未证明可端到端零样本从头设计。",
       "source": "OpenAI",
@@ -20,7 +20,7 @@
       "id": "megaspeed-blacklist-confirmed",
       "title": "美国正式将新加坡云厂商 Megaspeed 等 7 家东南亚公司列入贸易黑名单，黄仁勋丑闻核心公司落地制裁",
       "original_title": "U.S. adds Megaspeed to trade blacklist over export control concerns",
-      "summary": "美国商务部在《联邦公报》备案，以存在向未授权用户转移先进计算产品的“重大风险”为由，将新加坡 Megaspeed 及泰国、马来西亚关联实体等 7 家东南亚公司列入实体清单，许可申请按“推定拒绝”审查。Megaspeed 前 CEO Alice Huang 正因涉嫌向中国走私英伟达芯片受美方调查，她与黄仁勋被曝有婚外情。商务部同时将阿里巴巴在新加坡的子公司 Apex 列入黑名单，阿里否认并称将维权。此前一天此事还仅为 Semafor 的传闻报道，现已正式落地。",
+      "summary": "美国商务部在《联邦公报》备案，以存在向未授权用户转移先进计算产品的“重大风险”为由，将新加坡 Megaspeed 及泰国、马来西亚关联实体等 7 家东南亚公司列入实体清单，许可申请按“推定拒绝”审查。据 CNBC 同一报道，Megaspeed 前 CEO Alice Huang 正因涉嫌向中国走私英伟达芯片受美方调查，黄仁勋被曝与她有婚外情。商务部同时将阿里巴巴在新加坡的子公司 Apex 列入黑名单，阿里否认并称将维权。此前一天此事还仅为 Semafor 的传闻报道，现已正式落地。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
       "category": "政策监管",
@@ -30,7 +30,7 @@
       "id": "huang-allhands-apology",
       "title": "黄仁勋复职后首次全员会：道歉、称在接受治疗，并否认特朗普帮他复职",
       "original_title": "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
-      "summary": "黄仁勋周二主持复职后首场员工大会，语气悔过，称“我伤害了你们所有人”、这是他“一生中第二难的会议”（最难的是与妻子），并透露自己每天在接受心理治疗。他承认违反了自己制定的行为准则，但淡化特朗普的作用，据 The Handbasket 的 Marisa Kabas 报道他称政治参与一说“完全不实”、英伟达是“最不涉政的公司”——这与特朗普本人“我促成了这件事”的公开说法相矛盾。他还重申不相信接班人计划。另据《纽约邮报》，特朗普称赦免黄仁勋“是一种选项”，但认为没有必要。",
+      "summary": "黄仁勋周二主持复职后首场员工大会，语气悔过，称“我伤害了你们所有人”、这是他“一生中第二难的会议”（最难的是与妻子），并透露自己每天在接受心理治疗。他承认违反了自己制定的行为准则，但淡化特朗普的作用，据 The Handbasket 的 Marisa Kabas 报道他称政治参与一说“完全不实”、英伟达是“最不涉政的公司”——这与特朗普本人“我促成了这件事”的公开说法相矛盾。他还重申不相信接班人计划。另据 TechCrunch（援引《纽约邮报》专访），特朗普称赦免黄仁勋“是一种选项”，但认为没有必要。",
       "source": "The Verge / CNBC",
       "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "category": "X 热议",
@@ -41,7 +41,7 @@
           "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
         },
         {
-          "source": "TechCrunch（特朗普称赦免黄仁勋“是一种选项”）",
+          "source": "TechCrunch（援引《纽约邮报》：特朗普称赦免黄仁勋“是一种选项”）",
           "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
         }
       ]
