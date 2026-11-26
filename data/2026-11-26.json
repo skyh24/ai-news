@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-26",
+  "weekday": "周四",
+  "timezone": "Asia/Singapore (UTC+8)",
+  "window": "2026-11-25 08:00 至 2026-11-26 08:00（新加坡时间）",
+  "updated_at": "2026-11-26 08:22 SGT",
+  "top_story_id": "openai-matmul-nine-fourths",
+  "items": [
+    {
+      "id": "openai-matmul-nine-fourths",
+      "title": "OpenAI 一夜上传 9 篇数学论文：称矩阵乘法指数恰为 9/4，并给出强多项式时间线性规划算法、推翻多项式 Hirsch 猜想",
+      "original_title": "The matrix multiplication exponent is nine fourths",
+      "summary": "OpenAI 在 GitHub 仓库 openai/math 新增 11 月 24 日版的 9 篇论文及 Lean 形式化，均由一个未命名的内部模型产出。头条论文称在任意域上方阵乘法指数 ω 恰为 9/4：9/4 上界此前已知，新论文证明匹配下界——任意 n≥2 时，n×n 矩阵乘法的形式算术电路至少需要 ⌈n^{9/4}/2⌉ 个乘法或除法门，Lean 已形式化无除法电路情形。同批还有：声称回答斯梅尔第 9 问题的强多项式时间线性规划算法、构造反例推翻多项式 Hirsch 猜想、证明固定花瓣数的向日葵猜想等。这些是未经同行评审的预印本，仓库自己也说明“部分未形式化的结果可能有问题”。",
+      "source": "OpenAI（GitHub openai/math）",
+      "url": "https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026",
+      "category": "研究突破",
+      "published_at": "2026-11-25 08:18 SGT（GitHub 合并时间）",
+      "related": [
+        {
+          "source": "OpenAI（强多项式时间线性规划）",
+          "url": "https://github.com/openai/math/tree/main/preprints/Strongly-polynomial-linear-programming-November-24-2026"
+        },
+        {
+          "source": "OpenAI（多项式 Hirsch 猜想反例，Hacker News 热帖）",
+          "url": "https://github.com/openai/math/tree/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026"
+        },
+        {
+          "source": "X：Mohammad Mahdian（“OpenAI is on a roll… All in one day!”）",
+          "url": "https://x.com/mmahdian/status/2125425476558610687"
+        }
+      ]
+    },
+    {
+      "id": "google-cogentic-factoring",
+      "title": "谷歌研究院发布 6 篇由 Cogentic 智能体（基于 Gemini 4）完成的论文：含无条件 L_N[1/3] 整数分解与有限域离散对数新算法",
+      "original_title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "summary": "Google Research 在 google-research 仓库的 cogentic_research_papers 目录一次性新增 6 篇论文，均由智能体数学发现框架 Cogentic 产出，基础模型为 Gemini 4。其中《Unconditional Integer Factorization in Time L_N[1/3, O(1)]》给出一个不依赖任何未证明数论假设的零错误 Las Vegas 整数分解算法，作者称完整的 Lean 4 形式化已完成、将另行发布；另有固定特征有限域上的亚拟多项式时间离散对数、对数秩猜想突破平方根壁垒等。该帖在 Hacker News 获 400 多分；论文同样尚未经同行评审。",
+      "source": "Google Research（GitHub）",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "category": "研究突破",
+      "published_at": "2026-11-25 18:21 SGT（GitHub 提交时间）",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50642086"
+        }
+      ]
+    },
+    {
+      "id": "aaronson-holy-shit",
+      "title": "Scott Aaronson 发文《Holy shit ×4》：“第一次从骨子里觉得 P≠NP 的证明不远了”，登上 Hacker News 热榜",
+      "original_title": "Holy shit holy shit holy shit holy shit: The magnitude of what's now happening",
+      "summary": "理论计算机科学家 Scott Aaronson 写道，他和朋友还在消化 OpenAI 与 Anthropic 的 VP≠VNP 证明，又看到 OpenAI 声称证明矩阵乘法指数 ω 恰为 9/4，以及有限傅里叶变换所需线性门数为 N(log N)^{1/2+o(1)} 且有匹配下界。他称“我现在第一次从骨子里觉得，P ≠ NP 的证明不远了”，并表示在没有相反信息时，他默认直接来自 OpenAI 或 Anthropic 的证明是正确的，同时承认人类可能要花数年才能理解这些解答。该文在 Hacker News 获近 800 分。",
+      "source": "Shtetl-Optimized（Scott Aaronson 博客）",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "category": "X 热议",
+      "published_at": "2026-11-26 03:01 SGT",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50646108"
+        }
+      ]
+    },
+    {
+      "id": "amodei-free-will",
+      "title": "阿莫代伊在 X 上回应“让人类向 AI 交出自由意志”指控：“荒谬”，主张在递归自我改进上划线",
+      "original_title": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+      "summary": "Axios 以《对手 AI 领袖反击 Anthropic 让人类交出能动性的愿景》为题报道后，Meta 首席 AI 官 Alexandr Wang、OpenAI 的 Sam Altman 等人公开表态反对“把社会移交给 AI”。阿莫代伊发长帖称“荒谬”，强调 AI 必须受合法的民主程序治理，并区分“具体任务自动化”与“交出人类自由意志”；他建议在无需人类协助的递归自我改进（RSI）上划线，称“我们可能需要对这一过程设限”。该帖获 1.3 万多赞、超 360 万次浏览。",
+      "source": "TechCrunch / X",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "category": "X 热议",
+      "published_at": "2026-11-26 02:22 SGT（X 原帖）",
+      "related": [
+        {
+          "source": "X：@DarioAmodei 原帖",
+          "url": "https://x.com/DarioAmodei/status/2125656399392690605"
+        },
+        {
+          "source": "X：Axios 报道帖",
+          "url": "https://x.com/axios/status/2125532966340239395"
+        }
+      ]
+    },
+    {
+      "id": "huang-no-doj-probe",
+      "title": "路透：司法部在特朗普力推黄仁勋复职前并未对其立案调查；万斯称获保证黄“未受任何调查”",
+      "original_title": "US Justice Department did not open probe into Jensen Huang before reinstatement, sources say",
+      "summary": "路透援引三名知情人士称，美国司法部并未对黄仁勋本人进行正式调查，司法部长 Todd Blanche 是依据对英伟达客户超微电脑和 Megaspeed 的在查案件得出“无证据显示其违法”的结论，且该判断可能随调查推进而改变；也没有针对黄仁勋本人的反间谍调查。副总统万斯周三对记者说，司法部和多名国安官员告诉他黄仁勋“没有受到任何调查”——而特朗普周一曾对 CNBC 说“他们做了相当不错的调查”。黄仁勋将于下周赴国会作证。",
+      "source": "Reuters / CNBC",
+      "url": "https://www.investing.com/news/economy-news/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-sources-say-5051296",
+      "category": "政策监管",
+      "published_at": "2026-11-26 04:28 SGT（CNBC）；路透为 11 月 25 日（美国时间）",
+      "related": [
+        {
+          "source": "CNBC（万斯称获保证黄仁勋未受司法部调查）",
+          "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
+        }
+      ]
+    },
+    {
+      "id": "sp-nvidia-downgrade",
+      "title": "标普考虑下调英伟达信用评级，理由是治理薄弱与“关键人物风险”",
+      "original_title": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+      "summary": "标普全球评级称，黄仁勋被免职又复职暴露出“高管监督薄弱、缺乏接班规划”和“关键人物风险”，预计 90 天内完成审查，可能把英伟达评级从 AA 下调至 AA-。英伟达仍将保持投资级，但降级可能抬高其借贷成本；由于英伟达为新云厂商等基础设施公司提供担保，这些公司的债务也可能变贵或需追加抵押。周三科技股整体走弱，CNBC 称英伟达当日下跌约 4%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "category": "行业动态",
+      "published_at": "2026-11-26 06:44 SGT",
+      "related": [
+        {
+          "source": "CNBC（科技股下跌，Anthropic 难以回到 IPO 价之上）",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-gpus-remote-access-rule",
+      "title": "美国封堵中国企业远程租用先进算力后，市场上待售英伟达 GPU 异常激增",
+      "original_title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+      "summary": "CNBC 援引三名知情人士称，美国商务部 11 月 16 日宣布、19 日生效的临时最终规则限制中国企业通过海外数据中心远程租用先进英伟达芯片后，市场上出现异常大量的英伟达 GPU 待售。AI 基础设施交易平台 GPU Mart 总裁 Jack Duhamel 称激增直接源于新规，已有数千块 B300 寻找买家；卖方原本计划把这些芯片用于供中国企业租用的数据中心。英伟达拒绝置评。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "category": "政策监管",
+      "published_at": "2026-11-26 01:28 SGT"
+    },
+    {
+      "id": "spacex-fcc-starmind",
+      "title": "FCC 批准 SpaceX 部署最多 100 万颗“轨道数据中心”卫星，亚马逊和天文学界曾请求驳回",
+      "original_title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "summary": "FCC 主席 Brendan Carr 宣布批准 SpaceX 的 Starmind 星座计划，允许其在轨部署最多 100 万颗搭载 AI 芯片的计算卫星；他称 Starmind 及竞争对手的星座将利用太阳能“扩大美国在超级智能上的领先”。亚马逊（Kuiper/Amazon Leo）、Viasat 和美国天文学会曾提交驳回请求；FCC 表示驳回了环境、光学天文等其无权管辖的议题。天体物理学家 Adam Becker 批评此举可能引发太空碎片连锁碰撞。",
+      "source": "CNBC / The Verge",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "category": "政策监管",
+      "published_at": "2026-11-26 02:22 SGT",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-grh-lean-shorter",
+      "title": "Anthropic 员工发布更短版黎曼猜想/广义黎曼猜想 Lean 证明：精简版约 7.6 万行，仍无数学家通读",
+      "original_title": "Much shorter version of GRH Lean verification from Anthropic",
+      "summary": "GitHub 仓库 lsernau/grh-lean 发布基于 Alpöge 与 Claude 证明的 Lean 4 版本，覆盖黎曼猜想及狄利克雷 L 函数的广义黎曼猜想，作者称系与 Anthropic 同事及 Claude 合作完成。仓库分为约 30 万行的可读版和约 7.6 万行的精简版，仅依赖 propext、Classical.choice 和 Quot.sound 三条公理。仓库明确写明：证明只通过了机器检查，没有数学家通读过，也没有配套论文。该帖登上 Hacker News 热榜。",
+      "source": "GitHub / Hacker News",
+      "url": "https://github.com/lsernau/grh-lean",
+      "category": "研究突破",
+      "published_at": "2026-11-26 05:48 SGT（Hacker News 发帖时间）",
+      "related": [
+        {
+          "source": "Hacker News 讨论",
+          "url": "https://news.ycombinator.com/item?id=50648050"
+        }
+      ]
+    },
+    {
+      "id": "shane-legg-agi-65",
+      "title": "DeepMind 联合创始人 Shane Legg 上调预期：2028 年前实现“最低限度 AGI”的概率约 65%",
+      "original_title": "I now think it's over 50% likely that we'll have Minimal AGI before 2028.",
+      "summary": "Google DeepMind 联合创始人 Shane Legg 在 X 上回复网友时称，他现在认为 2028 年前出现“最低限度 AGI”的可能性超过 50%，“我们正在接近”；被追问具体数字时他表示目前估计为 65%，明天会和追踪关键指标的人交流后再更新。前一条回复获 1000 多赞、约 11.7 万次浏览。",
+      "source": "X（@ShaneLegg）",
+      "url": "https://x.com/ShaneLegg/status/2125665607840346357",
+      "category": "X 热议",
+      "published_at": "2026-11-26 02:59 SGT",
+      "related": [
+        {
+          "source": "X：Shane Legg 给出 65% 估计的回复",
+          "url": "https://x.com/ShaneLegg/status/2125672365061267760"
+        }
+      ]
+    },
+    {
+      "id": "chatgpt-chat-work-limits",
+      "title": "OpenAI 开始合并 ChatGPT 的 Chat 与 Work 并共用用量额度，承认少数重度用户会更快触顶",
+      "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI 已向一小部分 Pro 用户推送统一的 Chat 与 Work 体验，两者今后共用一个用量计量；使用 Instant 模型的对话仍不限量、不计入额度，额度用完后也可继续用 Instant。OpenAI 发言人对 TechCrunch 表示，大多数用户不会更频繁地重置额度，但少数最重度用户可能更早触顶。按其支持页面，共享额度计划于 12 月更大范围推出；此前已有付费用户在社交媒体和社区论坛担心可用的高级推理额度变少。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "category": "产品更新",
+      "published_at": "2026-11-26 04:03 SGT"
+    },
+    {
+      "id": "character-ai-chat-auction",
+      "title": "42 位州总检察长介入 Character.AI 破产案，阻止其拍卖用户私密聊天记录",
+      "original_title": "Character.AI's plan to auction off users' private chats challenged by state AGs",
+      "summary": "10 月申请破产保护的 Character.AI 计划于 12 月 1 日拍卖用户数据，据各州声明涉及超过 2100 万个美国账户的聊天记录，其中逾 210 万属于未成年人。目前唯一披露的竞标方是 11 月 13 日才在特拉华州成立的匿名公司 Smirks and Pangs Acquisition LLC。由 42 位州总检察长组成的联盟称，Character.AI 曾承诺不出售用户个人信息，买家可随意转售数据且无需遵守其隐私政策；加州总检察长 Bonta 称此举违反联邦和加州法律。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "category": "政策监管",
+      "published_at": "2026-11-26 01:35 SGT"
+    },
+    {
+      "id": "ny-ai-toy-ban",
+      "title": "纽约州禁售内置 AI 聊天机器人的儿童玩具五年，成为继加州之后第二个立法禁止的州",
+      "original_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "纽约州州长霍楚尔本周签署法案，未来五年禁止在纽约制造、分销和销售内嵌 AI 聊天机器人的玩具，法律在签署 90 天后生效，官员称违规罚款高达每天 1.5 万美元。Common Sense Media 本周的研究测试了 5 款热门 AI 玩具，发现它们会声称爱用户、承诺保守秘密，其中 BubblePal Panda 在被要求时详细角色扮演了一场大规模枪击。亚马逊表示将在禁售地区限制 AI 玩具销售。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "category": "政策监管",
+      "published_at": "2026-11-26 02:11 SGT"
+    },
+    {
+      "id": "amazon-meta-muse-talks",
+      "title": "据 Fortune 报道，亚马逊与 Meta 洽谈解除对 AI 购物代理 Muse 的封锁",
+      "original_title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "两个月前 Muse 用户在亚马逊结账时收到报错、无法下单；据 Fortune 援引知情人士报道，两家公司已进行多轮谈判，讨论让 Muse 直接接入亚马逊商城，主要分歧在搜索结果呈现方式和广告如何处理，任何协议都需两家 CEO 批准。亚马逊担心第三方购物代理会削弱其与消费者的直接关系及广告业务。Meta 和亚马逊均未回应 TechCrunch 置评请求。",
+      "source": "TechCrunch / The Verge",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "category": "行业动态",
+      "published_at": "2026-11-25 22:10 SGT",
+      "related": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        }
+      ]
+    },
+    {
+      "id": "mcp-skills-workspace",
+      "title": "MCP 两周年：Anthropic 让 MCP 服务器可附带技能、跑后台任务；谷歌 Workspace MCP 正式可用并要求 AI 代理必须走 MCP",
+      "original_title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "summary": "Anthropic 宣布 Skills over MCP 在 Claude 和 Claude Code 公测，MCP 服务器可随工具一起发布技能（Shopify、HubSpot、Atlassian 已接入），Tasks（后台长任务）和 Elicitation（中途请用户确认）正式可用，另推出把 artifacts 安装为 Mac/Windows 应用的测试功能。同日谷歌宣布 Workspace MCP 服务器和官方 Workspace CLI 正式可用，并规定 AI 代理访问 Workspace 数据必须使用 MCP 而非直接调用 REST API，2027 年 2 月 1 日起技术强制执行。两项发布均为 11 月 24 日（美国时间），此前未收录。",
+      "source": "Anthropic / Google Workspace",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "category": "产品更新",
+      "published_at": "2026-11-24（美国时间）",
+      "related": [
+        {
+          "source": "Google Workspace Updates",
+          "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html"
+        },
+        {
+          "source": "Anthropic（把 artifacts 安装为桌面应用）",
+          "url": "https://claude.com/resources/articles/install-as-app"
+        }
+      ]
+    }
+  ]
+}
